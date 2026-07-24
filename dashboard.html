@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nova Insight</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;background:#0a0f1c;color:#e2e8f0;font-size:13px;line-height:1.5}
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{background:#0a0f1c}
+::-webkit-scrollbar-thumb{background:#1e293b;border-radius:3px}
+.layout{display:flex;height:100vh;overflow:hidden}
+.sidebar{width:220px;flex-shrink:0;background:#111827;border-right:1px solid #1e293b;overflow-y:auto;padding:16px}
+.main{flex:1;display:flex;flex-direction:column;overflow:hidden}
+.header{flex-shrink:0;background:#111827;border-bottom:1px solid #1e293b;padding:12px 20px;display:flex;align-items:center;justify-content:space-between}
+.content{flex:1;overflow-y:auto;padding:20px}
+.logo{display:flex;align-items:center;gap:8px;margin-bottom:20px}
+.logo-icon{width:32px;height:32px;border-radius:8px;background:linear-gradient(135deg,#06b6d4,#8b5cf6);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:bold;font-size:16px}
+.logo-text{font-size:15px;font-weight:700;color:#fff}
+.logo-sub{font-size:11px;color:#64748b}
+.nav-title{font-size:10px;color:#475569;text-transform:uppercase;letter-spacing:0.5px;margin:16px 0 8px;padding-left:8px}
+.nav-item{padding:8px 12px;border-radius:6px;color:#94a3b8;cursor:pointer;transition:.2s;display:flex;align-items:center;gap:8px;font-size:13px;margin-bottom:2px;border-left:2px solid transparent}
+.nav-item:hover{background:rgba(6,182,212,0.08);color:#06b6d4}
+.nav-item.active{background:rgba(6,182,212,0.12);color:#06b6d4;border-left-color:#06b6d4}
+.kpi-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:20px}
+.kpi-card{background:#111827;border:1px solid #1e293b;border-radius:10px;padding:16px;position:relative;overflow:hidden}
+.kpi-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,#06b6d4,#8b5cf6);opacity:.5}
+.kpi-label{font-size:11px;color:#64748b;margin-bottom:4px}
+.kpi-value{font-size:24px;font-weight:700;color:#fff}
+.kpi-change{font-size:11px;color:#10b981;margin-top:4px}
+.card{background:#111827;border:1px solid #1e293b;border-radius:10px;padding:16px;margin-bottom:16px}
+.card-title{font-size:14px;font-weight:700;color:#fff;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.card-title::before{content:'';width:3px;height:14px;background:#06b6d4;border-radius:2px}
+.tabs{display:flex;gap:4px;background:#0a0f1c;padding:3px;border-radius:6px}
+.tab{padding:5px 14px;border-radius:4px;font-size:12px;cursor:pointer;color:#64748b;border:none;background:transparent}
+.tab.active{background:rgba(6,182,212,0.15);color:#06b6d4}
+.tag{display:inline-flex;align-items:center;padding:2px 8px;border-radius:10px;font-size:11px;margin:2px}
+.tag-cyan{background:rgba(6,182,212,0.12);color:#06b6d4;border:1px solid rgba(6,182,212,0.2)}
+.tag-green{background:rgba(16,185,129,0.12);color:#34d399;border:1px solid rgba(16,185,129,0.2)}
+.tag-orange{background:rgba(245,158,11,0.12);color:#fbbf24;border:1px solid rgba(245,158,11,0.2)}
+.tag-red{background:rgba(244,63,94,0.12);color:#fb7185;border:1px solid rgba(244,63,94,0.2)}
+.tag-purple{background:rgba(139,92,246,0.12);color:#a78bfa;border:1px solid rgba(139,92,246,0.2)}
+.tag-gray{background:rgba(148,163,184,0.12);color:#94a3b8;border:1px solid rgba(148,163,184,0.2)}
+table{width:100%;border-collapse:collapse;font-size:12px}
+th{text-align:left;padding:8px 10px;color:#64748b;font-weight:500;border-bottom:1px solid #1e293b;white-space:nowrap}
+td{padding:8px 10px;border-bottom:1px solid rgba(30,41,59,0.4);color:#cbd5e1}
+tr:hover td{background:rgba(6,182,212,0.03)}
+.num{font-variant-numeric:tabular-nums}
+.bar-bg{height:6px;background:#1e293b;border-radius:3px;overflow:hidden;display:inline-block;width:50px;vertical-align:middle;margin-right:6px}
+.bar-fill{height:100%;border-radius:3px}
+.section{display:none}
+.section.active{display:block}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.css-bar-chart{padding:8px 0}
+.css-bar-row{display:flex;align-items:center;margin-bottom:8px;font-size:12px}
+.css-bar-label{width:110px;color:#94a3b8;text-align:right;padding-right:10px;flex-shrink:0}
+.css-bar-track{flex:1;height:24px;background:#1e293b;border-radius:4px;overflow:hidden;position:relative}
+.css-bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding-left:8px;color:#fff;font-size:11px;font-weight:500}
+.css-bar-value{margin-left:8px;color:#94a3b8;min-width:50px}
+.heatmap-table{width:100%;border-collapse:separate;border-spacing:2px}
+.heatmap-table th{padding:6px 4px;font-size:11px;color:#94a3b8;text-align:center;background:#0a0f1c}
+.heatmap-table td{width:40px;height:32px;text-align:center;font-size:12px;font-weight:600;border-radius:3px;color:#fff}
+.h1{background:#0f172a;color:#475569}
+.h2{background:#1e3a5f;color:#60a5fa}
+.h3{background:#0e4a6e;color:#22d3ee}
+.h4{background:#065f46;color:#34d399}
+.h5{background:#92400e;color:#fbbf24}
+.h6{background:#7f1d1d;color:#fca5a5}
+.h7{background:#9f1239;color:#fb7185}
+.h8{background:#581c87;color:#c084fc}
+.h9{background:#be123c;color:#f43f5e}
+.matrix-wrap{position:relative;height:400px;background:#0a0f1c;border:1px solid #1e293b;border-radius:10px;overflow:hidden}
+.matrix-wrap .ax{position:absolute;bottom:30px;left:60px;right:30px;height:1px;background:#334155}
+.matrix-wrap .ay{position:absolute;left:60px;top:30px;bottom:30px;width:1px;background:#334155}
+.matrix-wrap .lx{position:absolute;left:60px;right:30px;height:1px;background:#334155;opacity:.4}
+.matrix-wrap .ly{position:absolute;top:30px;bottom:30px;width:1px;background:#334155;opacity:.4}
+.matrix-wrap .lbl-x{position:absolute;bottom:8px;left:50%;transform:translateX(-50%);font-size:11px;color:#64748b}
+.matrix-wrap .lbl-y{position:absolute;left:12px;top:50%;transform:translateY(-50%) rotate(-90deg);font-size:11px;color:#64748b;white-space:nowrap}
+.matrix-wrap .zone{position:absolute;font-size:12px;color:#475569;font-weight:600}
+.matrix-wrap .bub{position:absolute;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;color:#fff;font-weight:600;text-align:center;line-height:1.2;cursor:pointer;transition:all .2s;box-shadow:0 2px 8px rgba(0,0,0,0.4)}
+.matrix-wrap .bub:hover{transform:scale(1.2);z-index:100;box-shadow:0 4px 16px rgba(0,0,0,0.6)}
+.radar-svg{width:100%;height:360px;display:block}
+.radar-legend{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:8px;font-size:11px}
+.radar-legend-item{display:flex;align-items:center;gap:4px}
+.line-chart-svg{width:100%;height:300px;display:block}
+.concept-card{background:#111827;border:1px solid #1e293b;border-radius:10px;padding:16px;margin-bottom:12px}
+.concept-card:hover{border-color:#06b6d4}
+.alert-card{background:#111827;border-left:3px solid;border-radius:0 8px 8px 0;padding:12px 16px;margin-bottom:10px}
+.alert-high{border-left-color:#f43f5e}
+.alert-med{border-left-color:#f59e0b}
+.signal-row{display:flex;align-items:center;gap:10px;padding:10px 12px;background:#0a0f1c;border-radius:6px;margin-bottom:6px;border:1px solid #1e293b}
+.tooltip{position:fixed;background:#1e293b;border:1px solid #334155;border-radius:8px;padding:10px 14px;font-size:12px;color:#e2e8f0;pointer-events:none;z-index:1000;display:none;box-shadow:0 4px 20px rgba(0,0,0,0.5);max-width:240px;line-height:1.6}
+.tooltip strong{color:#fff;display:block;margin-bottom:4px;font-size:13px}
+.voice-card{background:#0a0f1c;border:1px solid #1e293b;border-radius:8px;padding:12px 14px;margin-bottom:8px}
+.voice-tags{margin-bottom:6px}
+.voice-text{font-size:13px;color:#cbd5e1;line-height:1.6;font-style:italic}
+.voice-meta{display:flex;gap:12px;margin-top:6px;font-size:11px;color:#64748b}
+.sentiment-bar{display:flex;height:20px;border-radius:4px;overflow:hidden;font-size:10px;margin-bottom:10px}
+.sentiment-seg{display:flex;align-items:center;justify-content:center;color:#fff;font-weight:500}
+.cross-card{background:#111827;border:1px solid #1e293b;border-radius:10px;padding:14px;margin-bottom:10px;transition:.2s}
+.cross-card:hover{border-color:#06b6d4}
+.analysis-box{background:#0a0f1c;border-left:3px solid #06b6d4;padding:10px 14px;border-radius:0 8px 8px 0;margin-top:10px;font-size:12px;color:#94a3b8}
+@keyframes pd{0%{transform:scale(.7);opacity:1}100%{transform:scale(2.2);opacity:0}}
+
+.persona-card{background:#111827;border:1px solid #1e293b;border-radius:16px;padding:20px;margin-bottom:16px}
+.persona-header{display:flex;align-items:center;gap:12px;margin-bottom:16px}
+.persona-avatar{width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,#3b82f6,#8b5cf6);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:16px;flex-shrink:0}
+.persona-name{font-size:15px;font-weight:700;color:#fff}
+.quote{background:#0f172a;border-left:3px solid #3b82f6;border-radius:0 12px 12px 0;padding:14px 16px;font-size:13px;color:#94a3b8;line-height:1.7;margin-bottom:16px}
+.emotion-tags{display:flex;flex-wrap:wrap;gap:6px}
+.section-label{font-size:11px;color:#64748b;margin-bottom:8px;font-weight:600}
+
+</style>
+</head>
+<body>
+<div class="tooltip" id="tip"></div>
+<div class="layout">
+<div class="sidebar">
+<div class="logo"><div class="logo-icon">N</div><div><div class="logo-text">Nova <span style="color:#06b6d4">Insight</span></div><div class="logo-sub">原料级机会洞察</div></div></div>
+<div class="nav-title">核心观测</div>
+<div class="nav-item active" onclick="go('overview',this)">&#128202; 总览仪表盘</div>
+<div class="nav-item" onclick="go('demand',this)">&#128293; 需求场景洞察</div>
+<div class="nav-item" onclick="go('crowd',this)">&#128101; 人群深度画像</div>
+<div class="nav-item" onclick="go('ingredient',this)">&#128300; 原料机会全景</div>
+<div class="nav-item" onclick="go('cross',this)">&#127760; 跨行业雷达</div>
+<div class="nav-title">数据工具</div>
+<div class="nav-item" onclick="go('signal',this)">&#128225; 实时信号</div>
+<div class="nav-item" onclick="go('alert',this)">&#128276; 预警中心 <span id="alertCount" style="margin-left:auto;background:#f43f5e;color:#fff;padding:1px 6px;border-radius:10px;font-size:10px">0</span></div>
+<div style="background:#0a0f1c;border:1px solid #1e293b;border-radius:8px;padding:12px;margin-top:16px">
+<div style="font-size:11px;color:#64748b;margin-bottom:8px;font-weight:600">数据源状态</div>
+<div style="display:flex;justify-content:space-between;align-items:center;font-size:11px;color:#64748b;margin-bottom:6px"><span>小红书</span><span><span style="width:6px;height:6px;border-radius:50%;background:#10b981;display:inline-block;margin-right:4px"></span>正常</span></div>
+<div style="display:flex;justify-content:space-between;align-items:center;font-size:11px;color:#64748b"><span>行业数据库</span><span><span style="width:6px;height:6px;border-radius:50%;background:#f59e0b;display:inline-block;margin-right:4px"></span>同步中</span></div>
+</div>
+</div>
+<div class="main">
+<div class="header">
+<div style="font-size:12px;color:#64748b">&#128308; 数据实时同步中 &#183; 最后更新 2026-07-24 16:50</div>
+<div style="display:flex;gap:8px;align-items:center">
+<div class="tabs" id="gTabs">
+<button class="tab active" onclick="swT(7,this)">近7天</button>
+<button class="tab" onclick="swT(30,this)">近30天</button>
+</div>
+<button style="padding:6px 14px;background:linear-gradient(90deg,#06b6d4,#3b82f6);color:#fff;border:none;border-radius:6px;font-size:12px;cursor:pointer">&#10024; 智能分析</button>
+</div>
+</div>
+<div class="content">
+
+<!-- 总览仪表盘 -->
+<div class="section active" id="overview">
+<div class="kpi-grid">
+<div class="kpi-card"><div class="kpi-label">监控类目数</div><div class="kpi-value" id="ovCategory">0</div><div class="kpi-change">实时帖子聚合</div></div>
+<div class="kpi-card"><div class="kpi-label">机会缺口类目</div><div class="kpi-value" id="ovOpportunity" style="color:#f43f5e">0</div><div style="font-size:11px;color:#64748b;margin-top:4px">高讨论&#215;低满足</div></div>
+<div class="kpi-card"><div class="kpi-label">总互动量</div><div class="kpi-value" style="color:#06b6d4" id="ovInteract">18.6万</div><div class="kpi-change" id="ovIc">&#8593; +23.5%</div></div>
+<div class="kpi-card"><div class="kpi-label">人群画像数</div><div class="kpi-value" id="ovCrowd" style="color:#8b5cf6">0</div><div style="font-size:11px;color:#64748b;margin-top:4px">核心 segments</div></div>
+<div class="kpi-card"><div class="kpi-label">原料监控数</div><div class="kpi-value" id="ovIngredient" style="color:#10b981">0</div><div class="kpi-change" id="ovIng">实时更新</div></div>
+</div>
+
+<div class="grid-2">
+<div class="card"><div class="card-title">类目讨论热度排名</div><div class="css-bar-chart" id="catRankChart"></div></div>
+<div class="card"><div class="card-title">类目满意度对比</div><div class="css-bar-chart" id="catSatChart"></div></div>
+</div>
+
+<div class="card">
+<div class="card-title">机会缺口判定矩阵</div>
+<div class="matrix-wrap" id="ovMatrix">
+<div class="ax"></div><div class="ay"></div>
+<div class="lx" style="bottom:200px"></div><div class="ly" style="left:50%"></div>
+<div class="lbl-x">讨论热度 &#8594;</div><div class="lbl-y">&#8592; 市场满足度</div>
+<div class="zone" style="right:30px;top:30px">红海成熟区</div>
+<div class="zone" style="left:80px;top:30px">小众精品区</div>
+<div class="zone" style="right:30px;bottom:50px;color:#f43f5e">&#9733; 机会缺口区</div>
+<div class="zone" style="left:80px;bottom:50px">待培育区</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-title">各类目详细数据</div>
+<table><thead><tr><th>类目</th><th>热度</th><th>互动量</th><th>正向</th><th>负面</th><th>满足度</th><th>缺口分</th><th>场景</th><th>判定</th></tr></thead>
+<tbody id="catTable"></tbody></table>
+</div>
+
+<div class="card">
+<div class="card-title">类目 TOP 产品满意度监控</div>
+<table><thead><tr><th>类目</th><th>TOP产品</th><th>提及</th><th>满意度</th><th>好评</th><th>差评</th></tr></thead>
+<tbody id="catProductTable"></tbody></table>
+</div>
+</div>
+
+<!-- 需求场景洞察 -->
+<div class="section" id="demand">
+<div class="grid-2">
+<div class="card"><div class="card-title">需求场景热度 TOP5</div><div class="css-bar-chart" id="demandHeatTop"></div></div>
+<div class="card"><div class="card-title">需求场景增速 TOP5</div><div class="css-bar-chart" id="demandGrowthTop"></div></div>
+</div>
+<div class="card"><div class="card-title">需求情绪细分</div><div id="demandSentimentBars"></div></div>
+<div class="card"><div class="card-title">高价值需求原声</div><div id="voiceCards"></div></div>
+<div class="card"><div class="card-title">痛点结构拆解</div><table><thead><tr><th>痛点类型</th><th>帖子数</th><th>互动量</th><th>关联类目</th></tr></thead><tbody id="painBreakdown"></tbody></table></div>
+</div>
+
+<!-- 人群深度画像 -->
+<div class="section" id="crowd">
+<div class="card">
+<div class="card-title">核心人群五维画像雷达</div>
+<svg class="radar-svg" viewBox="0 0 600 340" id="radarSvg"></svg>
+<div class="radar-legend" id="radarLegend"></div>
+</div>
+<div id="crowdCards"></div>
+</div>
+
+<!-- 原料机会全景 -->
+<div class="section" id="ingredient">
+<div class="card">
+<div class="card-title">原料热度趋势 TOP5</div>
+<svg class="line-chart-svg" viewBox="0 0 700 300" id="trendSvg"></svg>
+<div style="display:flex;justify-content:center;gap:20px;margin-top:8px;font-size:11px" id="trendLegend"></div>
+</div>
+<div class="card">
+<div class="card-title">原料机会详表</div>
+<table><thead><tr><th>原料</th><th>热度</th><th>增速</th><th>负面</th><th>机会分</th><th>关联需求</th><th>关联人群</th><th>覆盖度</th></tr></thead>
+<tbody id="ingTable"></tbody></table>
+</div>
+</div>
+
+<!-- 跨行业雷达 -->
+<div class="section" id="cross">
+<div class="card"><div class="card-title">全行业近期情报</div><div style="font-size:12px;color:#64748b;margin:-4px 0 12px">来自真实资讯、热榜或行业数据；不限定保健品行业</div><div id="crossCards"></div></div>
+<div class="grid-2"><div class="card"><div class="card-title">跨行业热搜词</div><div id="crossKeywords"></div></div><div class="card"><div class="card-title">行业趋势信号</div><div id="crossSignals"></div></div></div>
+<div class="card"><div class="card-title">迁移到保健品的创新机会</div><div style="font-size:12px;color:#64748b;margin:-4px 0 12px">仅基于上述事件和热搜词提出可验证的产品、渠道、沟通或体验启发</div><div id="crossIdeas"></div></div>
+</div>
+
+<!-- 实时信号 -->
+<div class="section" id="signal">
+<div class="card"><div class="card-title">24h 实时需求信号</div><div id="signalStream"></div></div>
+</div>
+
+<!-- 预警 -->
+<div class="section" id="alert"><div id="alertList"></div></div>
+
+</div></div></div>
+
+<script>
+const tip=document.getElementById('tip');
+function showT(e,t){tip.innerHTML=t;tip.style.display='block';tip.style.left=(e.clientX+12)+'px';tip.style.top=(e.clientY-10)+'px';}
+function hideT(){tip.style.display='none';}
+let gTime=7;
+function swT(d,el){gTime=d;document.querySelectorAll('#gTabs .tab').forEach(t=>t.classList.remove('active'));if(el)el.classList.add('active');renderAll();}
+function go(id,el){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));if(el)el.classList.add('active');}
+function opp(v){return v>=8.5?'★★★高':v>=6.5?'★★☆中':'★☆☆低'}
+function tm(){return 1;}
+
+let categories=[{"name":"护肝","heat":25,"interactions":1297,"sat":86,"pos":44,"neg":8,"scene":"熬夜恢复","opp":7.3},{"name":"睡眠","heat":15,"interactions":538,"sat":17,"pos":0,"neg":33,"scene":"睡眠放松","opp":7.1},{"name":"美白","heat":13,"interactions":322,"sat":65,"pos":23,"neg":8,"scene":"内服焕肤","opp":5.9},{"name":"胶原蛋白","heat":9,"interactions":189,"sat":72,"pos":22,"neg":0,"scene":"内服焕肤","opp":5.1},{"name":"益生菌*成人*女性呵护","heat":3,"interactions":57,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.4},{"name":"美容抗衰","heat":3,"interactions":188,"sat":83,"pos":33,"neg":0,"scene":"其他使用场景","opp":4.4},{"name":"益生菌*儿童*肠胃呵护","heat":2,"interactions":2,"sat":100,"pos":50,"neg":0,"scene":"肠道调理","opp":4.2},{"name":"答疑","heat":1,"interactions":4,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.1},{"name":"身高发育","heat":1,"interactions":0,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.1}];
+
+let scenes=["熬夜恢复","内服焕肤","睡眠放松","肠道调理","其他使用场景","情绪压力"];
+let heatmapData=[[8,1,1,1,1,1],[1,1,8,1,1,1],[1,8,1,1,1,1],[1,9,1,1,1,1],[1,1,1,9,1,1],[1,3,1,1,6,1],[1,1,1,9,1,1],[1,1,1,9,1,1],[1,1,1,9,1,1]];
+
+let crowds=[{"n":"未识别人群","a":"未标注","pct":83,"posts":57,"quote":"30岁熬夜党自救，内在护肝才是顶级保养 高净值女性的身体管理，从来不是等身体发出明显信号再仓促补救。 我对自己有一个标准：由内到外，每一处养护都不敷衍。 但有一  ","kw":{"烟酰胺":13,"褪黑素":12,"水解胶原蛋白肽":11},"prods":{},"factor":{"价格敏感度":10,"成分专业度":11,"品牌忠诚度":11,"口感要求":10,"便捷性":11},"emo":["护肝片","女性护肝","护肝片测评","益生菌","褪黑素","白番茄美白饮"],"radar":[10,11,11,10,11],"priority":[{"label":"讨论最多","need":"内服焕肤","value":"20 篇"},{"label":"负面最高","need":"睡眠放松","value":"45%"},{"label":"互动最强","need":"熬夜恢复","value":"556"}]},{"n":"职场","a":"未标注","pct":12,"posts":8,"quote":"职场熬夜中女误闯天家！温姐姐护肝是真有招 奔三职场中女，熬夜后的状态经常跟不上 工作压力稍微一大，就动不动炸毛 ✍🏻后来做了不少功课才知道： 外在的暗沉憔悴，问  ","kw":{"奶蓟草提取物":6,"奶蓟草":3},"prods":{},"factor":{"价格敏感度":10,"成分专业度":12,"品牌忠诚度":10,"口感要求":10,"便捷性":12},"emo":["护肝片","年纪大了护肝","绝对不能马虎","加班","女性护肝","买了之后口苦"],"radar":[10,12,10,10,12],"priority":[{"label":"讨论最多","need":"熬夜恢复","value":"7 篇"},{"label":"负面最高","need":"熬夜恢复","value":"0%"},{"label":"互动最强","need":"情绪压力","value":"723"}]},{"n":"宝妈·育儿","a":"未标注","pct":3,"posts":2,"quote":"0-1岁新生儿宝宝的益生菌自用分享 #益生菌 #益生菌推荐婴幼儿 #益生菌推荐 #宝宝益生菌推荐 #婴儿益生菌推荐小月龄 #宝宝便秘 #宝宝便秘吃的益生菌  ","kw":{},"prods":{},"factor":{"价格敏感度":10,"成分专业度":10,"品牌忠诚度":10,"口感要求":10,"便捷性":10},"emo":["益生菌","岁新生儿宝宝","的益生菌自用","分享","益生菌推荐婴","幼儿"],"radar":[10,10,10,10,10],"priority":[{"label":"讨论最多","need":"肠道调理","value":"2 篇"},{"label":"负面最高","need":"肠道调理","value":"0%"},{"label":"互动最强","need":"肠道调理","value":"2"}]},{"n":"学生","a":"未标注","pct":3,"posts":2,"quote":"备考人进！睡得好才能打持久战! 有没有跟我一样越到考前越睡不着的，脑子里全是错题和没背到的题，越想睡越睡不着。 之前试过好几个方法，喝热牛奶、吃褪黑素  ","kw":{"褪黑素":2},"prods":{},"factor":{"价格敏感度":10,"成分专业度":10,"品牌忠诚度":10,"口感要求":10,"便捷性":10},"emo":["记录一下最近","半年吃的两款","助眠褪黑素","我吃褪黑素主","要是因为平时","备考学习压力"],"radar":[10,10,10,10,10],"priority":[{"label":"讨论最多","need":"睡眠放松","value":"2 篇"},{"label":"负面最高","need":"睡眠放松","value":"0%"},{"label":"互动最强","need":"睡眠放松","value":"42"}]}];
+
+let ingredients=[{"n":"褪黑素","s":"帖子未提及规格","h":14,"g":null,"neg":36,"opp":8.8,"needs":["睡眠放松","其他使用场景"],"crowds":["未识别人群","学生"],"cover":20},{"n":"烟酰胺","s":"帖子未提及规格","h":13,"g":null,"neg":8,"opp":7.1,"needs":["内服焕肤","其他使用场景","熬夜恢复"],"crowds":["未识别人群"],"cover":19},{"n":"奶蓟草提取物","s":"帖子未提及规格","h":11,"g":null,"neg":9,"opp":6.6,"needs":["熬夜恢复","情绪压力"],"crowds":["职场","未识别人群"],"cover":16},{"n":"水解胶原蛋白肽","s":"帖子未提及规格","h":11,"g":null,"neg":0,"opp":6.1,"needs":["内服焕肤","其他使用场景"],"crowds":["未识别人群"],"cover":16},{"n":"胶原蛋白","s":"帖子未提及规格","h":9,"g":null,"neg":0,"opp":5.6,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":13},{"n":"胶原蛋白肽","s":"帖子未提及规格","h":8,"g":null,"neg":0,"opp":5.3,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":12},{"n":"奶蓟草","s":"帖子未提及规格","h":6,"g":null,"neg":0,"opp":4.7,"needs":["熬夜恢复"],"crowds":["职场","未识别人群"],"cover":9},{"n":"麦角硫因","s":"帖子未提及规格","h":2,"g":null,"neg":0,"opp":3.6,"needs":["其他使用场景"],"crowds":["未识别人群"],"cover":3},{"n":"低聚果糖","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"益生元","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"柠檬酸钙","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"钙","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"胶原肽","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":1}];
+
+// 趋势数据按原料索引顺序
+const trendData7={"days":["6天前","5天前","4天前","3天前","2天前","1天前"],"data":[[14,14,14,14,11,9],[13,13,13,13,12,10],[10,10,10,9,7,3],[11,11,11,11,10,9],[9,9,9,9,8,8]],"colors":["#f43f5e","#8b5cf6","#06b6d4","#10b981","#f59e0b"]};
+const trendData30={"days":["30天前","25天前","20天前","15天前","10天前","5天前"],"data":[[14,14,14,14,14,14],[13,13,13,13,13,13],[11,11,11,11,11,10],[11,11,11,11,11,11],[9,9,9,9,9,9]],"colors":["#f43f5e","#8b5cf6","#06b6d4","#10b981","#f59e0b"]};
+const trendData90={days:['4/18','5/18','6/18','7/17'],
+data:[[1800,2500,3800,4600],[1600,2200,3000,3600],[1400,1800,2300,2700],[1000,1200,1500,1980],[800,950,1200,1450],[700,850,1000,1280],[600,750,900,1180]],
+colors:['#f43f5e','#8b5cf6','#06b6d4','#10b981','#f59e0b','#ec4899','#6366f1']};
+
+const dg7=[{"s":"褪黑素","g":null,"h":14},{"s":"烟酰胺","g":null,"h":13},{"s":"奶蓟草提取物","g":null,"h":11},{"s":"水解胶原蛋白肽","g":null,"h":11},{"s":"胶原蛋白","g":null,"h":9}];
+const dg30=[{"s":"褪黑素","g":null,"h":14},{"s":"烟酰胺","g":null,"h":13},{"s":"奶蓟草提取物","g":null,"h":11},{"s":"水解胶原蛋白肽","g":null,"h":11},{"s":"胶原蛋白","g":null,"h":9}];
+const dg90=[{s:'益生菌肠胃',g:148,h:125600},{s:'口服抗衰胶原蛋白',g:126,h:86400},{s:'奶蓟草护肝',g:112,h:98700},{s:'非激素助眠',g:98,h:76800},{s:'鱼油Omega3',g:76,h:82300}];
+const dh7=[{"s":"熬夜恢复","h":23},{"s":"内服焕肤","h":20},{"s":"睡眠放松","h":13},{"s":"肠道调理","h":8},{"s":"其他使用场景","h":3},{"s":"情绪压力","h":2}];
+const dh30=[{"s":"熬夜恢复","h":23},{"s":"内服焕肤","h":20},{"s":"睡眠放松","h":13},{"s":"肠道调理","h":8},{"s":"其他使用场景","h":5},{"s":"护眼用脑","h":4},{"s":"情绪压力","h":2}];
+const dh90=[{s:'口服抗衰',h:86400},{s:'肠胃调理',h:125600},{s:'熬夜护肝',h:98700},{s:'非激素助眠',h:76800},{s:'情绪/焦虑',h:58600}];
+
+const sceneSentiment7=[{"s":"熬夜恢复","pos":43,"neu":48,"neg":9,"c":23},{"s":"内服焕肤","pos":20,"neu":75,"neg":5,"c":20},{"s":"睡眠放松","pos":0,"neu":62,"neg":38,"c":13},{"s":"肠道调理","pos":25,"neu":75,"neg":0,"c":8},{"s":"其他使用场景","pos":33,"neu":67,"neg":0,"c":3},{"s":"情绪压力","pos":50,"neu":50,"neg":0,"c":2}];
+const sceneSentiment30=[{"s":"熬夜恢复","pos":43,"neu":48,"neg":9,"c":23},{"s":"内服焕肤","pos":20,"neu":75,"neg":5,"c":20},{"s":"睡眠放松","pos":0,"neu":62,"neg":38,"c":13},{"s":"肠道调理","pos":25,"neu":75,"neg":0,"c":8},{"s":"其他使用场景","pos":20,"neu":60,"neg":20,"c":5},{"s":"护眼用脑","pos":50,"neu":50,"neg":0,"c":4},{"s":"情绪压力","pos":50,"neu":50,"neg":0,"c":2}];
+const sceneSentiment90=[{s:'熬夜护肝',pos:35,neu:27,neg:38,c:98700},{s:'非激素助眠',pos:60,neu:22,neg:18,c:76800},{s:'情绪/焦虑',pos:25,neu:22,neg:53,c:58600},{s:'补气血',pos:64,neu:22,neg:14,c:34800},{s:'肠胃调理',pos:39,neu:27,neg:34,c:125600},{s:'屏幕护眼',pos:62,neu:23,neg:15,c:38900},{s:'口服抗衰',pos:43,neu:30,neg:27,c:86400}];
+
+const voices7=[{"u":"职场熬夜中女误闯天家！温姐姐护肝是真有招 奔三职场中女，熬夜后的状态经常跟不上 工作压力稍微一大，就动不动炸毛 ✍🏻后来做了不少功课才知道： 外在的暗沉憔悴，问  ","i":"护肝","l":723},{"u":"30岁熬夜党自救，内在护肝才是顶级保养 高净值女性的身体管理，从来不是等身体发出明显信号再仓促补救。 我对自己有一个标准：由内到外，每一处养护都不敷衍。 但有一  ","i":"护肝","l":391},{"u":"这一刻深刻感受到用对内服的重要性 终于挖到可以长期坚持吃的提亮胶囊啦啦啦🥰 瑟琳奇麦角硫因，基本上每吃完一瓶都能收获不一样的惊喜。重点是！素颜真的敢原相  ","i":"美容抗衰","l":165},{"u":"别乱买！nuviline四款对比我来说说 ▪️Nuviline闪充胶原蛋白肽粉 ▪️Nuviline睡眠小蓝罐 ▪️Nuviline盈发小黄罐 ▪️Nuvilin  ","i":"胶原蛋白,睡眠","l":160},{"u":"一分钟哄睡asmr 失眠星人的“褪黑素”！ #asmr  #助眠  #声控  #声控助眠  #解压助眠  #沉浸式享受  #助眠解压伴你入睡  ","i":"睡眠","l":138},{"u":"自用美白内服好物分享 都是我自己买来吃的，看P3 挺多人催我出怎么变白的笔记，翻了下购买记录，发现这些年在内服上花了不少💰。 那我就把我吃的  ","i":"美白","l":122},{"u":"吃护肝片的90天的真实反应 这篇想给和我情况差不多的朋友作参考： 作为一个资深熬夜党+996打工人，作息几乎跟着美国走，每周都应付不完的酒局聚餐，结  ","i":"护肝","l":110},{"u":"打卡内服30天！匀净透亮的脸蛋终于吻了上来 谁懂啊家人们！坚持内服分层阻黑之后，皮肤真的由内透出通透光泽感！ 最近一直在吃超级元料超光子胶囊，夏天色差分层、熬夜发黄  ","i":"美白","l":104},{"u":"多吃这12种天然褪黑素❗️一觉睡到亮 姐妹们，有没有那种躺床上翻来覆去就是睡不着的时刻？眼睛瞪得像铜铃，脑子像放电影……我之前也是这样，后来被安利了一堆助眠食  ","i":"睡眠","l":61},{"u":"开喷美白饮2巨头，啥都说（纯素人分享） 两个都是美白饮，功效人群感受喝下来都不同，黄黑皮的姐妹们不要再纠结跟风踩雷了，根据自身情况理性参考哈 - ✅核心成分  ","i":"美白","l":58}];
+const voices30=[{"u":"宝宝频繁揉眼？叶黄素护眼别忽视 总看到娃揉眼睛、眯眼看东西，宝妈真的要上心！ 日常强光、看绘本、电子屏都在伤眼底 叶黄素是宝宝护眼刚需，能过滤有害蓝光  ","i":"眼健康","l":21240},{"u":"备考党必入｜凌晨刷题不心慌✨ 考研、考公、期末复习经常熬到深夜，心慌、精神不集中成了常态 Healthy Care澳世康辅酶Q10真的救大命！ 50m  ","i":"护心","l":1210},{"u":"无限回购儿童叶黄素，带娃护眼我认准这一款 慕慕上幼儿园之后，每天翻看绘本📖、上线上课👩🏻‍💻，还会偶尔看动画，用眼👀次数比之前大幅增加。现在的小孩戴  ","i":"眼健康","l":949},{"u":"长假护眼别忽视，选对叶黄素是关键！ 这种大长假就是有喜有忧的，蓝光接触时间增长大户外时间减少……而且像我家这种重度盯屏娃，就很担心孩子早早戴上🕶。想要强制  ","i":"眼健康","l":730},{"u":"职场熬夜中女误闯天家！温姐姐护肝是真有招 奔三职场中女，熬夜后的状态经常跟不上 工作压力稍微一大，就动不动炸毛 ✍🏻后来做了不少功课才知道： 外在的暗沉憔悴，问  ","i":"护肝","l":723},{"u":"选儿童叶黄素就得选官方认可的才安心 之前带娃去视力检测，我家娃的视力储备降到25，把我吓了一大跳，要知道其实平时我都已经很严格控制她看电子设备的时间，而且每  ","i":"眼健康","l":640},{"u":"纯素人，记录自己用过的阻断片 👈🏻左:Swisse白芸豆 这个确实很有名，💰也不算便宜。我想通过这个管住嘴，不是很想运动，况且白芸豆成分不就是这  ","i":"阻断","l":624},{"u":"30岁熬夜党自救，内在护肝才是顶级保养 高净值女性的身体管理，从来不是等身体发出明显信号再仓促补救。 我对自己有一个标准：由内到外，每一处养护都不敷衍。 但有一  ","i":"护肝","l":391},{"u":"这一刻深刻感受到用对内服的重要性 终于挖到可以长期坚持吃的提亮胶囊啦啦啦🥰 瑟琳奇麦角硫因，基本上每吃完一瓶都能收获不一样的惊喜。重点是！素颜真的敢原相  ","i":"美容抗衰","l":165},{"u":"别乱买！nuviline四款对比我来说说 ▪️Nuviline闪充胶原蛋白肽粉 ▪️Nuviline睡眠小蓝罐 ▪️Nuviline盈发小黄罐 ▪️Nuvilin  ","i":"胶原蛋白,睡眠","l":160}];
+const voices90=[
+{u:'吃了大半年益生菌，便秘真的好了很多，现在肠胃很稳定，不会动不动就拉肚子',i:'益生菌,肠胃调理',l:1876},
+{u:'软糖剂型保健品真的太友好了，像吃糖一样就把营养补了，再也不用吞大药片了',i:'零食化剂型,软糖',l:1234},
+{u:'补铁真的会改善气色！之前脸色蜡黄，喝了一个月铁剂现在素颜都有血色了',i:'螯合铁,补气血',l:924}
+];
+
+let concepts=[{"t":"睡眠放松、其他使用场景 · 褪黑素解决方案","gap":"真实帖子中有 14 篇关联讨论，负面率 36%。","ing":["褪黑素","烟酰胺"],"form":"软糖","price":"","target":"未识别人群、学生","match":88,"ana":"睡眠放松、其他使用场景 是该原料的高频关联需求；褪黑素 讨论量 14、负面率 36%。","opp":8.8},{"t":"内服焕肤、其他使用场景、熬夜恢复 · 烟酰胺解决方案","gap":"真实帖子中有 13 篇关联讨论，负面率 8%。","ing":["烟酰胺","奶蓟草提取物"],"form":"饮品","price":"","target":"未识别人群","match":71,"ana":"内服焕肤、其他使用场景、熬夜恢复 是该原料的高频关联需求；烟酰胺 讨论量 13、负面率 8%。","opp":7.1},{"t":"熬夜恢复、情绪压力 · 奶蓟草提取物解决方案","gap":"真实帖子中有 11 篇关联讨论，负面率 9%。","ing":["奶蓟草提取物","水解胶原蛋白肽"],"form":"","price":"","target":"职场、未识别人群","match":66,"ana":"熬夜恢复、情绪压力 是该原料的高频关联需求；奶蓟草提取物 讨论量 11、负面率 9%。","opp":6.6},{"t":"内服焕肤、其他使用场景 · 水解胶原蛋白肽解决方案","gap":"真实帖子中有 11 篇关联讨论，负面率 0%。","ing":["水解胶原蛋白肽","褪黑素"],"form":"饮品","price":"","target":"未识别人群","match":61,"ana":"内服焕肤、其他使用场景 是该原料的高频关联需求；水解胶原蛋白肽 讨论量 11、负面率 0%。","opp":6.1}];
+
+let competitors=[];
+
+const crossIndustries=[{"i":"汽车与新能源","h":0.0,"t":"大型 SUV 怎么选？等等小米出新款！","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"两台纯电轿车，五万差价藏在哪","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"阳光，一台车，出门去","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"假如主流新能源品牌都做 FUV","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"20多万纯电轿跑到底怎么选？","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"极氪8X耀影版首批车主心寒维权！","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"no one is coming,我活成了自己的理想型","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"纠结 15 万电车？深蓝小鹏海豹真实横评","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"新车免费体验｜新能源新车们都卷起来了！","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"喜提A10｜被开心填满的提车日","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"新车可以自己查电池衰减度！","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"帅是一辈子的事儿","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"一图看懂「领克07GT」配置差异","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"比亚迪终于去登味了，4款高颜值轿车怎么选⁉️","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"白色的小米澎程N90曝光","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"首辆小鹏L03提车—上牌全过程","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"温州提车了！！恭喜牛🐮有了新的马","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"全新一代smart #1 200+项升级新奢大不一样","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"没有人能拒绝这款奇瑞海棠红吧！！！","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"汽车与新能源","h":0.0,"t":"蔚来 MPV 预测来了！","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"软件与AI","h":0.0,"t":"美术生毕业新思路！用ai五分钟制作品牌设计","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"软件与AI","h":0.0,"t":"男朋友简直是恶魔","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"软件与AI","h":0.0,"t":"打工人开会到麻木，被WAIC千问耳机种草了","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"软件与AI","h":0.0,"t":"AI做服装带货视频竟然这么真？1分钟学会","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""},{"i":"软件与AI","h":0.0,"t":"去WAIC简单聊聊AI硬件赛道，千问有啥新玩法","g":"—","d":"","date":"","source":"小红书实时检索","s":0,"hc":""}];
+const crossKeywords=[];
+const crossSignals=[{"industry":"汽车与新能源","signal":"大型 SUV 怎么选？等等小米出新款！","evidence":"最不像米的米，太可了！ #小米  #小米汽车  #小米澎程  #SkyNomad  #增程SUV #大空间SUV  #h"},{"industry":"汽车与新能源","signal":"两台纯电轿车，五万差价藏在哪","evidence":"17.98万和23.19万，比亚迪海豹比特斯拉Model 3便宜了五万多，但尺寸和配置反而更占优，我从数据里扒出了几个关"},{"industry":"汽车与新能源","signal":"假如主流新能源品牌都做 FUV","evidence":"FUV最近彻底火起来了🌚 一大批新车马上扎堆上市，造型五花八门。 不过，极氪套上公式之后以外挺和谐的[doge] 你觉"},{"industry":"汽车与新能源","signal":"20多万纯电轿跑到底怎么选？","evidence":"智界S７　VS　极氪００１，你选谁？#新能源汽车  #轿跑  #汽车推荐  #纯电动汽车  #选车"},{"industry":"汽车与新能源","signal":"极氪8X耀影版首批车主心寒维权！","evidence":"今年5月入手极氪8X耀影版新车，作为国内第一批首批提车车主，我当初满心欢喜选择极氪。 提车当天登上极氪官方公众号，主动为"},{"industry":"汽车与新能源","signal":"新车免费体验｜新能源新车们都卷起来了！","evidence":"花小钱开好车！ 呼声超高的一嗨租车新能源专场来啦 问界M8、零跑C10、深蓝S05、比亚迪元UP、 吉利银河星舰7、比亚"},{"industry":"汽车与新能源","signal":"新车可以自己查电池衰减度！","evidence":"大家现在对于车辆的电池，有一个焦虑就是，没办法自己查询衰减度，对车厂的不信任感，毕竟到达了80%就要换电池了，平时自己也"},{"industry":"汽车与新能源","signal":"一图看懂「领克07GT」配置差异","evidence":"7月23日晚，领克汽车首款旅行车-领克07GT正式上市，8月31日前下定可享限时权益价14.58万起，较预售价大幅下调"},{"industry":"汽车与新能源","signal":"比亚迪终于去登味了，4款高颜值轿车怎么选⁉️","evidence":"以前聊比亚迪汽车，很多人对它的印象还是偏成熟，少了一些年轻消费者喜欢的运动感。但这次比亚迪开始明显改变设计方向，从海豹"},{"industry":"汽车与新能源","signal":"温州提车了！！恭喜牛🐮有了新的马","evidence":"#适合女生开的电车  #纯电家用轿车  #新能源新车探店 #比亚迪 #闪充时代告别等待 #海豹08 #灵感好店出道计划"},{"industry":"汽车与新能源","signal":"全新一代smart #1 200+项升级新奢大不一样","evidence":"期待已久的全新一代 smart #1来了！ 超200项升级，63项同级领先，20项同级唯一，新奢大不一样 🚗智驾大不一"},{"industry":"软件与AI","signal":"美术生毕业新思路！用ai五分钟制作品牌设计","evidence":"#HOWTO  #WAIC2026  #万物皆可howto  @HOWTO薯"},{"industry":"软件与AI","signal":"去WAIC简单聊聊AI硬件赛道，千问有啥新玩法","evidence":"每年的WAIC都是AI行业的风向标。今年让我意外的，不是又迭代了一轮的大模型，是AI硬件的落地形态变了。 行业前两年都在"},{"industry":"软件与AI","signal":"从“你找AI”到“AI找你”，飞书aily新升级","evidence":"主动推进、团队共享、多 Agent 协作，新一代工作方式正式开启。 #飞书aily  #飞书"},{"industry":"软件与AI","signal":"AI 办公卷到这个程度，我是真没想到","evidence":"刚刚 TRAE Work 发布重大更新，我直接人看傻了。 这次更新的核心就一件事——上线全新插件市场，目前已上线"},{"industry":"软件与AI","signal":"灵犀专业版正式上线！新一代办公智能体来了","evidence":"打工人的新外挂🚀，灵犀专业版正式上线！ 新一代办公智能体，不只是会聊天，更会帮你把工作做完😎 1⃣一句话办公，想到什"},{"industry":"软件与AI","signal":"Codex 又更新了：这次专治“不好用”","evidence":"OpenAI 刚刚宣布，Codex 正在变得更快，也更容易操作。 这次没有发布新模型，而是集中优化了长对话、侧边栏、代码"},{"industry":"软件与AI","signal":"WAIC新品｜打工人的AI助手要多一个入口了","evidence":"今年WAIC世界人工智能大会真的杀疯了！ 千问不止升级了智能体眼镜，还带来新品——千问×Bose联名AI耳夹式耳机，定位"},{"industry":"软件与AI","signal":"千问耳机WAIC首秀，AI+音质夯爆了‼️","evidence":"WAIC 展会大新闻🔥千问不只有 AI 眼镜将进化成智能体眼镜，还有 AI-Native 耳夹耳机的概念视频首秀，太惊"}];
+const crossIdeas=[];
+
+const alerts=[{"l":"high","t":"褪黑素：近30天 14 篇讨论，负面率 36%","d":"关联需求：睡眠放松、其他使用场景。","a":"复核高互动原帖并结合评论进一步定位具体痛点。"},{"l":"med","t":"奶蓟草提取物：近30天 11 篇讨论，负面率 9%","d":"关联需求：熬夜恢复、情绪压力。","a":"复核高互动原帖并结合评论进一步定位具体痛点。"},{"l":"med","t":"烟酰胺：近30天 13 篇讨论，负面率 8%","d":"关联需求：内服焕肤、其他使用场景、熬夜恢复。","a":"复核高互动原帖并结合评论进一步定位具体痛点。"},{"l":"med","t":"水解胶原蛋白肽：近30天 11 篇讨论，负面率 0%","d":"关联需求：内服焕肤、其他使用场景。","a":"复核高互动原帖并结合评论进一步定位具体痛点。"},{"l":"med","t":"胶原蛋白：近30天 9 篇讨论，负面率 0%","d":"关联需求：内服焕肤。","a":"复核高互动原帖并结合评论进一步定位具体痛点。"}];
+const signals=[{"t":"负面","n":"褪黑素","d":"近30天 14 篇讨论；增速 None%"},{"t":"攀升","n":"烟酰胺","d":"近30天 13 篇讨论；增速 None%"},{"t":"攀升","n":"奶蓟草提取物","d":"近30天 11 篇讨论；增速 None%"},{"t":"攀升","n":"水解胶原蛋白肽","d":"近30天 11 篇讨论；增速 None%"},{"t":"攀升","n":"胶原蛋白","d":"近30天 9 篇讨论；增速 None%"},{"t":"攀升","n":"胶原蛋白肽","d":"近30天 8 篇讨论；增速 None%"},{"t":"攀升","n":"奶蓟草","d":"近30天 6 篇讨论；增速 None%"},{"t":"攀升","n":"麦角硫因","d":"近30天 2 篇讨论；增速 None%"},{"t":"攀升","n":"低聚果糖","d":"近30天 1 篇讨论；增速 None%"},{"t":"攀升","n":"益生元","d":"近30天 1 篇讨论；增速 None%"},{"t":"攀升","n":"柠檬酸钙","d":"近30天 1 篇讨论；增速 None%"},{"t":"攀升","n":"钙","d":"近30天 1 篇讨论；增速 None%"}];
+const dashboardMeta={"categoryCount":9,"opportunityCount":0,"crowdCount":4,"ingredientCount":13,"alertCount":5};
+const timeData={"7":{"categories":[{"name":"护肝","heat":25,"interactions":1297,"sat":86,"pos":44,"neg":8,"scene":"熬夜恢复","opp":7.3},{"name":"睡眠","heat":15,"interactions":538,"sat":17,"pos":0,"neg":33,"scene":"睡眠放松","opp":7.1},{"name":"美白","heat":13,"interactions":322,"sat":65,"pos":23,"neg":8,"scene":"内服焕肤","opp":5.9},{"name":"胶原蛋白","heat":9,"interactions":189,"sat":72,"pos":22,"neg":0,"scene":"内服焕肤","opp":5.1},{"name":"益生菌*成人*女性呵护","heat":3,"interactions":57,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.4},{"name":"美容抗衰","heat":3,"interactions":188,"sat":83,"pos":33,"neg":0,"scene":"其他使用场景","opp":4.4},{"name":"益生菌*儿童*肠胃呵护","heat":2,"interactions":2,"sat":100,"pos":50,"neg":0,"scene":"肠道调理","opp":4.2},{"name":"答疑","heat":1,"interactions":4,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.1},{"name":"身高发育","heat":1,"interactions":0,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.1}],"scenes":["熬夜恢复","内服焕肤","睡眠放松","肠道调理","其他使用场景","情绪压力"],"crowds":[{"n":"未识别人群","a":"未标注","pct":83,"posts":57,"quote":"30岁熬夜党自救，内在护肝才是顶级保养 高净值女性的身体管理，从来不是等身体发出明显信号再仓促补救。 我对自己有一个标准：由内到外，每一处养护都不敷衍。 但有一  ","kw":{"烟酰胺":13,"褪黑素":12,"水解胶原蛋白肽":11},"prods":{},"factor":{"价格敏感度":10,"成分专业度":11,"品牌忠诚度":11,"口感要求":10,"便捷性":11},"emo":["护肝片","女性护肝","护肝片测评","益生菌","褪黑素","白番茄美白饮"],"radar":[10,11,11,10,11],"priority":[{"label":"讨论最多","need":"内服焕肤","value":"20 篇"},{"label":"负面最高","need":"睡眠放松","value":"45%"},{"label":"互动最强","need":"熬夜恢复","value":"556"}]},{"n":"职场","a":"未标注","pct":12,"posts":8,"quote":"职场熬夜中女误闯天家！温姐姐护肝是真有招 奔三职场中女，熬夜后的状态经常跟不上 工作压力稍微一大，就动不动炸毛 ✍🏻后来做了不少功课才知道： 外在的暗沉憔悴，问  ","kw":{"奶蓟草提取物":6,"奶蓟草":3},"prods":{},"factor":{"价格敏感度":10,"成分专业度":12,"品牌忠诚度":10,"口感要求":10,"便捷性":12},"emo":["护肝片","年纪大了护肝","绝对不能马虎","加班","女性护肝","买了之后口苦"],"radar":[10,12,10,10,12],"priority":[{"label":"讨论最多","need":"熬夜恢复","value":"7 篇"},{"label":"负面最高","need":"熬夜恢复","value":"0%"},{"label":"互动最强","need":"情绪压力","value":"723"}]},{"n":"宝妈·育儿","a":"未标注","pct":3,"posts":2,"quote":"0-1岁新生儿宝宝的益生菌自用分享 #益生菌 #益生菌推荐婴幼儿 #益生菌推荐 #宝宝益生菌推荐 #婴儿益生菌推荐小月龄 #宝宝便秘 #宝宝便秘吃的益生菌  ","kw":{},"prods":{},"factor":{"价格敏感度":10,"成分专业度":10,"品牌忠诚度":10,"口感要求":10,"便捷性":10},"emo":["益生菌","岁新生儿宝宝","的益生菌自用","分享","益生菌推荐婴","幼儿"],"radar":[10,10,10,10,10],"priority":[{"label":"讨论最多","need":"肠道调理","value":"2 篇"},{"label":"负面最高","need":"肠道调理","value":"0%"},{"label":"互动最强","need":"肠道调理","value":"2"}]},{"n":"学生","a":"未标注","pct":3,"posts":2,"quote":"备考人进！睡得好才能打持久战! 有没有跟我一样越到考前越睡不着的，脑子里全是错题和没背到的题，越想睡越睡不着。 之前试过好几个方法，喝热牛奶、吃褪黑素  ","kw":{"褪黑素":2},"prods":{},"factor":{"价格敏感度":10,"成分专业度":10,"品牌忠诚度":10,"口感要求":10,"便捷性":10},"emo":["记录一下最近","半年吃的两款","助眠褪黑素","我吃褪黑素主","要是因为平时","备考学习压力"],"radar":[10,10,10,10,10],"priority":[{"label":"讨论最多","need":"睡眠放松","value":"2 篇"},{"label":"负面最高","need":"睡眠放松","value":"0%"},{"label":"互动最强","need":"睡眠放松","value":"42"}]}],"ingredients":[{"n":"褪黑素","s":"帖子未提及规格","h":14,"g":null,"neg":36,"opp":8.8,"needs":["睡眠放松","其他使用场景"],"crowds":["未识别人群","学生"],"cover":20},{"n":"烟酰胺","s":"帖子未提及规格","h":13,"g":null,"neg":8,"opp":7.1,"needs":["内服焕肤","其他使用场景","熬夜恢复"],"crowds":["未识别人群"],"cover":19},{"n":"奶蓟草提取物","s":"帖子未提及规格","h":11,"g":null,"neg":9,"opp":6.6,"needs":["熬夜恢复","情绪压力"],"crowds":["职场","未识别人群"],"cover":16},{"n":"水解胶原蛋白肽","s":"帖子未提及规格","h":11,"g":null,"neg":0,"opp":6.1,"needs":["内服焕肤","其他使用场景"],"crowds":["未识别人群"],"cover":16},{"n":"胶原蛋白","s":"帖子未提及规格","h":9,"g":null,"neg":0,"opp":5.6,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":13},{"n":"胶原蛋白肽","s":"帖子未提及规格","h":8,"g":null,"neg":0,"opp":5.3,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":12},{"n":"奶蓟草","s":"帖子未提及规格","h":6,"g":null,"neg":0,"opp":4.7,"needs":["熬夜恢复"],"crowds":["职场","未识别人群"],"cover":9},{"n":"麦角硫因","s":"帖子未提及规格","h":2,"g":null,"neg":0,"opp":3.6,"needs":["其他使用场景"],"crowds":["未识别人群"],"cover":3},{"n":"低聚果糖","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"益生元","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"柠檬酸钙","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"钙","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"胶原肽","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":1}],"prods":[],"concepts":[{"t":"睡眠放松、其他使用场景 · 褪黑素解决方案","gap":"真实帖子中有 14 篇关联讨论，负面率 36%。","ing":["褪黑素","烟酰胺"],"form":"软糖","price":"","target":"未识别人群、学生","match":88,"ana":"睡眠放松、其他使用场景 是该原料的高频关联需求；褪黑素 讨论量 14、负面率 36%。","opp":8.8},{"t":"内服焕肤、其他使用场景、熬夜恢复 · 烟酰胺解决方案","gap":"真实帖子中有 13 篇关联讨论，负面率 8%。","ing":["烟酰胺","奶蓟草提取物"],"form":"饮品","price":"","target":"未识别人群","match":71,"ana":"内服焕肤、其他使用场景、熬夜恢复 是该原料的高频关联需求；烟酰胺 讨论量 13、负面率 8%。","opp":7.1},{"t":"熬夜恢复、情绪压力 · 奶蓟草提取物解决方案","gap":"真实帖子中有 11 篇关联讨论，负面率 9%。","ing":["奶蓟草提取物","水解胶原蛋白肽"],"form":"","price":"","target":"职场、未识别人群","match":66,"ana":"熬夜恢复、情绪压力 是该原料的高频关联需求；奶蓟草提取物 讨论量 11、负面率 9%。","opp":6.6},{"t":"内服焕肤、其他使用场景 · 水解胶原蛋白肽解决方案","gap":"真实帖子中有 11 篇关联讨论，负面率 0%。","ing":["水解胶原蛋白肽","褪黑素"],"form":"饮品","price":"","target":"未识别人群","match":61,"ana":"内服焕肤、其他使用场景 是该原料的高频关联需求；水解胶原蛋白肽 讨论量 11、负面率 0%。","opp":6.1}],"competitors":[],"categoryPainPoints":[{"category":"护肝","negative":8,"summary":"985研二半年吃了2款护肝片（一些看法和吐槽 我经常两三点才睡，完全阴间作息，哪怕强制自己晚饭多吃（直接晕碳昏过去），也会奇迹般地在三点醒来，然后睡不着。。。 于是  ","sample":"985研二半年吃了2款护肝片（一些看法和吐槽 我经常两三点才睡，完全阴间作息，哪怕强制自己晚饭多吃（直接晕碳昏过去），也会奇迹般地在三点醒来"},{"category":"睡眠","negative":33,"summary":"一分钟哄睡asmr 失眠星人的“褪黑素”！ #asmr  #助眠  #声控  #声控助眠  #解压助眠  #沉浸式享受  #助眠解压伴你入睡  ","sample":"一分钟哄睡asmr 失眠星人的“褪黑素”！ #asmr  #助眠  #声控  #声控助眠  #解压助眠  #沉浸式享受  #助眠解压伴你入睡"},{"category":"美白","negative":8,"summary":"开喷美白饮2巨头，啥都说（纯素人分享） 两个都是美白饮，功效人群感受喝下来都不同，黄黑皮的姐妹们不要再纠结跟风踩雷了，根据自身情况理性参考哈 - ✅核心成分  ","sample":"开喷美白饮2巨头，啥都说（纯素人分享） 两个都是美白饮，功效人群感受喝下来都不同，黄黑皮的姐妹们不要再纠结跟风踩雷了，根据自身情况理性参考哈"}],"painBreakdown":[{"pain":"担心副作用","posts":2,"interactions":6,"categories":"护肝、睡眠"}],"heatmapData":[[8,1,1,1,1,1],[1,1,8,1,1,1],[1,8,1,1,1,1],[1,9,1,1,1,1],[1,1,1,9,1,1],[1,3,1,1,6,1],[1,1,1,9,1,1],[1,1,1,9,1,1],[1,1,1,9,1,1]]},"30":{"categories":[{"name":"护肝","heat":25,"interactions":1297,"sat":86,"pos":44,"neg":8,"scene":"熬夜恢复","opp":7.3},{"name":"睡眠","heat":15,"interactions":538,"sat":17,"pos":0,"neg":33,"scene":"睡眠放松","opp":7.1},{"name":"美白","heat":13,"interactions":322,"sat":65,"pos":23,"neg":8,"scene":"内服焕肤","opp":5.9},{"name":"胶原蛋白","heat":9,"interactions":189,"sat":72,"pos":22,"neg":0,"scene":"内服焕肤","opp":5.1},{"name":"眼健康","heat":4,"interactions":23559,"sat":100,"pos":50,"neg":0,"scene":"护眼用脑","opp":4.5},{"name":"益生菌*成人*女性呵护","heat":3,"interactions":57,"sat":50,"pos":0,"neg":0,"scene":"肠道调理","opp":4.4},{"name":"美容抗衰","heat":3,"interactions":188,"sat":83,"pos":33,"neg":0,"scene":"其他使用场景","opp":4.4},{"name":"益生菌*儿童*肠胃呵护","heat":2,"interactions":2,"sat":100,"pos":50,"neg":0,"scene":"肠道调理","opp":4.2},{"name":"阻断","heat":1,"interactions":624,"sat":50,"pos":0,"neg":0,"scene":"其他使用场景","opp":4.1}],"scenes":["熬夜恢复","内服焕肤","睡眠放松","肠道调理","其他使用场景","护眼用脑","情绪压力"],"crowds":[{"n":"未识别人群","a":"未标注","pct":77,"posts":58,"quote":"纯素人，记录自己用过的阻断片 👈🏻左:Swisse白芸豆 这个确实很有名，💰也不算便宜。我想通过这个管住嘴，不是很想运动，况且白芸豆成分不就是这  ","kw":{"烟酰胺":13,"褪黑素":12,"水解胶原蛋白肽":11},"prods":{"Swisse":1},"factor":{"价格敏感度":10,"成分专业度":11,"品牌忠诚度":11,"口感要求":10,"便捷性":11},"emo":["护肝片","女性护肝","护肝片测评","益生菌","褪黑素","白番茄美白饮"],"radar":[10,11,11,10,11],"priority":[{"label":"讨论最多","need":"内服焕肤","value":"20 篇"},{"label":"负面最高","need":"睡眠放松","value":"45%"},{"label":"互动最强","need":"其他使用场景","value":"812"}]},{"n":"职场","a":"未标注","pct":11,"posts":8,"quote":"职场熬夜中女误闯天家！温姐姐护肝是真有招 奔三职场中女，熬夜后的状态经常跟不上 工作压力稍微一大，就动不动炸毛 ✍🏻后来做了不少功课才知道： 外在的暗沉憔悴，问  ","kw":{"奶蓟草提取物":6,"奶蓟草":3},"prods":{},"factor":{"价格敏感度":10,"成分专业度":12,"品牌忠诚度":10,"口感要求":10,"便捷性":12},"emo":["护肝片","年纪大了护肝","绝对不能马虎","加班","女性护肝","买了之后口苦"],"radar":[10,12,10,10,12],"priority":[{"label":"讨论最多","need":"熬夜恢复","value":"7 篇"},{"label":"负面最高","need":"熬夜恢复","value":"0%"},{"label":"互动最强","need":"情绪压力","value":"723"}]},{"n":"宝妈·育儿","a":"未标注","pct":8,"posts":6,"quote":"宝宝频繁揉眼？叶黄素护眼别忽视 总看到娃揉眼睛、眯眼看东西，宝妈真的要上心！ 日常强光、看绘本、电子屏都在伤眼底 叶黄素是宝宝护眼刚需，能过滤有害蓝光  ","kw":{"叶黄素":4},"prods":{},"factor":{"价格敏感度":10,"成分专业度":10,"品牌忠诚度":12,"口感要求":10,"便捷性":10},"emo":["益生菌","宝宝频繁揉眼","叶黄素护眼别","忽视","总看到娃揉眼","眯眼看东西"],"radar":[10,10,12,10,10],"priority":[{"label":"讨论最多","need":"护眼用脑","value":"4 篇"},{"label":"负面最高","need":"护眼用脑","value":"0%"},{"label":"互动最强","need":"护眼用脑","value":"23,559"}]},{"n":"学生","a":"未标注","pct":4,"posts":3,"quote":"备考党必入｜凌晨刷题不心慌✨ 考研、考公、期末复习经常熬到深夜，心慌、精神不集中成了常态 Healthy Care澳世康辅酶Q10真的救大命！ 50m  ","kw":{"褪黑素":2,"辅酶Q10":1},"prods":{},"factor":{"价格敏感度":10,"成分专业度":10,"品牌忠诚度":10,"口感要求":10,"便捷性":10},"emo":["记录一下最近","半年吃的两款","助眠褪黑素","我吃褪黑素主","要是因为平时","备考学习压力"],"radar":[10,10,10,10,10],"priority":[{"label":"讨论最多","need":"睡眠放松","value":"2 篇"},{"label":"负面最高","need":"其他使用场景","value":"100%"},{"label":"互动最强","need":"其他使用场景","value":"1,210"}]}],"ingredients":[{"n":"褪黑素","s":"帖子未提及规格","h":14,"g":null,"neg":36,"opp":8.8,"needs":["睡眠放松","其他使用场景"],"crowds":["未识别人群","学生"],"cover":19},{"n":"烟酰胺","s":"帖子未提及规格","h":13,"g":null,"neg":8,"opp":7.1,"needs":["内服焕肤","其他使用场景","熬夜恢复"],"crowds":["未识别人群"],"cover":17},{"n":"奶蓟草提取物","s":"帖子未提及规格","h":11,"g":null,"neg":9,"opp":6.6,"needs":["熬夜恢复","情绪压力"],"crowds":["职场","未识别人群"],"cover":15},{"n":"水解胶原蛋白肽","s":"帖子未提及规格","h":11,"g":null,"neg":0,"opp":6.1,"needs":["内服焕肤","其他使用场景"],"crowds":["未识别人群"],"cover":15},{"n":"胶原蛋白","s":"帖子未提及规格","h":9,"g":null,"neg":0,"opp":5.6,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":12},{"n":"胶原蛋白肽","s":"帖子未提及规格","h":8,"g":null,"neg":0,"opp":5.3,"needs":["内服焕肤"],"crowds":["未识别人群"],"cover":11},{"n":"奶蓟草","s":"帖子未提及规格","h":6,"g":null,"neg":0,"opp":4.7,"needs":["熬夜恢复"],"crowds":["职场","未识别人群"],"cover":8},{"n":"叶黄素","s":"帖子未提及规格","h":4,"g":100,"neg":0,"opp":4.1,"needs":["护眼用脑"],"crowds":["宝妈·育儿"],"cover":5},{"n":"麦角硫因","s":"帖子未提及规格","h":2,"g":null,"neg":0,"opp":3.6,"needs":["其他使用场景"],"crowds":["未识别人群"],"cover":3},{"n":"白芸豆","s":"帖子未提及规格","h":1,"g":-50,"neg":0,"opp":3.3,"needs":["其他使用场景"],"crowds":["未识别人群"],"cover":1},{"n":"低聚果糖","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"益生元","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1},{"n":"柠檬酸钙","s":"帖子未提及规格","h":1,"g":null,"neg":0,"opp":3.3,"needs":["肠道调理"],"crowds":["未识别人群"],"cover":1}],"prods":[{"c":"阻断","n":"Swisse","m":1,"s":3.0,"g":"暂无对应评论文本","b":"暂无对应评论文本","r":0}],"concepts":[{"t":"睡眠放松、其他使用场景 · 褪黑素解决方案","gap":"真实帖子中有 14 篇关联讨论，负面率 36%。","ing":["褪黑素","烟酰胺"],"form":"软糖","price":"","target":"未识别人群、学生","match":88,"ana":"睡眠放松、其他使用场景 是该原料的高频关联需求；褪黑素 讨论量 14、负面率 36%。","opp":8.8},{"t":"内服焕肤、其他使用场景、熬夜恢复 · 烟酰胺解决方案","gap":"真实帖子中有 13 篇关联讨论，负面率 8%。","ing":["烟酰胺","奶蓟草提取物"],"form":"饮品","price":"","target":"未识别人群","match":71,"ana":"内服焕肤、其他使用场景、熬夜恢复 是该原料的高频关联需求；烟酰胺 讨论量 13、负面率 8%。","opp":7.1},{"t":"熬夜恢复、情绪压力 · 奶蓟草提取物解决方案","gap":"真实帖子中有 11 篇关联讨论，负面率 9%。","ing":["奶蓟草提取物","水解胶原蛋白肽"],"form":"","price":"","target":"职场、未识别人群","match":66,"ana":"熬夜恢复、情绪压力 是该原料的高频关联需求；奶蓟草提取物 讨论量 11、负面率 9%。","opp":6.6},{"t":"内服焕肤、其他使用场景 · 水解胶原蛋白肽解决方案","gap":"真实帖子中有 11 篇关联讨论，负面率 0%。","ing":["水解胶原蛋白肽","褪黑素"],"form":"饮品","price":"","target":"未识别人群","match":61,"ana":"内服焕肤、其他使用场景 是该原料的高频关联需求；水解胶原蛋白肽 讨论量 11、负面率 0%。","opp":6.1}],"competitors":[{"b":"Swisse","p":"Swisse","c":"阻断","m":1,"s":3.0,"pros":"暂无对应评论文本","cons":"暂无对应评论文本"}],"categoryPainPoints":[{"category":"护肝","negative":8,"summary":"985研二半年吃了2款护肝片（一些看法和吐槽 我经常两三点才睡，完全阴间作息，哪怕强制自己晚饭多吃（直接晕碳昏过去），也会奇迹般地在三点醒来，然后睡不着。。。 于是  ","sample":"985研二半年吃了2款护肝片（一些看法和吐槽 我经常两三点才睡，完全阴间作息，哪怕强制自己晚饭多吃（直接晕碳昏过去），也会奇迹般地在三点醒来"},{"category":"睡眠","negative":33,"summary":"一分钟哄睡asmr 失眠星人的“褪黑素”！ #asmr  #助眠  #声控  #声控助眠  #解压助眠  #沉浸式享受  #助眠解压伴你入睡  ","sample":"一分钟哄睡asmr 失眠星人的“褪黑素”！ #asmr  #助眠  #声控  #声控助眠  #解压助眠  #沉浸式享受  #助眠解压伴你入睡"},{"category":"美白","negative":8,"summary":"开喷美白饮2巨头，啥都说（纯素人分享） 两个都是美白饮，功效人群感受喝下来都不同，黄黑皮的姐妹们不要再纠结跟风踩雷了，根据自身情况理性参考哈 - ✅核心成分  ","sample":"开喷美白饮2巨头，啥都说（纯素人分享） 两个都是美白饮，功效人群感受喝下来都不同，黄黑皮的姐妹们不要再纠结跟风踩雷了，根据自身情况理性参考哈"}],"painBreakdown":[{"pain":"担心副作用","posts":3,"interactions":736,"categories":"眼健康、护肝、睡眠"}],"heatmapData":[[8,1,1,1,1,1,1],[1,1,8,1,1,1,1],[1,8,1,1,1,1,1],[1,9,1,1,1,1,1],[1,1,1,1,1,9,1],[1,1,1,9,1,1,1],[1,3,1,1,6,1,1],[1,1,1,9,1,1,1],[1,1,1,1,9,1,1]]}};
+let painBreakdown=[];
+function applyTimeData(){const d=timeData[gTime];if(!d)return;categories=d.categories;scenes=d.scenes;heatmapData=d.heatmapData;crowds=d.crowds;ingredients=d.ingredients;prods=d.prods;concepts=d.concepts;competitors=d.competitors;painBreakdown=d.painBreakdown||[];}
+
+function renderOverview(){
+const m=tm();
+document.getElementById('ovInteract').textContent='2,435';
+document.getElementById('ovIc').textContent='基于实时抓取';
+document.getElementById('ovIng').textContent='监控到 13 个原料';
+document.getElementById('ovCategory').textContent=dashboardMeta.categoryCount;
+document.getElementById('ovOpportunity').textContent=dashboardMeta.opportunityCount;
+document.getElementById('ovCrowd').textContent=dashboardMeta.crowdCount;
+document.getElementById('ovIngredient').textContent=dashboardMeta.ingredientCount;
+document.getElementById('alertCount').textContent=dashboardMeta.alertCount;
+
+const sorted=[...categories].sort((a,b)=>b.heat-a.heat);
+const max=sorted[0]?.heat||1;
+document.getElementById('catRankChart').innerHTML=sorted.map(c=>{
+const pct=(c.heat/max*100).toFixed(1);
+const color=c.opp>=8?'#f43f5e':c.opp>=7?'#f59e0b':'#06b6d4';
+return '<div class="css-bar-row"><div class="css-bar-label">'+c.name+'</div><div class="css-bar-track"><div class="css-bar-fill" style="width:'+pct+'%;background:'+color+'">'+c.heat.toLocaleString()+'</div></div></div>';
+}).join('');
+
+document.getElementById('catSatChart').innerHTML=categories.map(c=>{
+const color=c.sat>=75?'#10b981':c.sat>=60?'#f59e0b':'#f43f5e';
+return '<div class="css-bar-row"><div class="css-bar-label">'+c.name+'</div><div class="css-bar-track"><div class="css-bar-fill" style="width:'+c.sat+'%;background:'+color+'">'+c.sat+'%</div></div></div>';
+}).join('');
+
+const wrap=document.getElementById('ovMatrix');
+wrap.querySelectorAll('.bub').forEach(b=>b.remove());
+const heatMin=Math.min(...categories.map(x=>x.heat)),heatMax=Math.max(...categories.map(x=>x.heat));
+categories.forEach((c,index)=>{
+const lp=8+((c.heat-heatMin)/Math.max(1,heatMax-heatMin))*74+(index%3)*4;
+const bp=10+(c.sat/100)*80;
+const sz=Math.max(30,Math.min(70,c.opp*7));
+const b=document.createElement('div');
+b.className='bub';
+b.style.left=lp+'%';b.style.bottom=bp+'%';
+b.style.width=sz+'px';b.style.height=sz+'px';
+b.style.background=c.opp>=8.5?'rgba(244,63,94,0.75)':c.opp>=7?'rgba(245,158,11,0.7)':'rgba(6,182,212,0.6)';
+b.style.border='2px solid '+(c.opp>=8.5?'#f43f5e':c.opp>=7?'#f59e0b':'#06b6d4');
+b.style.fontSize=sz>40?'10px':'9px';
+b.innerHTML=c.name.length>3?c.name.substring(0,2):c.name;
+b.onmouseenter=function(e){showT(e,c.name+'<br>热度: '+c.heat.toLocaleString()+'<br>满足度: '+c.sat+'%<br>缺口分: '+c.opp);};
+b.onmouseleave=hideT;
+wrap.appendChild(b);
+});
+
+document.getElementById('catTable').innerHTML=sorted.map(c=>'<tr><td><strong style="color:#fff">'+c.name+'</strong></td><td class="num">'+c.heat.toLocaleString()+'</td><td class="num">'+c.interactions.toLocaleString()+'</td><td class="num" style="color:#10b981">'+c.pos+'%</td><td class="num" style="color:#f43f5e">'+c.neg+'%</td><td><div class="bar-bg"><div class="bar-fill" style="width:'+c.sat+'%;background:#3b82f6"></div></div> '+c.sat+'%</td><td style="color:'+(c.opp>=8.5?'#f43f5e':c.opp>=6.5?'#f59e0b':'#06b6d4')+';font-weight:600">'+c.opp+' '+opp(c.opp)+'</td><td><span class="tag tag-gray">'+c.scene+'</span></td><td>'+(c.opp>=8?'<span class="tag tag-red">机会缺口</span>':c.opp>=6.5?'<span class="tag tag-orange">待培育</span>':'<span class="tag tag-green">红海成熟</span>')+'</td></tr>').join('');
+
+let prods=[];
+document.getElementById('catProductTable').innerHTML=prods.map(p=>'<tr><td>'+p.c+'</td><td>'+p.n+'</td><td class="num">'+p.m+'</td><td class="num">'+p.s+'</td><td style="color:#10b981;font-size:11px">'+p.g+'</td><td style="color:#f43f5e;font-size:11px">'+p.b+'</td></tr>').join('');
+}
+
+function renderDemand(){
+const m=tm();
+const dh=gTime===7?dh7:dh30;
+const maxDH=Math.max(...dh.map(d=>d.h));
+document.getElementById('demandHeatTop').innerHTML=dh.map(d=>{
+const pct=(d.h/maxDH*100).toFixed(1);
+return '<div class="css-bar-row"><div class="css-bar-label">'+d.s+'</div><div class="css-bar-track"><div class="css-bar-fill" style="width:'+pct+'%;background:#06b6d4">'+d.h.toLocaleString()+'</div></div></div>';
+}).join('');
+
+const dg=(gTime===7?dg7:dg30).filter(d=>d.g!==null);
+const maxDG=Math.max(...dg.map(d=>Math.abs(d.g)),1);
+document.getElementById('demandGrowthTop').innerHTML=dg.map(d=>{
+const pct=(Math.abs(d.g)/maxDG*100).toFixed(1);
+return '<div class="css-bar-row"><div class="css-bar-label">'+d.s+'</div><div class="css-bar-track"><div class="css-bar-fill" style="width:'+pct+'%;background:#f59e0b">'+(d.g>0?'+':'')+d.g+'%</div></div><span class="css-bar-value">'+d.h.toLocaleString()+'</span></div>';
+}).join('');
+
+const ss=gTime===7?sceneSentiment7:sceneSentiment30;
+document.getElementById('demandSentimentBars').innerHTML=ss.map(s=>{
+const total=s.pos+s.neu+s.neg;
+const pw=(s.pos/total*100).toFixed(0);
+const nw=(s.neg/total*100).toFixed(0);
+const mw=(100-parseFloat(pw)-parseFloat(nw)).toFixed(0);
+return '<div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px"><span style="color:#fff">'+s.s+'</span><span style="color:#94a3b8">讨论 '+s.c.toLocaleString()+'</span></div><div class="sentiment-bar"><div class="sentiment-seg" style="width:'+pw+'%;background:#10b981">'+s.pos+'%</div><div class="sentiment-seg" style="width:'+mw+'%;background:#64748b">'+s.neu+'%</div><div class="sentiment-seg" style="width:'+nw+'%;background:#f43f5e">'+s.neg+'%</div></div></div>';
+}).join('');
+
+const v=gTime===7?voices7:voices30;
+document.getElementById('voiceCards').innerHTML=v.map(vo=>'<div class="voice-card"><div class="voice-tags">'+vo.i.split(',').map(x=>'<span class="tag tag-cyan">'+x.trim()+'</span>').join('')+'</div><div class="voice-text">"'+vo.u+'"</div><div class="voice-meta"><span>&#128077; '+vo.l+'</span><span>&#128172; '+(Math.floor(vo.l*0.35))+'</span><span>&#11088; '+(Math.floor(vo.l*0.22))+'</span></div></div>').join('');
+document.getElementById('painBreakdown').innerHTML=painBreakdown.map(p=>'<tr><td><span class="tag tag-red">'+p.pain+'</span></td><td class="num">'+p.posts+'</td><td class="num">'+p.interactions.toLocaleString()+'</td><td>'+p.categories+'</td></tr>').join('') || '<tr><td colspan="4" style="color:#64748b">当前窗口暂无高价值痛点信号</td></tr>';
+}
+
+function renderRadar(){
+const svg=document.getElementById('radarSvg');
+const cx=300,cy=170,r=120;
+const labels=['价格敏感度','成分专业度','品牌忠诚度','口感要求','便捷性'];
+const angles=labels.map((_,i)=>-Math.PI/2+(i*2*Math.PI/5));
+let html='';
+for(let l=1;l<=5;l++){
+const rr=(r/5)*l;
+const pts=angles.map(a=>(cx+rr*Math.cos(a))+','+(cy+rr*Math.sin(a))).join(' ');
+html+='<polygon points="'+pts+'" fill="none" stroke="#1e293b" stroke-width="1"/>';
+}
+angles.forEach((a,i)=>{
+html+='<line x1="'+cx+'" y1="'+cy+'" x2="'+(cx+r*Math.cos(a))+'" y2="'+(cy+r*Math.sin(a))+'" stroke="#1e293b" stroke-width="1"/>';
+const lx=cx+(r+22)*Math.cos(a);
+const ly=cy+(r+22)*Math.sin(a);
+html+='<text x="'+lx+'" y="'+ly+'" fill="#64748b" font-size="11" text-anchor="middle" dominant-baseline="middle">'+labels[i]+'</text>';
+});
+const colors=['#06b6d4','#8b5cf6','#10b981','#f59e0b','#f43f5e','#3b82f6'];
+const show=crowds.slice(0,6);
+show.forEach((c,idx)=>{
+const vals=c.radar;
+const pts=vals.map((v,i)=>{
+const rr=(v/55)*r;
+return (cx+rr*Math.cos(angles[i]))+','+(cy+rr*Math.sin(angles[i]));
+}).join(' ');
+html+='<polygon points="'+pts+'" fill="'+colors[idx]+'" fill-opacity="0.08" stroke="'+colors[idx]+'" stroke-width="2"/>';
+vals.forEach((v,i)=>{
+const rr=(v/55)*r;
+const x=cx+rr*Math.cos(angles[i]);
+const y=cy+rr*Math.sin(angles[i]);
+html+='<circle cx="'+x+'" cy="'+y+'" r="4.5" fill="'+colors[idx]+'" stroke="#0a0f1c" stroke-width="2" style="cursor:pointer" onmouseenter="showT(event,\''+c.n+'&lt;br&gt;'+labels[i]+': '+v+'\')" onmouseleave="hideT()"/>';
+});
+});
+svg.innerHTML=html;
+document.getElementById('radarLegend').innerHTML=show.map((c,i)=>'<div class="radar-legend-item"><span style="width:10px;height:10px;border-radius:50%;background:'+colors[i]+';display:inline-block"></span><span style="color:#94a3b8">'+c.n+'</span></div>').join('');
+}
+
+function renderCrowdCards(){
+document.getElementById('crowdCards').innerHTML=crowds.map(c=>`<div class="persona-card">
+<div class="persona-header">
+<div class="persona-avatar">${c.n[0]}</div>
+<div class="persona-name">${c.n} <span style="font-weight:400;color:#64748b;font-size:12px">(${c.a} · 占比${c.pct}% · 帖子${c.posts}篇)</span></div>
+</div>
+<div class="quote">"${c.quote}"</div>
+<div style="margin-bottom:14px">
+<div class="section-label">搜索关键词 TOP3</div>
+<div>${Object.entries(c.kw).map(([k,v])=>`<span class="tag tag-cyan">${k} <span style="opacity:.7">(${v}次)</span></span>`).join('')}</div>
+</div>
+<div style="margin-bottom:14px">
+<div class="section-label">提及产品 TOP3</div>
+<div>${Object.entries(c.prods).map(([k,v])=>`<span class="tag tag-green">${k} <span style="opacity:.7">(${v}次)</span></span>`).join('')}</div>
+</div>
+<div style="margin-bottom:14px"><div class="section-label">需求优先级</div><div>${(c.priority||[]).map(x=>`<span class="tag tag-orange">${x.label}：${x.need} ${x.value}</span>`).join('')}</div></div>
+<div style="margin-bottom:14px">
+<div class="section-label">购买决策因子排序</div>
+<div style="font-size:12px">${Object.entries(c.factor).sort((a,b)=>b[1]-a[1]).map(([k,v],i)=>`<span style="${i===0?'color:#06b6d4;font-weight:700':'color:#94a3b8'}">${k} ${v}%</span>${i<3?'<span style="color:#475569;margin:0 4px">&gt;</span>':''}`).slice(0,3).join('')}</div>
+</div>
+<div>
+<div class="section-label">高频情绪词</div>
+<div class="emotion-tags">${c.emo.map(e=>`<span class="tag tag-gray">${e}</span>`).join('')}</div>
+</div>
+</div>`).join('');
+}
+
+function renderIngredient(){
+const m=tm();
+// 热度降序排序
+const sortedIng=[...ingredients].sort((a,b)=>b.h-a.h);
+const top5=sortedIng.slice(0,5);
+const top5Names=top5.map(i=>i.n);
+
+// 为top5生成趋势数据
+const td=gTime===7?trendData7:trendData30;
+const svg=document.getElementById('trendSvg');
+const w=700,h=300,pad={l:50,r:30,t:30,b:40};
+const gw=w-pad.l-pad.r,gh=h-pad.t-pad.b;
+// 计算top5的最大值
+const top5Data=td.data.slice(0,5);
+const maxVal=Math.max(...top5Data.flat())*1.1;
+let html='';
+for(let i=0;i<=5;i++){
+const y=pad.t+(gh/5)*i;
+html+='<line x1="'+pad.l+'" y1="'+y+'" x2="'+(w-pad.r)+'" y2="'+y+'" stroke="#1e293b" stroke-width="1"/>';
+html+='<text x="'+(pad.l-8)+'" y="'+(y+4)+'" fill="#64748b" font-size="10" text-anchor="end">'+((maxVal/5*(5-i))/1000).toFixed(0)+'k</text>';
+}
+const dx=gw/(td.days.length-1);
+td.days.forEach((d,i)=>{
+const x=pad.l+dx*i;
+html+='<text x="'+x+'" y="'+(h-12)+'" fill="#64748b" font-size="11" text-anchor="middle">'+d+'</text>';
+});
+top5Data.forEach((line,li)=>{
+const color=td.colors[li];
+let pts='';
+line.forEach((v,i)=>{
+const x=pad.l+dx*i;
+const y=pad.t+gh-(v/maxVal)*gh;
+pts+=x+','+y+' ';
+html+='<circle cx="'+x+'" cy="'+y+'" r="4.5" fill="#0a0f1c" stroke="'+color+'" stroke-width="2" style="cursor:pointer" onmouseenter="showT(event,\''+top5Names[li]+'&lt;br&gt;'+td.days[i]+': '+v.toLocaleString()+'\')" onmouseleave="hideT()"/>';
+});
+html+='<polyline points="'+pts+'" fill="none" stroke="'+color+'" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>';
+});
+svg.innerHTML=html;
+document.getElementById('trendLegend').innerHTML=top5Names.map((ing,i)=>'<span style="display:flex;align-items:center;gap:4px;color:#94a3b8"><span style="width:12px;height:3px;background:'+td.colors[i]+';border-radius:2px;display:inline-block"></span>'+ing+'</span>').join('');
+
+// 详表热度降序
+const displayIng=sortedIng;
+document.getElementById('ingTable').innerHTML=displayIng.map(i=>'<tr><td style="color:#fff;font-weight:500">'+i.n+'</td><td><div class="bar-bg"><div class="bar-fill" style="width:'+Math.min(i.h/Math.max(1,sortedIng[0]?.h)*100,100)+'%;background:#06b6d4"></div></div> <span class="num">'+i.h.toLocaleString()+'</span></td><td class="num" style="color:'+(i.g===null?'#64748b':i.g>0?'#10b981':'#f43f5e')+'">'+(i.g===null?'—':(i.g>0?'+':'')+i.g+'%')+'</td><td class="num" style="color:'+(i.neg>25?'#f43f5e':i.neg>15?'#f59e0b':'#10b981')+'">'+i.neg+'%</td><td style="color:'+(i.opp>=8.5?'#f43f5e':i.opp>=6.5?'#f59e0b':'#06b6d4')+';font-weight:600">'+i.opp+' '+opp(i.opp)+'</td><td>'+i.needs.slice(0,3).map(n=>'<span class="tag tag-gray">'+n+'</span>').join('')+'</td><td>'+i.crowds.slice(0,2).map(c=>'<span class="tag tag-gray">'+c+'</span>').join('')+'</td><td><div class="bar-bg"><div class="bar-fill" style="width:'+i.cover+'%;background:#3b82f6"></div></div> <span class="num">'+i.cover+'%</span></td></tr>').join('');
+}
+
+function renderProduct(){
+const competitorRows=[...competitors].sort((a,b)=>b.m-a.m);
+const maxM=Math.max(...competitorRows.map(c=>c.m),1);
+document.getElementById('competitorChart').innerHTML=competitorRows.map(c=>{
+const pct=(c.m/maxM*100).toFixed(1);
+const color=c.s>=4.2?'#10b981':c.s>=3.7?'#f59e0b':'#f43f5e';
+return '<div class="css-bar-row"><div class="css-bar-label">'+c.b+'</div><div class="css-bar-track"><div class="css-bar-fill" style="width:'+pct+'%;background:'+color+'">'+c.s+'分</div></div></div>';
+}).join('');
+
+document.getElementById('competitorTable').innerHTML=competitorRows.map(c=>'<tr><td style="color:#fff;font-weight:500">'+c.b+'</td><td>'+c.p+'</td><td><span class="tag tag-gray">'+c.c+'</span></td><td class="num">'+c.m+'</td><td class="num" style="color:'+(c.s>=4.2?'#10b981':c.s>=3.7?'#f59e0b':'#f43f5e')+'">'+c.s+'</td><td style="color:#10b981;font-size:11px">'+c.pros+'</td><td style="color:#f43f5e;font-size:11px">'+c.cons+'</td></tr>').join('');
+
+}
+
+function renderCross(){
+document.getElementById('crossCards').innerHTML=[...crossIndustries].sort((a,b)=>b.h-a.h).map(c=>'<div class="cross-card"><div style="display:flex;align-items:center;gap:8px;margin-bottom:8px"><span class="tag tag-purple">'+c.i+'</span><span style="font-size:11px;color:#64748b">'+(c.date||'日期未提供')+'</span><span style="font-size:11px;color:#64748b;margin-left:auto">热度 '+Number(c.h).toLocaleString()+'</span></div><div style="color:#fff;font-weight:600;margin-bottom:5px">'+c.t+'</div><div style="font-size:12px;color:#cbd5e1">'+c.d+'</div><div style="font-size:11px;color:#64748b;margin-top:8px">来源：'+(c.source||'未提供')+'</div></div>').join('') || '<div style="color:#64748b">等待导入跨行业资讯或热榜数据</div>';
+document.getElementById('crossKeywords').innerHTML=[...crossKeywords].sort((a,b)=>Number(b.heat)-Number(a.heat)).map(k=>'<div class="signal-row"><span class="tag tag-purple">'+k.industry+'</span><span style="color:#fff;flex:1">'+k.term+'</span><span style="color:#06b6d4">'+Number(k.heat).toLocaleString()+'</span></div>').join('') || '<div style="color:#64748b">等待导入跨行业热搜词</div>';
+document.getElementById('crossSignals').innerHTML=crossSignals.map(s=>'<div class="signal-row"><span class="tag tag-orange">'+s.industry+'</span><div style="flex:1"><div style="color:#fff">'+s.signal+'</div><div style="font-size:11px;color:#64748b;margin-top:3px">'+s.evidence+'</div></div></div>').join('') || '<div style="color:#64748b">等待导入行业趋势信号</div>';
+document.getElementById('crossIdeas').innerHTML=crossIdeas.map(x=>'<div class="cross-card"><div style="color:#fff;font-weight:600;margin-bottom:6px">'+x.title+'</div><div style="font-size:12px;color:#94a3b8">情报依据：'+x.evidence+'</div><div class="analysis-box"><strong style="color:#fff">保健品迁移方式：</strong>'+x.idea+'</div><div style="font-size:11px;color:#64748b;margin-top:8px">建议验证：'+(x.test||'未提供')+'</div></div>').join('') || '<div style="color:#64748b">等待导入基于真实情报的迁移机会</div>';
+}
+
+function renderSignals(){
+const colors={爆发:'tag-red',攀升:'tag-orange',新机会:'tag-green',负面:'tag-red',稳定:'tag-gray'};
+document.getElementById('signalStream').innerHTML=signals.map(s=>'<div class="signal-row"><div style="width:8px;height:8px;border-radius:50%;background:'+(s.t==='爆发'?'#f43f5e':s.t==='攀升'?'#f59e0b':s.t==='新机会'?'#10b981':'#64748b')+'"></div><div style="flex:1;min-width:0"><div style="display:flex;align-items:center;gap:6px"><span class="tag '+(colors[s.t]||'tag-gray')+'" style="font-size:10px;padding:1px 6px">'+s.t+'</span><span style="color:#fff;font-weight:500;font-size:13px">'+s.n+'</span></div><div style="font-size:11px;color:#64748b;margin-top:2px">'+s.d+'</div></div></div>').join('');
+}
+
+function renderAlerts(){
+document.getElementById('alertList').innerHTML=alerts.map(a=>'<div class="alert-card '+(a.l==='high'?'alert-high':'alert-med')+'"><div style="display:flex;align-items:center;gap:8px;margin-bottom:6px"><span class="tag '+(a.l==='high'?'tag-red':'tag-orange')+'" style="font-size:10px">'+(a.l==='high'?'紧急':'关注')+'</span><strong style="color:#fff;font-size:13px">'+a.t+'</strong></div><p style="font-size:12px;color:#94a3b8;margin-bottom:6px">'+a.d+'</p><div style="font-size:12px;color:#06b6d4">&#128161; 建议行动：'+a.a+'</div></div>').join('');
+}
+
+function renderAll(){
+applyTimeData();
+renderOverview();
+renderDemand();
+renderRadar();
+renderCrowdCards();
+renderIngredient();
+renderCross();
+renderSignals();
+renderAlerts();
+}
+renderAll();
+</script>
+</body>
+</html>
