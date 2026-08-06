@@ -63,16 +63,17 @@
   },
   {
     "id": "6a6c802f000000003302ed49",
-    "published_at": "2026-07-31 20:38:59",
+    "published_at": "2026-08-05 14:03:57",
+    "timestamp": 1785501539,
     "title": "提高代谢+养肝2年，肤白貌美是我最大的标签",
     "content": "经常有姐妹问我：怎么做到素颜干净透亮的？实话实说，光靠防晒和涂涂抹抹真不够。 以前我也是暗沉黄气脸，天生不白还爱熬夜，脸",
-    "likes": 452,
+    "likes": 463,
     "comments": 8,
-    "collects": 63,
+    "collects": 68,
     "shares": 3,
     "author": "caicai.",
-    "note_type": "normal",
-    "source_keyword": "01_hugan",
+    "note_type": "普通笔记",
+    "source_keyword": "奶蓟草 护肝",
     "category": [],
     "scene": [
       "熬夜恢复"
@@ -84,11 +85,19 @@
     "product": "",
     "brands": [],
     "sentiment": "neutral",
-    "comment_texts": [],
-    "comments_fetched": false,
-    "interaction": 526,
-    "post_type": "health",
-    "xsec_token": "YBpLTZ9maKV_lOVmVT88s1NZyM4-8J65u2Ptwq72fK9hM="
+    "comment_texts": [
+      "挺好",
+      "最近又是早睡又是戒糖，护肤品也没少用但脸还是黄黄的，估计就是肝的问题……有没有姐妹跟我差不多情况？吃了之后多久好转的呀",
+      "护肤品换了无数套脸还是暗沉发黄……今天才知道肝不好外面涂再多也白搭😇 WonderLab护肝片到底咋样有没有姐妹现身说法一下怎么吃的",
+      "吃了快俩月过来打卡！最大的变化是素颜能看了！以前起床脸黄得不行不敢照镜子，现在肤色透亮了好多，同事还问我是不是换了粉底哈哈哈",
+      "dd",
+      "好美",
+      "饿一饿肚子",
+      "[点赞R]"
+    ],
+    "comments_fetched": true,
+    "interaction": 542,
+    "post_type": "health"
   },
   {
     "id": "6a6a106d0000000001032457",
@@ -137,7 +146,9 @@
     "source_keyword": "01_hugan",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -226,7 +237,9 @@
     "source_keyword": "01_hugan",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -251,7 +264,9 @@
     "source_keyword": "01_hugan",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -624,7 +639,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -649,7 +666,9 @@
     "source_keyword": "02_yishengjun",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "学生"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -674,7 +693,9 @@
     "source_keyword": "02_yishengjun",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -728,7 +749,9 @@
     "source_keyword": "02_yishengjun",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -755,7 +778,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -782,7 +807,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -838,7 +865,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -894,7 +923,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -921,7 +952,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1036,7 +1069,9 @@
     "source_keyword": "02_yishengjun",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1063,7 +1098,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1150,7 +1187,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1247,7 +1286,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "GABA"
     ],
@@ -1312,7 +1353,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "OLLY",
     "brands": [
@@ -1339,7 +1382,9 @@
     "source_keyword": "03_shuimian",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1368,7 +1413,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "褪黑素",
       "GABA"
@@ -1396,7 +1443,9 @@
     "source_keyword": "03_shuimian",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1425,7 +1474,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "GABA"
     ],
@@ -1456,7 +1507,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "褪黑素"
     ],
@@ -1487,7 +1540,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "GABA"
     ],
@@ -1551,7 +1606,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "褪黑素"
     ],
@@ -1580,7 +1637,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1674,7 +1733,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "褪黑素",
       "甘氨酸镁"
@@ -1706,7 +1767,9 @@
     "scene": [
       "睡眠放松"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "褪黑素",
       "GABA",
@@ -1771,7 +1834,9 @@
     "scene": [
       "情绪压力"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1798,7 +1863,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1823,7 +1890,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1916,7 +1985,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -1941,7 +2012,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2003,7 +2076,9 @@
       "美容抗衰"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "麦角硫因"
     ],
@@ -2030,7 +2105,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2057,7 +2134,9 @@
       "美容抗衰"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "麦角硫因"
     ],
@@ -2116,7 +2195,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2143,7 +2224,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2168,7 +2251,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2195,7 +2280,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2224,7 +2311,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2251,7 +2340,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2278,7 +2369,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2303,7 +2396,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2328,7 +2423,9 @@
     "source_keyword": "04_kangshuai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2387,7 +2484,9 @@
     "source_keyword": "05_yuyou",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2414,7 +2513,9 @@
       "护心"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "中老年"
+    ],
     "ingredients": [
       "辅酶Q10"
     ],
@@ -2474,7 +2575,9 @@
     "source_keyword": "05_yuyou",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2502,7 +2605,9 @@
       "护心"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "中老年"
+    ],
     "ingredients": [
       "辅酶Q10"
     ],
@@ -2736,7 +2841,9 @@
     "source_keyword": "05_yuyou;06_guanjie",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2761,7 +2868,9 @@
     "source_keyword": "05_yuyou",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2786,7 +2895,9 @@
     "source_keyword": "05_yuyou",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2847,7 +2958,9 @@
       "免疫防护",
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2872,7 +2985,9 @@
     "source_keyword": "05_yuyou",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -2936,7 +3051,9 @@
       "脑健康"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "EPA",
       "DHA"
@@ -2952,23 +3069,24 @@
   },
   {
     "id": "6a6b171000000000330189d7",
-    "published_at": "2026-08-03 11:55:06",
+    "published_at": "2026-08-04 15:47:40",
+    "timestamp": 1785729306,
     "title": "54岁常年撸铁 聊聊我更年期关节养护心得",
     "content": "好多姐妹都好奇我：今年54岁，还能走秀、轻松倒立、完成各种力量训练，常年运动状态一直很好，到底是怎么保养的？ 其实我的方",
-    "likes": 27,
-    "comments": 18,
-    "collects": 12,
-    "shares": 2,
+    "likes": 151,
+    "comments": 175,
+    "collects": 64,
+    "shares": 10,
     "author": "多闻拂士",
-    "note_type": "video",
-    "source_keyword": "06_guanjie",
+    "note_type": "视频笔记",
+    "source_keyword": "氨糖 软骨素",
     "category": [
-      "骨关节",
-      "护心"
+      "护心",
+      "骨关节"
     ],
     "scene": [
-      "女性周期与气血",
-      "骨骼关节"
+      "骨骼关节",
+      "女性周期与气血"
     ],
     "crowd": [
       "健身",
@@ -2977,14 +3095,24 @@
     "ingredients": [
       "甘氨酸亚铁"
     ],
-    "product": "甘氨酸亚铁",
+    "product": "",
     "brands": [],
     "sentiment": "neutral",
-    "comment_texts": [],
-    "comments_fetched": false,
-    "interaction": 59,
-    "post_type": "health",
-    "xsec_token": "YBFTano47nsS3PNz3iVzbQDH3eGk8oko8BS1ZjxyogC94="
+    "comment_texts": [
+      "54岁还在撸铁真的太厉害了",
+      "氨糖真的要早吃，我妈膝盖已经开始疼了",
+      "关节保养不分年龄",
+      "氨糖和软骨素一起吃吗",
+      "54岁这个状态真的绝",
+      "求氨糖牌子",
+      "运动人群关节磨损比普通人厉害",
+      "膝盖咔咔响是不是要补氨糖了",
+      "我跑步膝盖疼，吃氨糖有用吗",
+      "中老年健身真的要注意关节"
+    ],
+    "comments_fetched": true,
+    "interaction": 400,
+    "post_type": "health"
   },
   {
     "id": "6a6ecf3b00000000080115ba",
@@ -3357,7 +3485,9 @@
     "source_keyword": "06_guanjie",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -3652,7 +3782,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -3713,7 +3845,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "维生素D3",
       "葡萄糖酸锌"
@@ -3869,7 +4003,9 @@
     "source_keyword": "07_mianyi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "葡萄糖酸锌"
     ],
@@ -3896,7 +4032,9 @@
     "source_keyword": "07_mianyi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -3938,7 +4076,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "维生素C"
     ],
@@ -4000,7 +4140,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -4056,7 +4198,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -4081,7 +4225,9 @@
     "source_keyword": "07_mianyi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -4260,7 +4406,9 @@
     "source_keyword": "08_huyan",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -4540,7 +4688,9 @@
     "source_keyword": "08_huyan",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -4594,7 +4744,9 @@
     "source_keyword": "08_huyan",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -4812,7 +4964,9 @@
       "左旋"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -5046,7 +5200,9 @@
       "黑咖啡"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -5140,7 +5296,9 @@
       "黑咖啡"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -5740,7 +5898,9 @@
     "source_keyword": "10_danbai",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -6086,7 +6246,9 @@
     "source_keyword": "11_duowei",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "酵母硒"
     ],
@@ -6311,7 +6473,9 @@
     "source_keyword": "11_duowei",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -6503,7 +6667,9 @@
     "source_keyword": "11_duowei",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -6528,7 +6694,9 @@
     "source_keyword": "11_duowei",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -6924,7 +7092,9 @@
       "脑健康"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "DHA"
     ],
@@ -6989,7 +7159,9 @@
       "脑健康"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "DHA"
     ],
@@ -7016,7 +7188,9 @@
     "source_keyword": "12_dha",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -7136,7 +7310,9 @@
       "提升注意力"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -7259,7 +7435,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -7290,7 +7468,9 @@
     "scene": [
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "花青素"
     ],
@@ -7361,7 +7541,9 @@
     "source_keyword": "13_swisse",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -7448,7 +7630,9 @@
       "美容抗衰"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse 抗糖丸",
     "brands": [
@@ -7505,7 +7689,9 @@
     "source_keyword": "13_swisse",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -7532,7 +7718,9 @@
     "source_keyword": "13_swisse",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -7588,7 +7776,9 @@
     "source_keyword": "13_swisse",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -7615,7 +7805,9 @@
     "source_keyword": "13_swisse",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -7748,7 +7940,9 @@
     "source_keyword": "13_swisse",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -7855,7 +8049,9 @@
     "source_keyword": "14_wonderlab",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -7896,7 +8092,9 @@
     "source_keyword": "14_wonderlab",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -7950,7 +8148,9 @@
     "source_keyword": "14_wonderlab",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "WonderLab",
     "brands": [
@@ -8008,7 +8208,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8033,7 +8235,9 @@
     "source_keyword": "14_wonderlab",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8085,7 +8289,9 @@
     "source_keyword": "14_wonderlab",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8141,7 +8347,9 @@
     "scene": [
       "情绪压力"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8376,7 +8584,9 @@
     "scene": [
       "肠道调理"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8401,7 +8611,9 @@
     "source_keyword": "14_wonderlab",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8505,7 +8717,9 @@
     "source_keyword": "15_byhealth",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "善存",
     "brands": [
@@ -8534,7 +8748,9 @@
       "补气血"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
     "ingredients": [
       "叶酸"
     ],
@@ -8596,7 +8812,9 @@
       "补气血"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "备孕·孕产"
+    ],
     "ingredients": [
       "叶酸"
     ],
@@ -8625,7 +8843,9 @@
     "source_keyword": "15_byhealth",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8650,7 +8870,9 @@
     "source_keyword": "15_byhealth",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "Swisse",
     "brands": [
@@ -8708,7 +8930,9 @@
     "source_keyword": "15_byhealth",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8801,7 +9025,9 @@
     "source_keyword": "15_byhealth",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -8853,7 +9079,9 @@
     "source_keyword": "15_byhealth",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -9005,7 +9233,9 @@
     "source_keyword": "16_wunvboshi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -9049,7 +9279,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9082,7 +9314,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9142,7 +9376,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "五个女博士 胶原三肽饮",
     "brands": [
@@ -9173,7 +9409,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9202,7 +9440,9 @@
     "source_keyword": "16_wunvboshi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -9227,7 +9467,9 @@
     "source_keyword": "16_wunvboshi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -9256,7 +9498,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9329,7 +9573,9 @@
       "内服焕肤",
       "免疫防护"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9362,7 +9608,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9395,7 +9643,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9428,7 +9678,9 @@
     "scene": [
       "内服焕肤"
     ],
-    "crowd": [],
+    "crowd": [
+      "健身"
+    ],
     "ingredients": [
       "水解胶原蛋白肽"
     ],
@@ -9457,7 +9709,9 @@
     "source_keyword": "16_wunvboshi",
     "category": [],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -9484,7 +9738,9 @@
       "虾青素"
     ],
     "scene": [],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [
       "虾青素"
     ],
@@ -9529,7 +9785,9 @@
       "内服焕肤",
       "情绪压力"
     ],
-    "crowd": [],
+    "crowd": [
+      "职场"
+    ],
     "ingredients": [],
     "product": "",
     "brands": [],
@@ -9646,5 +9904,6641 @@
     "interaction": 972,
     "post_type": "health",
     "xsec_token": "YBNmNZE7tjHjFsvghgnCSv1n3o1noB3-y6zCpjHWGFbxk="
+  },
+  {
+    "id": "6a73deb9000000000801076f",
+    "published_at": "2026-08-06 09:09:54",
+    "timestamp": 1785978553,
+    "title": "考研党专注力差无广碎碎念真实感受",
+    "content": "一开始买了右边那款，吃了一阵子。后来刷小红书又被种草了左边这个，试了觉得便宜又好用，立马安利给朋友～结果反而被她反向种草",
+    "likes": 3,
+    "comments": 0,
+    "collects": 2,
+    "shares": 1,
+    "author": "🎱",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "提升注意力"
+    ],
+    "scene": [],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73e1140000000022015a9b",
+    "published_at": "2026-08-06 09:19:56",
+    "timestamp": 1785979156,
+    "title": "自费买了3款儿童DHA神经酸（纯碎碎念）",
+    "content": "翻了下购物记录，发现我以前真没少贪便宜买几十块的DHA，后来还是咬牙上了贵一点的 整体吃下来，一分钱一分货这话一点不假",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "One",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "脑健康",
+      "心脑血管"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73deaa0000000033011a20",
+    "published_at": "2026-08-06 09:14:01",
+    "timestamp": 1785978538,
+    "title": "补脑别盲目跟风，说说热度高的神经酸",
+    "content": "跟风买过好多神经酸，家里堆了一大堆，到头才发现踩过好多坑。溢价的（一样的成分扣上品牌溢价再摊上明星代言费，身价就翻了几十",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "萌",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72e273000000002500636a",
+    "published_at": "2026-08-05 20:11:30",
+    "timestamp": 1785913971,
+    "title": "自用的两款神经酸，康麦斯和careman",
+    "content": "本人是考研党一枚，我是因为自己学习分心情况有点频繁了，每天自己的计划都完不成，进度拖拉的落下一截，做个题迷迷糊糊的没啥思",
+    "likes": 8,
+    "comments": 4,
+    "collects": 5,
+    "shares": 0,
+    "author": "lx",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 17,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72fb4f0000000022031d02",
+    "published_at": "2026-08-05 17:43:33",
+    "timestamp": 1785923013,
+    "title": "脑能量小半年反馈，没有网上说的这么好...",
+    "content": "一个普通用户，讲点关于#vinsic脑能量  的真心话 家里娃正是上学年纪，平时上课容易走神，记东西也慢，寻思着给孩子吃",
+    "likes": 136,
+    "comments": 0,
+    "collects": 99,
+    "shares": 4,
+    "author": "爱跳舞💃的人",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 239,
+    "post_type": "health"
+  },
+  {
+    "id": "6a731a12000000002403fa69",
+    "published_at": "2026-08-05 19:10:54",
+    "timestamp": 1785928210,
+    "title": "1-6岁大脑发育必备营养大全！速速收藏！",
+    "content": "今天给大家分享一下我家宝的营养补充 新手妈妈速速来抄作业！！ #宝宝营养  #dha  #宝宝dha  #儿童dha",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "是树薯呀",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72c8a20000000025007b1e",
+    "published_at": "2026-08-05 13:23:23",
+    "timestamp": 1785907362,
+    "title": "dha神经酸吃段时间了，我说说掏心窝子的话.",
+    "content": "首先→还是“真香”定律 在吃之前，觉得这东西是不是都智商税啊，纯好奇，到底是不是白花这💰 但是吃完之后，就又是那回事儿",
+    "likes": 12,
+    "comments": 4,
+    "collects": 9,
+    "shares": 1,
+    "author": "事与愿违",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 26,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72a629000000002402efa7",
+    "published_at": "2026-08-05 13:25:10",
+    "timestamp": 1785898537,
+    "title": "考研半年，买到满意的神经酸，感受都放这了",
+    "content": "1.从左到右按顺序介绍一下 最左边那个sws 240r/60粒，吃一个月 中间是careman 原价498r 活动价",
+    "likes": 11,
+    "comments": 4,
+    "collects": 8,
+    "shares": 1,
+    "author": "少点天真、",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 24,
+    "post_type": "health"
+  },
+  {
+    "id": "6a730016000000002402c9f3",
+    "published_at": "2026-08-05 17:20:05",
+    "timestamp": 1785921558,
+    "title": "写给纠结这两款神经酸的家长们，两者实际体",
+    "content": "给娃吃了一个多月右边黄盖，瓶子快要空了，没有继续囤，还是重新换回左边蓝盖。 比起网上各种宣传，我更看重孩子日常实实在在的",
+    "likes": 0,
+    "comments": 4,
+    "collects": 0,
+    "shares": 1,
+    "author": "-",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 5,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72d6e70000000033010388",
+    "published_at": "2026-08-05 14:24:15",
+    "timestamp": 1785911015,
+    "title": "便宜和贵的DHA神经酸吃后感受",
+    "content": "闲来无事翻了翻订单，之前图便宜入手过100r内的补🧠营养品，后来对比下来还是咬牙入了贵点的😮‍💨 实打实体验一段时",
+    "likes": 14,
+    "comments": 3,
+    "collects": 9,
+    "shares": 1,
+    "author": "小红薯6A71E2D1",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "脑健康",
+      "心脑血管"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 27,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71f73a0000000028000b38",
+    "published_at": "2026-08-04 22:29:56",
+    "timestamp": 1785853754,
+    "title": "别跟风！这俩DHA是我家实打实吃出来的",
+    "content": "从给孩子吃DHA开始，真的一瓶一瓶的买了不少牌子，有些知名度的吃着感觉也就一般，补充到现在是只打算回购科尔维和童年时光的",
+    "likes": 2,
+    "comments": 2,
+    "collects": 1,
+    "shares": 0,
+    "author": "幂幂",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "脑健康",
+      "心脑血管"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 5,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71979f0000000022011c36",
+    "published_at": "2026-08-04 15:42:01",
+    "timestamp": 1785829279,
+    "title": "便宜贵的DHA藻油都吃完了，说说区别",
+    "content": "左边是： 黑色瓶🌟298r/瓶，🌟60粒，🌟一天1粒 右边是：蓝瓶🌟268/瓶，🌟60粒/瓶，🌟一天1粒 以",
+    "likes": 11,
+    "comments": 3,
+    "collects": 4,
+    "shares": 1,
+    "author": "小红薯6A5F0939",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "脑健康",
+      "心脑血管"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 19,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73de2c0000000033018391",
+    "published_at": "2026-08-06 09:07:30",
+    "timestamp": 1785978412,
+    "title": "两种不同类型的平价dha神经酸感受分享",
+    "content": "目前吃过的神经酸有WEAE和沿*，简单来说说两个情况，沿*（已吃1瓶）、WEAE神经酸（已吃4瓶） 昨天家里的WEAE神",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 1,
+    "author": "辞忧",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72be2200000000080113ea",
+    "published_at": "2026-08-05 12:38:34",
+    "timestamp": 1785904674,
+    "title": "吃了careman神经酸四个月，说说优缺点",
+    "content": "先说一下我的情况我三月份开始准备考研，那段时间状态不咋地，坐在桌前面总喜欢发愣一会在开始学，可耽误事了，背书记下来的知识",
+    "likes": 10,
+    "comments": 4,
+    "collects": 5,
+    "shares": 1,
+    "author": "小红薯678A7429",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 20,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72814800000000220337fd",
+    "published_at": "2026-08-05 08:18:54",
+    "timestamp": 1785889096,
+    "title": "记录专注力差的娃吃过的5个爆款补计（大实话",
+    "content": "p1是我这一年给娃买过的所有了，有的是大白建议的，有的是别的宝妈分享的 一共5个： 酸锌 早上喝一支 维D 早上随餐吃一",
+    "likes": 22,
+    "comments": 11,
+    "collects": 16,
+    "shares": 3,
+    "author": "平安小朋友呀",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "VD_VK",
+      "提升注意力"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "葡萄糖酸锌"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 52,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72c2590000000028033bbf",
+    "published_at": "2026-08-05 12:56:34",
+    "timestamp": 1785905753,
+    "title": "（排个雷）吃神经酸200天真实感受和小提醒",
+    "content": "不是什么专业测评，也不想带货（品牌方勿扰）。 很久之前我就想试试神经酸了，因为我每天都在图书馆学习到很晚，还总是熬夜，所",
+    "likes": 11,
+    "comments": 4,
+    "collects": 6,
+    "shares": 1,
+    "author": "我保证你是天使",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 22,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7145c70000000022012a4c",
+    "published_at": "2026-08-04 09:52:48",
+    "timestamp": 1785808327,
+    "title": "Adhd考研补脑剂的碎碎念（真实感受",
+    "content": "近段时间吃过的所有补脑剂如上图 都是好评比较多的 都有人推荐过 因为我本身专注力差 每天学习还总是跑神开小差 背书记忆力",
+    "likes": 8,
+    "comments": 9,
+    "collects": 6,
+    "shares": 3,
+    "author": "小红薯6A5037AD",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "提升注意力"
+    ],
+    "scene": [],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 26,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71f8ca00000000280332f3",
+    "published_at": "2026-08-04 22:36:35",
+    "timestamp": 1785854154,
+    "title": "👶宝宝日常发育补剂合集",
+    "content": "✨维生素AD 出生后即可补充，早餐后服用，每日一粒，助力视觉和免疫发育，不要断断续续才有效 ✨科尔维DHA 午饭后一粒",
+    "likes": 7,
+    "comments": 2,
+    "collects": 2,
+    "shares": 0,
+    "author": "小安安",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [
+      "VD_VK",
+      "脑健康",
+      "心脑血管"
+    ],
+    "scene": [
+      "免疫防护"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "DHA",
+      "维生素A"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 11,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73dd38000000003302cb48",
+    "published_at": "2026-08-06 09:03:25",
+    "timestamp": 1785978168,
+    "title": "dha神经酸测评（又是验证便宜没好货的一次",
+    "content": "两个牌子的神经酸都吃完了，sor我自己选的老牌子，WEAE在小红薯上被种草的高含量的，反正买的时候也搜了下，都是小🐱榜",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 2,
+    "author": "^沈泽.轩",
+    "note_type": "普通笔记",
+    "source_keyword": "DHA 补脑",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 4,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73052e000000002701c0ef",
+    "published_at": "2026-08-05 18:18:08",
+    "timestamp": 1785925088,
+    "title": "跟风吃GABA内服的，赶紧停一停…",
+    "content": "这两天刷🍠发现很多朋友都分不清普通养眠内服和Saboos GABA复配款的区别，这两款核心搭配不一样，吃错会打折扣哦",
+    "likes": 31,
+    "comments": 0,
+    "collects": 3,
+    "shares": 1,
+    "author": "甜甜圈",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "GABA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 35,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73090b0000000006006192",
+    "published_at": "2026-08-05 18:42:34",
+    "timestamp": 1785925997,
+    "title": "睡不好别只做表面功夫！内调才是养眠的关键",
+    "content": "有没有姐妹和我一样，明明每天都努力调整作息，可依旧入睡特别费劲，睡着了还多梦易醒？一晚上下来也没睡几个小时! 晚上睡不好",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "phoenix",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a714e520000000025005bf4",
+    "published_at": "2026-08-04 10:29:18",
+    "timestamp": 1785810514,
+    "title": "初中生的睡眠问题，当妈的真是心疼又无力",
+    "content": "女儿小学时睡觉从来不用操心，九点倒头就睡，一觉天亮，早上自己醒。上了初中完全变了一个人。 作业写到十一二点是家常便饭，好",
+    "likes": 68,
+    "comments": 18,
+    "collects": 38,
+    "shares": 1,
+    "author": "我是兔子妈妈",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 125,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f75d0000000028006d5b",
+    "published_at": "2026-08-05 16:42:49",
+    "timestamp": 1785919325,
+    "title": "",
+    "content": "4-7-8呼吸法你可能听过：吸气4秒，屏住7秒，呼气8秒。 但你知道它为什么管用吗？ 慢慢呼气 → 激活迷走神经 → 向",
+    "likes": 4,
+    "comments": 0,
+    "collects": 5,
+    "shares": 0,
+    "author": "每晚好好睡",
+    "note_type": "视频笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 9,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7305720000000025003259",
+    "published_at": "2026-08-05 17:54:59",
+    "timestamp": 1785923699,
+    "title": "睡不着躺床上翻到崩溃…吃Saboos gaba补救",
+    "content": "认真的提醒各位打工人，一定要养好作息习惯 不然就会跟我一样，可能是工作压力太大了，晚上躺在床上翻来覆去睡不着，脑子里乱想",
+    "likes": 50,
+    "comments": 0,
+    "collects": 9,
+    "shares": 1,
+    "author": "一抹朝霞",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [],
+    "scene": [
+      "情绪压力"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "GABA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 60,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6c62950000000022015f6a",
+    "published_at": "2026-08-04 10:12:57",
+    "timestamp": 1785489862,
+    "title": "风很大的Saboos GABA，已吃",
+    "content": "常年熬夜加班、睡不着的上班族一定要重视起来！每天明明已经累到浑身发软，躺到床上翻来覆去熬到凌晨两三点，就是睡不着，白天工",
+    "likes": 0,
+    "comments": 5,
+    "collects": 0,
+    "shares": 2,
+    "author": "哈喽凯蒂",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松",
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "GABA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 7,
+    "post_type": "health"
+  },
+  {
+    "id": "6a730ac900000000250054f1",
+    "published_at": "2026-08-05 18:58:16",
+    "timestamp": 1785927143,
+    "title": "总算搞懂！睡眠差原来是缺少GABA",
+    "content": "我感觉自从参加工作以后，我的作息就乱了，之前熬多晚都会睡着，现在不了，白天的工作压力太大，一到晚上就是想睡睡不着，脑子总",
+    "likes": 21,
+    "comments": 0,
+    "collects": 6,
+    "shares": 1,
+    "author": "薯薯",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "情绪压力",
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "GABA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 28,
+    "post_type": "health"
+  },
+  {
+    "id": "6a734f1d00000000050228bf",
+    "published_at": "2026-08-05 22:57:13",
+    "timestamp": 1785941789,
+    "title": "MUJI助眠软糖真实体验",
+    "content": "讲实话，别指望吃一颗直接昏睡过去🤣 无印这个GABA软糖，就是个放松小糖果 热红酒味，不含酒精 吃着甜甜的Q弹，低糖",
+    "likes": 2,
+    "comments": 1,
+    "collects": 0,
+    "shares": 0,
+    "author": "小柚子呀!",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "GABA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7094130000000005033b10",
+    "published_at": "2026-08-05 05:01:34",
+    "timestamp": 1785762835,
+    "title": "低精力打工人睡不好在吃的补剂纯分享",
+    "content": "#低精力人  #打工人  #失眠  #补剂  #甘氨酸镁  #鱼油  #上班  #压力大  #焦虑  #睡不着",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "farewell",
+    "note_type": "视频笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "心脑血管",
+      "镁"
+    ],
+    "scene": [
+      "情绪压力",
+      "睡眠放松",
+      "心血管养护"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "甘氨酸镁"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a729fde000000002201239e",
+    "published_at": "2026-08-05 10:29:34",
+    "timestamp": 1785896926,
+    "title": "muji新品 葡萄酒氨基丁酸软糖 测评",
+    "content": "听说这款很助眠，于是乎想要试试 吃了两天晚上，每天吃两颗 梦多，睡眠数据感觉也一般（有图为证）没有睡很踏实🤣 以上 实",
+    "likes": 2,
+    "comments": 7,
+    "collects": 0,
+    "shares": 0,
+    "author": "Yojayjay(o^^o)",
+    "note_type": "普通笔记",
+    "source_keyword": "GABA 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 9,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6c70b300000000250109ff",
+    "published_at": "2026-08-04 17:12:00",
+    "timestamp": 1785739469,
+    "title": "冲动下单DHA叶黄素的后续！",
+    "content": "说实话，以前也跟风给孩子买过不少护眼补剂,什么普通叶黄素软糖、维A咀嚼片、蓝莓护眼糖……大多吃了都平平无奇，没什么改善",
+    "likes": 112,
+    "comments": 6,
+    "collects": 27,
+    "shares": 3,
+    "author": "甜蜜小富婆🍯",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [
+      "脑健康",
+      "心脑血管",
+      "眼健康"
+    ],
+    "scene": [
+      "护眼用脑"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "DHA",
+      "叶黄素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 148,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b2c40000000021020bcf",
+    "published_at": "2026-08-04 17:40:11",
+    "timestamp": 1785836228,
+    "title": "高度近视几乎养好了（全过程）",
+    "content": "（首先声明，仅代表个人经验分享，理性参考，如有不适请就1） 我是左475右625，整天看电脑得凑很近，每次开会看PPT都",
+    "likes": 27,
+    "comments": 7,
+    "collects": 27,
+    "shares": 5,
+    "author": "祯祯",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 66,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72bf140000000035015afc",
+    "published_at": "2026-08-05 12:53:39",
+    "timestamp": 1785904916,
+    "title": "儿童叶黄素老吃家，说说吃后感！",
+    "content": "我家属于家族近视，孩子爷爷奶奶我和我爱人都戴眼镜，想着孩子眼睛以后也好不到哪去，所以在孩子上小学开始，就做攻略买了叶黄素",
+    "likes": 3,
+    "comments": 3,
+    "collects": 1,
+    "shares": 0,
+    "author": "窗外的雨",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [
+      "眼健康"
+    ],
+    "scene": [
+      "护眼用脑"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "叶黄素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 7,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b65a0000000024026352",
+    "published_at": "2026-08-04 17:53:10",
+    "timestamp": 1785837146,
+    "title": "锐评7款热门叶黄素…（自用版）",
+    "content": "有问必答，纯属自用7款叶黄素分享 依次是： 一排：星鲨、健美生、斯维诗、莱特维健 二排：双心、莱安博、澳佳宝 可以接受互",
+    "likes": 8,
+    "comments": 2,
+    "collects": 5,
+    "shares": 1,
+    "author": "小老虎🐯（茴置顶）",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [
+      "眼健康"
+    ],
+    "scene": [
+      "护眼用脑"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "叶黄素"
+    ],
+    "product": "",
+    "brands": [
+      "澳佳宝"
+    ],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "我想问一下你还在用的 叶黄素 是什么的呀，有用吗",
+      "莱安博 家的，刚开始就觉得一天两粒还挺方便的，用着用着感觉有点儿用就坚持着用，对我来说度数下了，用眼没那么累了"
+    ],
+    "comments_fetched": true,
+    "interaction": 16,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71aa9c000000002c007900",
+    "published_at": "2026-08-05 18:52:05",
+    "timestamp": 1785834140,
+    "title": "叶黄素大户|便宜贵的都有，随便问！",
+    "content": "价格是我自己的购入价，可参考 p2是颗粒展示，p3是背标 按顺序分享感受，好赖话都有： 黑瓶子，268/60粒，每天",
+    "likes": 3,
+    "comments": 3,
+    "collects": 3,
+    "shares": 1,
+    "author": "一朝相识百日思",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [
+      "眼健康"
+    ],
+    "scene": [
+      "护眼用脑"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "叶黄素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 10,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c6700000000025009cfa",
+    "published_at": "2026-08-05 09:21:21",
+    "timestamp": 1785841264,
+    "title": "近视三个叶黄素都吃了，咋说呢。。。",
+    "content": "仅代表我个人感受哈，不涉及别的牌子，也不说谁家不好，就是纯体验分享。 最开始吃的是双心，牌子大嘛，也没做什么攻略，图省事",
+    "likes": 2,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "26+存钱主理人～",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [
+      "眼健康"
+    ],
+    "scene": [
+      "护眼用脑"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "叶黄素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a704f01000000002202fdb5",
+    "published_at": "2026-08-05 18:06:29",
+    "timestamp": 1785745153,
+    "title": "作为一个5年干眼症患者",
+    "content": "鄙视那些引流推广的笔记，现在那些什么雾化仪眼药水推销我都难看出是广告，跟风买回来屁用没有，事先说一下我只是在分享我的经历",
+    "likes": 69,
+    "comments": 27,
+    "collects": 76,
+    "shares": 3,
+    "author": "rui_",
+    "note_type": "普通笔记",
+    "source_keyword": "叶黄素 护眼",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 175,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71bae6000000000801356b",
+    "published_at": "2026-08-05 08:51:06",
+    "timestamp": 1785891066,
+    "title": "夏季宝宝挑食加重，营养全靠它兜底",
+    "content": "以前每年到了夏天都很折磨，主要是家里有个挑食娃不爱吃青菜，每次吃饭挑挑拣拣，真担心日常营养跟不上。 本身夏天天气热，营养",
+    "likes": 28,
+    "comments": 7,
+    "collects": 25,
+    "shares": 0,
+    "author": "软萌小薄荷",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 60,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72bf60000000002603501a",
+    "published_at": "2026-08-05 12:43:56",
+    "timestamp": 1785904992,
+    "title": "爱用的两个可以多次回购的复合维生素B",
+    "content": "这俩在小红薯的体量挺大的基本一搜复合维生素B就能看到各种种草贴的，而且颗粒大小适中，都挺好吞咽的，吃完也没有不舒服啥的",
+    "likes": 3,
+    "comments": 1,
+    "collects": 2,
+    "shares": 0,
+    "author": "绫小善(欧皇版)",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [
+      "VB类",
+      "多维"
+    ],
+    "scene": [
+      "基础补充"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72e9f0000000002500a486",
+    "published_at": "2026-08-05 15:45:34",
+    "timestamp": 1785915888,
+    "title": "【纯主观】女维从夯到拉锐评",
+    "content": "超主观从夯到拉排一下，篇幅有限只写常吃的，没提就不咋吃 P❶全部吃过的女维 P❷ 250r/60粒，复配了第五代硒 P",
+    "likes": 9,
+    "comments": 6,
+    "collects": 6,
+    "shares": 2,
+    "author": "蕃薯大王🐾",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "酵母硒"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 23,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71a55f000000003302f8e5",
+    "published_at": "2026-08-04 16:40:41",
+    "timestamp": 1785832799,
+    "title": "复合维D没效果",
+    "content": "我之前就是吃复合维生素——里面也有维D，坚持了大半年，可别人数值蹭蹭涨，我复查还是低。到底是补D没用，还是方式不对",
+    "likes": 87,
+    "comments": 0,
+    "collects": 85,
+    "shares": 0,
+    "author": "麦芽🍬西",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [
+      "VD_VK",
+      "多维"
+    ],
+    "scene": [
+      "基础补充"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "negative",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 172,
+    "post_type": "health"
+  },
+  {
+    "id": "6a707324000000002403c29d",
+    "published_at": "2026-08-04 21:10:20",
+    "timestamp": 1785816526,
+    "title": "建议每个女生都去吃",
+    "content": "近两年买了很多补剂，吃下来最牛的就是这个，不愧是德国🇩🇪top级的 尤其是心情很down很憋的时候吃，效果立马就能感",
+    "likes": 326,
+    "comments": 28,
+    "collects": 164,
+    "shares": 16,
+    "author": "霸道公主",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "嘿嘿！",
+      "我给我妈买过，抗老这块可以的！",
+      "是那个d3k2吗",
+      "那个口喷钙有点东西 我才用一个星期 我朋友说我白了 我也不知道哪里的原因 平常也不怎么护肤",
+      "难下噎吗",
+      "🍑有奥适宝的官方 搜奥适宝亚精胺就行",
+      "在哪里买",
+      "小小一包什么都配齐了",
+      "低能量人真的很需要",
+      "收到！！现在真的很注重内调嘿嘿",
+      "这种能稳定食欲不",
+      "吸收快吗？容易吞服吗",
+      "对的",
+      "这个是一次吃一包嘛"
+    ],
+    "comments_fetched": true,
+    "interaction": 534,
+    "post_type": "health"
+  },
+  {
+    "id": "6a717e5b0000000033019c8e",
+    "published_at": "2026-08-04 18:24:54",
+    "timestamp": 1785839094,
+    "title": "1个月内服实测：姨妈很准时的气色感藏不住..",
+    "content": "25岁之后，我明显感到身体的代谢跟不上高强度的工作节奏了。每天盯电脑10个小时，下午三点准时陷入脑力透支的状态，脸色开始",
+    "likes": 379,
+    "comments": 21,
+    "collects": 138,
+    "shares": 1,
+    "author": "我要吃夜宵",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "🔍OLLY女维软糖",
+      "复合维生素去哪里能买到这个糖丸啊",
+      "我觉得女生不用啦～基础维生素都有了的[喝奶茶R]",
+      "吃这个复合维生素就再也不用补别的维生素了吗？",
+      "吃了第二盒了 指甲硬了很多 已经大概洗澡4.5次了都没有断 之前很软一洗澡就从指肚劈掉了",
+      "是呀是呀[喝奶茶R][喝奶茶R]",
+      "我以前吃的复合维生素都是药片，这回有糖软糖了太好了",
+      "！！我的指甲也是！我之前做美甲老是容易断一半，现在都不会了",
+      "我买了一罐90粒的 6.8吃到现在 感觉睡眠变好了些、指甲也没那么容易断了（本人严重薄软甲，尤其大拇指长长超过3毫米ab点必然会断） 我感觉现在比以前容易入睡了 之前不熬到一两点根本没有困意 现在十二点就困得要死安然入睡了",
+      "我也有感觉！",
+      "一天吃几次，一次吃几粒呀？",
+      "我掉发还好～睡得很香！",
+      "我吃了以后头发掉得少了，效果不错。不过这只是我个人哈，不知道其他人",
+      "我没有断诶[吧唧R][吧唧R]感觉不会有影响",
+      "这个来姨妈的时候能吃吗",
+      "我也是！！好多人说吃了这个睡的更香了，我在想是不是因为营养跟上了[吧唧R]",
+      "我吃了一瓶，感觉睡得好熟，睡眠有变化的",
+      "一天两粒的话35天[喝奶茶R][喝奶茶R]",
+      "这一瓶能吃多长时间啊？"
+    ],
+    "comments_fetched": true,
+    "interaction": 539,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72fcb3000000003303148a",
+    "published_at": "2026-08-05 17:40:50",
+    "timestamp": 1785922850,
+    "title": "健身人素颜好气色，内调才是终极底牌",
+    "content": "运动后真的是太舒服了， 每次都感觉整个人精神焕发，素颜看着都顺眼不少 但这种好状态想一直稳住，光靠运动是真的是差点儿意思",
+    "likes": 9,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "情绪未存档",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 10,
+    "post_type": "health"
+  },
+  {
+    "id": "6a718b5e000000000502bcc1",
+    "published_at": "2026-08-04 15:26:10",
+    "timestamp": 1785828370,
+    "title": "olly和红脸兔女维吃了四个多月 说下感受",
+    "content": "…每天早上梳头雷打不动一大把，头皮又油又痒，换好几款洗发水都不咋管用 刷到很多这种情况的帖子下面，都说让补补维生素b族",
+    "likes": 142,
+    "comments": 0,
+    "collects": 113,
+    "shares": 4,
+    "author": "AA纽扣",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [
+      "OLLY"
+    ],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 259,
+    "post_type": "health"
+  },
+  {
+    "id": "6a730f7f00000000350148f2",
+    "published_at": "2026-08-05 18:25:48",
+    "timestamp": 1785925503,
+    "title": "维诺丽女维的优缺点，浅浅说下",
+    "content": "🩵维诺丽女维 优点： ①颗粒是胶囊的，吞咽没有压力，我之前是吃过别的补剂的，颗粒大的我吃三次两次都卡喉咙。 ②吃完一瓶",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 1,
+    "author": "我是馨儿",
+    "note_type": "普通笔记",
+    "source_keyword": "复合维生素",
+    "category": [],
+    "scene": [
+      "情绪压力"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b806000000000f03a000",
+    "published_at": "2026-08-04 18:00:30",
+    "timestamp": 1785837574,
+    "title": "新手吃护肝片｜一篇搞懂怎么选✅",
+    "content": "第一次吃护肝片不知道怎么选？看完这篇不用纠结！ 很多人误以为护肝片是药，其实大部分日常款都是膳 -食补充剂！主打日常养护",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "想撸抹茶的人",
+    "note_type": "普通笔记",
+    "source_keyword": "奶蓟草 护肝",
+    "category": [
+      "护肝"
+    ],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f849000000003400f5b4",
+    "published_at": "2026-08-05 16:48:45",
+    "timestamp": 1785919561,
+    "title": "xhs推荐的俩护肝片都吃了，有对比才有伤害",
+    "content": "1️⃣总体感受 护肝片没买低含量的感觉吃着也不能管事儿，这俩含量都挺高的（左边：420mg/粒 右边500mg/粒）都吃",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 1,
+    "author": "Young",
+    "note_type": "普通笔记",
+    "source_keyword": "奶蓟草 护肝",
+    "category": [
+      "护肝"
+    ],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b61f0000000029031496",
+    "published_at": "2026-08-04 17:53:07",
+    "timestamp": 1785837087,
+    "title": "那些博主测评的护肝片你再夸张点骗我试试",
+    "content": "姐妹们！谁懂啊？！🤯 现在买个护肝片，都成烧脑的活啦，感觉每次去冲浪种种草🌱啥得，一堆软广硬广的…… 写的硬点的还能",
+    "likes": 4,
+    "comments": 0,
+    "collects": 5,
+    "shares": 0,
+    "author": "快乐邀请涵o",
+    "note_type": "普通笔记",
+    "source_keyword": "奶蓟草 护肝",
+    "category": [
+      "护肝"
+    ],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 9,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7157f10000000033033e55",
+    "published_at": "2026-08-04 11:11:13",
+    "timestamp": 1785812977,
+    "title": "关于我吃便宜喽嗖护肝片的真实开销和感受",
+    "content": "😀买之前：各种博主、大佬的分享帖看的我疯狂心动，什么睡的好、脸色好看了、比之前有精神头....头脑风暴下单好几款，不管",
+    "likes": 7,
+    "comments": 0,
+    "collects": 10,
+    "shares": 6,
+    "author": "零度",
+    "note_type": "普通笔记",
+    "source_keyword": "奶蓟草 护肝",
+    "category": [
+      "护肝"
+    ],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 23,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71f398000000000c033c01",
+    "published_at": "2026-08-04 22:25:55",
+    "timestamp": 1785852824,
+    "title": "🇲🇾爱吃碳水的我 终于找到救星啦⭐️",
+    "content": "以前每次说要控制饮食 结果看到面、饭、火锅、甜点还是忍不住🥹 后来发现 与其一直🖊️自己节食 不如找对救星 🫣 饭",
+    "likes": 37,
+    "comments": 3,
+    "collects": 5,
+    "shares": 0,
+    "author": "柚子到处去",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 45,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71aece000000000502b8e8",
+    "published_at": "2026-08-04 17:22:32",
+    "timestamp": 1785835214,
+    "title": "左滑让这件上衣看起来没这么饱满……",
+    "content": "#减脂已练不欠  #左滑看我健身  想起来本人每周的固定节目“一周训练流水账”还没有发 本周就像特种兵，从周五开始好像就",
+    "likes": 30,
+    "comments": 8,
+    "collects": 1,
+    "shares": 0,
+    "author": "是阿凯啊",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [],
+    "scene": [
+      "运动恢复",
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 39,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71813e00000000250109a9",
+    "published_at": "2026-08-04 14:07:43",
+    "timestamp": 1785823550,
+    "title": "挑战185.1瘦到100斤的第五天",
+    "content": "今天有点罪恶[捂脸R]不然没力气爬坡了应该掉不了秤了 今日体重：173.9（比昨天-1.4） 运动：哑铃10分钟，45分",
+    "likes": 4,
+    "comments": 3,
+    "collects": 0,
+    "shares": 0,
+    "author": "香香（减肥版）",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 7,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7367b3000000002501140d",
+    "published_at": "2026-08-06 00:42:09",
+    "timestamp": 1785948083,
+    "title": "天呐‼️产后这样吃不运动的我又掉秤啦",
+    "content": "自从下定决心开始减肥，就一直给自己做吃的，饮食一定要干净，少油少盐。产后一年多啦，每次看到肚子上肉肉一坨，真的是苦恼",
+    "likes": 0,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "楚晴吖",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72e71b0000000006005e42",
+    "published_at": "2026-08-05 15:33:28",
+    "timestamp": 1785915163,
+    "title": "左旋肉碱吨吨桶",
+    "content": "第一次看到这种饮料，买来尝尝感觉好甜[笑哭R]，一般。小黄油美式加椰子水yyds!打工牛马必备！#咖啡续命  #快乐减脂",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "幸运猫🍑",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [
+      "燃脂提代",
+      "左旋"
+    ],
+    "scene": [
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "左旋肉碱酒石酸盐"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72d436000000000f03a400",
+    "published_at": "2026-08-05 14:12:54",
+    "timestamp": 1785910326,
+    "title": "吃了几天的左旋肉碱，分享一些个人感受",
+    "content": "记录一下吧：原来大概123.5不到124 昨天是吃的第十天，总共掉了3，不知道是不是每个人情况不一样，我是饭前吃两粒，然",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "CF记忆",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [
+      "燃脂提代",
+      "左旋"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "左旋肉碱酒石酸盐"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a717b80000000002c007635",
+    "published_at": "2026-08-04 13:42:02",
+    "timestamp": 1785822080,
+    "title": "内服二选一，这俩谁吃过？",
+    "content": "吃内服也有一段时间了，这两款算是我接触的比较印象深刻的，从几个方面分别都说下感受吧，不推荐不拉踩🙅‍♀️，就拿我自己体",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "iHe",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c65c000000002403e6b5",
+    "published_at": "2026-08-05 11:56:49",
+    "timestamp": 1785841244,
+    "title": "盒马山竹左旋肉碱水：新型科技泻药",
+    "content": "口感挺普的，山竹椰子水的味道为主。不是很甜，整体挺顺的。 关键是一瓶下去，肚子咕咕咕咕一整天。狠活狠会啊。 配料表加了一",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 1,
+    "author": "阿贝吃真好",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [
+      "燃脂提代",
+      "左旋"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "左旋肉碱酒石酸盐"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73c9db000000002800a821",
+    "published_at": "2026-08-06 07:40:54",
+    "timestamp": 1785973211,
+    "title": "",
+    "content": "减了n次肥，什么SoSo包，左旋肉碱，黑咖啡，果冻果糖，白芸豆，一针瘦，拔罐等，都没管用，最后一顿火锅前成功干掉一袋大米",
+    "likes": 7,
+    "comments": 0,
+    "collects": 0,
+    "shares": 1,
+    "author": "文武双全",
+    "note_type": "普通笔记",
+    "source_keyword": "左旋肉碱",
+    "category": [
+      "燃脂提代",
+      "阻断",
+      "黑咖啡",
+      "左旋"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "左旋肉碱酒石酸盐"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 8,
+    "post_type": "health"
+  },
+  {
+    "id": "6a670402000000000c0171e7",
+    "published_at": "2026-08-04 18:00:07",
+    "timestamp": 1785837607,
+    "title": "氨糖怎么选？4个黄金标准帮你避坑！",
+    "content": "#速节液体氨糖  #听医生的真心话  #白大褂朋友已在线 #氨糖怎么选  #关节痛",
+    "likes": 1,
+    "comments": 0,
+    "collects": 2,
+    "shares": 0,
+    "author": "中医主任徐佳音",
+    "note_type": "视频笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "盐酸氨基葡萄糖"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7329980000000029030d3d",
+    "published_at": "2026-08-05 20:17:07",
+    "timestamp": 1785932184,
+    "title": "",
+    "content": "中老年反复回购补剂合集（腰疼 有问必答，纯属自用分享 依次是： 一排：鱼油、康普优氨糖、D3、钙片 二排：蛋白粉、VB",
+    "likes": 2,
+    "comments": 2,
+    "collects": 2,
+    "shares": 2,
+    "author": "乐天派派派",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "心脑血管",
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节",
+      "运动恢复",
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "乳清分离蛋白",
+      "盐酸氨基葡萄糖",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 8,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6e77010000000033033316",
+    "published_at": "2026-08-04 12:40:25",
+    "timestamp": 1785625229,
+    "title": "纽约Costco隐藏清单大公开！",
+    "content": "Costco好物推荐，你用过哪款？还有哪个你觉得好用！#美国生活  #逛一逛本地超市  #美国好物  #Costco好物",
+    "likes": 10,
+    "comments": 0,
+    "collects": 24,
+    "shares": 35,
+    "author": "纽约七哥吃喝玩乐",
+    "note_type": "视频笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 69,
+    "post_type": "health"
+  },
+  {
+    "id": "6a718bee000000002403c57f",
+    "published_at": "2026-08-06 00:49:01",
+    "timestamp": 1785833384,
+    "title": "膝盖疼用了这2款氨糖，还是想吐槽...",
+    "content": "先打个预防针，纯属个人体验，不踩不捧。 - 我膝盖疼的那会老看到有人推德国马膏，正好在高铁上有乘务员推销，就买了一罐回来",
+    "likes": 109,
+    "comments": 14,
+    "collects": 62,
+    "shares": 2,
+    "author": "晚风知意🍓",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节",
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [
+      "盐酸氨基葡萄糖",
+      "甘氨酸亚铁"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "negative",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 187,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7331e00000000025005f7e",
+    "published_at": "2026-08-05 20:52:34",
+    "timestamp": 1785934304,
+    "title": "🐶小型犬日常保健（无广版）",
+    "content": "1️⃣Blacksheep椰油薄荷牙膏 小狗牙齿问题真的请注意‼️牙齿问题在宠物店里的发生频率若论第二，连髌骨都不敢称第",
+    "likes": 7,
+    "comments": 1,
+    "collects": 4,
+    "shares": 2,
+    "author": "酒酿小圆子（微甜版）",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 14,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6b0061000000000601202c",
+    "published_at": "2026-08-05 16:58:20",
+    "timestamp": 1785490938,
+    "title": "47岁日常氨糖养膝｜只为继续奔赴山川风景",
+    "content": "今年47岁，平日里最爱周末爬山徒步，一到寒暑假就带上全家四处旅行。虽说走多了膝盖疼，但置身山水之间，是我解压放松最好的方",
+    "likes": 246,
+    "comments": 155,
+    "collects": 80,
+    "shares": 10,
+    "author": "竹子的慢生活",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "盐酸氨基葡萄糖"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "80年的 自己做生意 平时喜欢喝茶 养花旅游 蹲一个",
+      "值得一试",
+      "健康生活很重要",
+      "健康养护，继续看美景去！[仙女R][加油R]",
+      "这个天然活性氨糖比较温和的。",
+      "我之前吃的药片状的胃不舒服",
+      "好分享[玫瑰R]",
+      "特别省地方，一撕就可以喝。",
+      "喜欢爬山徒步的人真的要好好爱护膝盖，迪巧速节液体氨糖这种小袋装放包里刚好",
+      "对对对，，我就是喜欢出去徒步爬山，这是我的放松方式，跟机器似的，你用的多你多的勤保养啊，膝盖也是一样。",
+      "这种坚持运动的生活状态好羡慕，运动量上来了更要做好恢复，不然膝盖压力也挺大的",
+      "可以试试这款迪巧液体氨糖，比较温和还方便。",
+      "我爸也是爱出去走路爬山的类型，嘴上说没事，但其实回来膝盖都会觉得累，现在也开始注意日常补充了",
+      "是的，这个养护是越早越好，但是这东西不怕晚，慢慢养吧。",
+      "47岁还能保持这种运动状态太好了，很多人都是等膝盖不舒服了才开始关注，其实早点养护更好"
+    ],
+    "comments_fetched": true,
+    "interaction": 491,
+    "post_type": "health"
+  },
+  {
+    "id": "6a69b621000000000c0178d7",
+    "published_at": "2026-08-05 11:10:11",
+    "timestamp": 1785561416,
+    "title": "老年犬，关节养护真的很重要",
+    "content": "家里养老年犬的，真的要把关节养护刻进每日清单里！尤其是小型犬，年纪一大真的很容易找上门。 我之前特意查过，脱位到三四级",
+    "likes": 37,
+    "comments": 2,
+    "collects": 0,
+    "shares": 4,
+    "author": "rocky是只胖柯基",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 43,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7209fb0000000025017c81",
+    "published_at": "2026-08-05 10:28:13",
+    "timestamp": 1785896893,
+    "title": "膝盖的“工龄”谁买单？氨糖千万要选对！",
+    "content": "每天在工位上一坐就是大半天 起身的瞬间膝盖又酸又响 甚至后背发紧，腰胯也僵得不行，同事一聊全中招 查了才知道——久坐不动",
+    "likes": 362,
+    "comments": 40,
+    "collects": 151,
+    "shares": 5,
+    "author": "一点小枣糕",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "盐酸氨基葡萄糖"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "拜耳的这款可以吃一个月哦 一天一条 不会有副作用哦",
+      "这样的一盒是可以吃多长时间？会不会会有什么副作用",
+      "是的呢 其实拜耳这款效果就很好可以试试哦",
+      "现在补钙的东西真的是五花八门的所以要好好选择",
+      "很好吸收的呀",
+      "你别说哈，上了年龄之后真的要补钙了，这个液体钙好吸收吗？",
+      "我就是在纠结买什么样的，过来看看测评。",
+      "这款液体的很好吸收 而且吃完肠胃状态会更好",
+      "那这种的好吸收吗？我肠胃不是很好",
+      "一般是饭后吃哦",
+      "打工人天天坐着是得补充一点了 饭前饭后吃的？",
+      "液体钙会更好吸收哦 30+左右都可以的",
+      "液体钙的吸收效果好不好，这个适合什么年龄段",
+      "不用啊 正常饮用就好",
+      "氨糖液体钙吃的时候要不要忌口，要注意什么",
+      "合理科学补充",
+      "还是要多了解一下，看看怎样科学补充",
+      "钙都是要长期补的呀 拜耳这款一天一条就够了",
+      "那这个是需要长期补充的吗？一天要吃几次的？"
+    ],
+    "comments_fetched": true,
+    "interaction": 558,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72fc770000000027022f2a",
+    "published_at": "2026-08-05 17:04:36",
+    "timestamp": 1785920631,
+    "title": "不工作的几天感受到了手僵的全面恢复",
+    "content": "氨糖+拜耳的含氨糖软骨素的液体钙坚持服用了一个半月了，在一个月零一周的时候还没感受到手僵的问题有特别明显的巨大改善。但是",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "生如蚁美如神",
+    "note_type": "普通笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "硫酸软骨素",
+      "柠檬酸钙",
+      "盐酸氨基葡萄糖"
+    ],
+    "product": "",
+    "brands": [
+      "拜耳"
+    ],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c8fc0000000033037fe1",
+    "published_at": "2026-08-05 21:16:52",
+    "timestamp": 1785841916,
+    "title": "健康猫乱吃软骨素，反而伤骨头？",
+    "content": "#软骨素有必要吃吗  #科学养猫  #宠物健康  #宠物补品  #吴彦祖",
+    "likes": 3,
+    "comments": 0,
+    "collects": 3,
+    "shares": 0,
+    "author": "宠物营养 Rully卡卡",
+    "note_type": "视频笔记",
+    "source_keyword": "氨糖 软骨素",
+    "category": [
+      "骨关节"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "硫酸软骨素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7180d50000000033036e02",
+    "published_at": "2026-08-04 16:50:59",
+    "timestamp": 1785833459,
+    "title": "怒花2k 锐评网上爆🔥的白芸豆阻断",
+    "content": "花了近2k买了两款白芸豆，目前各吃了一个月，具体感受在图片上，有需要的姐妹可以参考一下 #白芸豆  #Swisse",
+    "likes": 21,
+    "comments": 23,
+    "collects": 13,
+    "shares": 2,
+    "author": "小舍",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [
+      "阻断"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [
+      "Swisse"
+    ],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 59,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73ac740000000022012cdb",
+    "published_at": "2026-08-06 05:35:27",
+    "timestamp": 1785965684,
+    "title": "",
+    "content": "午餐带饭这件事，找到几个对味的搭配就会变得很顺。这周轮换的四份主食，都属于做起来不累、吃完不空的那种，很适合放进一周菜单",
+    "likes": 4,
+    "comments": 0,
+    "collects": 1,
+    "shares": 2,
+    "author": "幸运乐宝",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 7,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71be47000000002c000ac9",
+    "published_at": "2026-08-04 18:27:00",
+    "timestamp": 1785839176,
+    "title": "162/85 维持体重的一天吃什么｜已瘦11斤",
+    "content": "🎯初始体重：95.6斤 🎯今日体重：85.4斤（今早空腹） 🎯目标体重：85斤 🎯期望体重：82斤 第六十三天",
+    "likes": 6,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "小埋（不瘦到82斤不改名版）",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a719f4d0000000005032fe3",
+    "published_at": "2026-08-04 17:30:28",
+    "timestamp": 1785835828,
+    "title": "外卖聚餐多，打卡carecolor俩月反馈",
+    "content": "本人完全纯馋猪妞一枚啊...比如我吃完火鸡面+炸鸡+烤肠后已经很饱了，但还会想喝酸奶吃小蛋糕啥的这些甜的，完全甜咸永动机",
+    "likes": 28,
+    "comments": 22,
+    "collects": 14,
+    "shares": 1,
+    "author": "向钱看",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 65,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b8ea0000000025016973",
+    "published_at": "2026-08-04 18:13:08",
+    "timestamp": 1785838388,
+    "title": "已排垒，大基数吃三款管理内服的半年感受",
+    "content": "这三款都是我刷小红书被种草的，实打实长期吃下来的管理内服，今天给大家分享下自己的一些感受，姐妹们做个参考吧！ - 封面左",
+    "likes": 123,
+    "comments": 20,
+    "collects": 81,
+    "shares": 1,
+    "author": "创创慢养日记",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 225,
+    "post_type": "health"
+  },
+  {
+    "id": "6a717a74000000002500d6ea",
+    "published_at": "2026-08-04 13:48:19",
+    "timestamp": 1785822499,
+    "title": "大餐前吃PXPO白芸豆有用吗？",
+    "content": "这个PXPO白芸豆我已经吃空七瓶了，亲测吃大餐真没胖～以下是的个人感受，经常吃外卖聚餐多还不想长🥩的姐妹可以参考看看",
+    "likes": 11,
+    "comments": 5,
+    "collects": 0,
+    "shares": 0,
+    "author": "小秋布糕冷",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [
+      "阻断"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 16,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71a63d0000000027023078",
+    "published_at": "2026-08-04 16:54:08",
+    "timestamp": 1785833648,
+    "title": "143→98分享一些减脂期吃过有用的补剂",
+    "content": "本人真真真懒到家了 我知道想减肥运动、控制饮食一个都不能少，都能帮着提代谢，但我真不爱运动，就一直靠补剂来提提代谢，顺便",
+    "likes": 45,
+    "comments": 8,
+    "collects": 21,
+    "shares": 2,
+    "author": "小思怡",
+    "note_type": "普通笔记",
+    "source_keyword": "白芸豆 减脂",
+    "category": [
+      "燃脂提代"
+    ],
+    "scene": [
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 76,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72b8e9000000003303546b",
+    "published_at": "2026-08-05 15:00:37",
+    "timestamp": 1785913237,
+    "title": "益生菌不是人人要吃，先分清这3种情况",
+    "content": "很多姐妹便秘，拉肚子，胀气呀第一反应就是，搞点益生菌来吃。[笑哭R] 甚至皮肤不好、免疫力差，也想靠益生菌救一救。但我想",
+    "likes": 3,
+    "comments": 0,
+    "collects": 3,
+    "shares": 0,
+    "author": "王替替的健康生活",
+    "note_type": "视频笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理",
+      "免疫防护"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72ecad0000000024024f5d",
+    "published_at": "2026-08-05 16:07:50",
+    "timestamp": 1785917270,
+    "title": "原来吃错了 益生菌换了吃法 孩子一下pu出来",
+    "content": "之前给我家孩子每天固定一条舒伯特儿童益生菌，头一礼拜确实有pu但是感觉不彻底，而且感觉量不对。 - 然后来红薯看了下，别",
+    "likes": 32,
+    "comments": 9,
+    "collects": 17,
+    "shares": 0,
+    "author": "微风习习",
+    "note_type": "普通笔记",
+    "source_keyword": "益生菌",
+    "category": [
+      "益生菌*儿童*肠胃呵护"
+    ],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "不错",
+      "里面有谷氨酰胺嘛？",
+      "有 有400",
+      "每盒多少条啊？",
+      "28条",
+      "我姐家孩子也吃的这个好像，是为了长肉",
+      "对 这个主要就是调节噗噗和长肉",
+      "多大可以吃这个？",
+      "3岁以上的孩子就可以吃了"
+    ],
+    "comments_fetched": true,
+    "interaction": 58,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7158700000000028006cf4",
+    "published_at": "2026-08-04 11:12:38",
+    "timestamp": 1785813105,
+    "title": "打工人的续命小黄条，肠胃舒服多了",
+    "content": "作为标准牛马打工人❗❗❗ 我的日常就是早上一杯冰美式 中午重油盖饭，下午奶茶续命 晚上再约顿烧烤或小龙虾 吃得是挺爽，但",
+    "likes": 42,
+    "comments": 2,
+    "collects": 24,
+    "shares": 8,
+    "author": "吃不吃折耳根",
+    "note_type": "普通笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 76,
+    "post_type": "health"
+  },
+  {
+    "id": "6a70729200000000240249d8",
+    "published_at": "2026-08-05 07:42:47",
+    "timestamp": 1785809154,
+    "title": "4款热门女性益生菌对比，你更适合哪款？",
+    "content": "#女性益生菌  #爱珂丝女性益生菌  #益生菌  #益生菌怎么选  #月神益生菌  #贝欧科  #宝西兰  #乳酸杆菌",
+    "likes": 149,
+    "comments": 19,
+    "collects": 142,
+    "shares": 1,
+    "author": "大仙女的小萝莉",
+    "note_type": "视频笔记",
+    "source_keyword": "益生菌",
+    "category": [
+      "益生菌*成人*女性呵护"
+    ],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 311,
+    "post_type": "health"
+  },
+  {
+    "id": "6a70341100000000260377fa",
+    "published_at": "2026-08-04 11:58:41",
+    "timestamp": 1785739857,
+    "title": "孩子不长肉不吃饭 坚持补菌第30天",
+    "content": "7月初开始吃，之前每天都和娃在吃饭上做斗争，连哄带骗的才能多吃两口，真的怕耽误生长，后面被朋友安利舒伯特儿童益生菌，打卡",
+    "likes": 53,
+    "comments": 15,
+    "collects": 28,
+    "shares": 1,
+    "author": "柠檬宝贝",
+    "note_type": "普通笔记",
+    "source_keyword": "益生菌",
+    "category": [
+      "益生菌*儿童*肠胃呵护"
+    ],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 97,
+    "post_type": "health"
+  },
+  {
+    "id": "6a700fac000000003302ebb4",
+    "published_at": "2026-08-05 11:00:49",
+    "timestamp": 1785898849,
+    "title": "山姆随手买的 居然把全家玻璃肠胃整明白了！",
+    "content": "家人们！三伏天正当时！🌞 接下来的日子，烧烤啤酒小龙虾、冰镇西瓜冻奶茶……嘴巴是爽翻了，但肠胃却天天在“抗议",
+    "likes": 472,
+    "comments": 33,
+    "collects": 300,
+    "shares": 3,
+    "author": "亿点可爱（护肤版）",
+    "note_type": "普通笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "全家老小一人一盒，这个夏天胡吃海喝肠胃居然没闹过脾气，真心觉得囤对了！",
+      "确实",
+      "夏天真的很需要这个[赞R]",
+      " 这款益生菌网上有没有卖的呀？",
+      "这个网上能不能买到呀？因为我们这里还没有山姆",
+      "是饭后吃好一点吗？",
+      "这个怎么保存呢？",
+      "可以试一试",
+      "全家玻璃胃，坚持多久腹胀腹泻能明显改善？",
+      "有没有小月龄宝宝吃的？",
+      "应该可以吧",
+      "这个益生菌可以改善拉肚子 肠胃不好吗",
+      "儿童益生菌一次要冲这么大一杯吗 不难喝吗"
+    ],
+    "comments_fetched": true,
+    "interaction": 808,
+    "post_type": "health"
+  },
+  {
+    "id": "6a705c0a000000000801395a",
+    "published_at": "2026-08-05 06:46:04",
+    "timestamp": 1785758546,
+    "title": "吃不惯无糖酸奶，加点黄瓜柠檬秒变夏日神酱",
+    "content": "酸奶富含益生菌，能消除肠道炎症，关键要选无糖希腊酸奶。吃不惯的加点柠檬与黄瓜，秒变清爽灵魂蘸酱。 #酸奶黄瓜酱  #希腊",
+    "likes": 1428,
+    "comments": 21,
+    "collects": 1905,
+    "shares": 317,
+    "author": "Peasup的抗炎厨房",
+    "note_type": "视频笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3671,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7344390000000012029deb",
+    "published_at": "2026-08-05 22:10:57",
+    "timestamp": 1785939001,
+    "title": "💊益生菌可能是烂脸救星？",
+    "content": "肠道的健康与皮肤的状态息息相关，简称为Gut-skin axis。如果用了很多药，很多护肤品还是不会好的朋友，可能可以从",
+    "likes": 13,
+    "comments": 0,
+    "collects": 11,
+    "shares": 2,
+    "author": "三点水的叔女",
+    "note_type": "视频笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 26,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73026b0000000028000af2",
+    "published_at": "2026-08-05 17:31:19",
+    "timestamp": 1785922155,
+    "title": "挑选益生菌，只看这3点！",
+    "content": "益生菌越贵越好？#肠道  #肠道菌群  #肠息肉  #空腹  #减脂",
+    "likes": 4,
+    "comments": 0,
+    "collects": 2,
+    "shares": 0,
+    "author": "肠识研究会",
+    "note_type": "视频笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理",
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73448f0000000029033a91",
+    "published_at": "2026-08-05 22:22:07",
+    "timestamp": 1785939087,
+    "title": "",
+    "content": "已空瓶，说说娃补澳苪宝益生菌的真实变化 3月5日开始吃的澳苪宝，喝到一半的时候，发现宝宝便便里面的小疙瘩少了，便便慢慢成",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "流星",
+    "note_type": "普通笔记",
+    "source_keyword": "益生菌",
+    "category": [],
+    "scene": [
+      "肠道调理"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71aa5f0000000035017d01",
+    "published_at": "2026-08-04 17:02:05",
+    "timestamp": 1785834079,
+    "title": "敏宝体质差易生病个人增免经验",
+    "content": "1. 症状：白天一直蔫蔫的，稍微活动一下就喊累，晚上也睡不踏实，特别一到换季降温，很容易中招，流鼻涕、咳嗽反反复复。去学",
+    "likes": 5,
+    "comments": 3,
+    "collects": 4,
+    "shares": 0,
+    "author": "贝儿",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 12,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c657000000002202f8d2",
+    "published_at": "2026-08-04 19:21:15",
+    "timestamp": 1785841240,
+    "title": "（排个雷）吃儿童维生素C180天真实感受",
+    "content": "不是什么专业测评，也不想带货（品牌方勿扰），就是吃完了看有姐妹问想简单分享下也算给大家个参考！ 我家娃是抵抗力差的我真的",
+    "likes": 1,
+    "comments": 2,
+    "collects": 0,
+    "shares": 0,
+    "author": "桃子",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "维生素C"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a718cd10000000033032a78",
+    "published_at": "2026-08-04 15:01:49",
+    "timestamp": 1785826513,
+    "title": "🥹研0 26年提高免疫力的补剂汇总（只分享）",
+    "content": "备考免疫低期间前前后后吃了这些补剂，个人的话更在意吃下来的感受和效果，包装和名气不是特别在意，做了很多功课，分享如下",
+    "likes": 61,
+    "comments": 18,
+    "collects": 10,
+    "shares": 2,
+    "author": "Crab蟹同学",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [],
+    "scene": [
+      "免疫防护"
+    ],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 91,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f6250000000012028716",
+    "published_at": "2026-08-05 17:24:28",
+    "timestamp": 1785919013,
+    "title": "🇲🇾妈妈少操心，孩子更容易接受的维生素C",
+    "content": "孩子不喜欢吞咽片剂，或者觉得一般的维生素不好入口？ Vitanol Kids Immune Defence Vitami",
+    "likes": 2,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "Phoenix Nutraceuticals",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "维生素C"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7358f3000000002202d94b",
+    "published_at": "2026-08-05 23:39:11",
+    "timestamp": 1785944307,
+    "title": "",
+    "content": "脆皮娃喝了十几盒儿童维C 变化分析 最早入的是中间那款，吃了挺久，后来刷小红书被种草右边的，成分温和也好吸收，推荐给邻居",
+    "likes": 2,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "蛋挞宝宝",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [
+      "免疫防护"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7200ad000000002c005a32",
+    "published_at": "2026-08-04 23:10:13",
+    "timestamp": 1785856173,
+    "title": "这三个提高免疫力的维C我能劝一个是一个",
+    "content": "这三款都各有各的优点和特色，仅个人感受来说一下吧 童年时光：这个牌子还挺有名的，玻璃瓶装设计能有效避光，整体量不算多，但",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "X.",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [
+      "免疫防护"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a731218000000002403c527",
+    "published_at": "2026-08-05 18:36:49",
+    "timestamp": 1785926168,
+    "title": "给娃增免打卡维生素C一个月啦",
+    "content": "不知不觉喝空一盒了 淡淡水果味还挺好喝的，没有怪味，喝了一个月，目前没有啥不舒服的，看成分也不赖。有没有给娃吃同款维C的",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "哭哭",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [
+      "免疫防护"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "维生素C"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73d4dd000000002500a237",
+    "published_at": "2026-08-06 08:28:04",
+    "timestamp": 1785976029,
+    "title": "维生素C延缓灵长类骨髓衰老研究",
+    "content": "🌋节省精力，去听播客🌋 🌋详细内容欢迎收听podcast：聊聊Sci🌋 🌋英文版podcast：Paper T",
+    "likes": 1,
+    "comments": 1,
+    "collects": 2,
+    "shares": 2,
+    "author": "聊聊Sci｜Thleo",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "维生素C"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a735e840000000025008a62",
+    "published_at": "2026-08-06 00:02:53",
+    "timestamp": 1785945732,
+    "title": "大晚上补维生素C，补的不仅是免疫力，更是一种对生活的热爱与不妥协。",
+    "content": "大晚上补维生素C，补的不仅是免疫力，更是一种对生活的热爱与不妥协",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "Evildoer🐾",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素C 免疫",
+    "category": [
+      "VC类"
+    ],
+    "scene": [
+      "免疫防护"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "维生素C"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c0770000000022011268",
+    "published_at": "2026-08-05 21:21:32",
+    "timestamp": 1785844323,
+    "title": "补了维D，还需要补钙吗？",
+    "content": "#好视频扶持计划  #一万种健康howto  #缺钙补钙  #缺维d  #女性补剂  #缺镁",
+    "likes": 29,
+    "comments": 0,
+    "collects": 30,
+    "shares": 2,
+    "author": "福贵baby",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK",
+      "镁"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "甘氨酸镁",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 61,
+    "post_type": "health"
+  },
+  {
+    "id": "6a706dac0000000033030889",
+    "published_at": "2026-08-05 07:10:18",
+    "timestamp": 1785753004,
+    "title": "夏季宝宝经常晒太阳，还需要补钙吗？",
+    "content": "很多家长都有这样的误区💢：夏季阳光充足，宝宝天天出门晒太阳，就不用额外补钙了。作为育儿硕士宝妈，我明确告诉大家：🌞晒",
+    "likes": 3985,
+    "comments": 41,
+    "collects": 1939,
+    "shares": 2,
+    "author": "范泽泽Zara",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "正确的选择",
+      "[派对R][派对R]",
+      "讲得清楚，学到不少",
+      "以前这真的是一个误区",
+      "真的是要科学育儿",
+      "非常高兴刷到你的视频",
+      "这回知道如果给孩子正确补钙谢谢博士，有知识就是不一样",
+      "非常感谢 长知识了",
+      "看了视频，长知识了",
+      "涨知识了"
+    ],
+    "comments_fetched": true,
+    "interaction": 5967,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72b8be0000000006007773",
+    "published_at": "2026-08-05 12:15:37",
+    "timestamp": 1785903294,
+    "title": "初中生❗记录吃过的两款液体钙（缒个）",
+    "content": "娃吃了一个多月阳光瓶的，快见底了，没回购，还是重新吃了暖蔻的。 看重效果的姐妹可以仔细比对，我个人是更看重感受的，毕竟吹",
+    "likes": 9,
+    "comments": 3,
+    "collects": 6,
+    "shares": 0,
+    "author": "出了名的情",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 18,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6c79eb0000000028003e5d",
+    "published_at": "2026-08-04 10:16:14",
+    "timestamp": 1785657619,
+    "title": "骨质疏松逆转，我只用了3种营养",
+    "content": "#骨质疏松  #补钙  #中老年  #健康科普",
+    "likes": 29,
+    "comments": 2,
+    "collects": 38,
+    "shares": 29,
+    "author": "北欧东嫂爱营养",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 98,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f5dd0000000028033430",
+    "published_at": "2026-08-05 16:36:26",
+    "timestamp": 1785918941,
+    "title": "",
+    "content": "钙和维生素D为什么如此重要？ 钙是构成骨骼和牙齿的重要营养素，也参与肌肉收缩、神经传导和心脏正常活动。 维生素D可以帮助",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "医路心安杨医生。",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "维生素D3",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73277f000000002402e046",
+    "published_at": "2026-08-05 20:08:09",
+    "timestamp": 1785931647,
+    "title": "56+父母补钙的补剂清单（D3+钙）",
+    "content": "父母年龄大了，钙流失比较快，所以买的这两个主要就是给他们日常补补钙 其实刚开始给他们只吃了钙片，每天随餐吃一粒，主要负责",
+    "likes": 5,
+    "comments": 0,
+    "collects": 2,
+    "shares": 1,
+    "author": "张张",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 8,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72b2d20000000022012f37",
+    "published_at": "2026-08-05 11:50:36",
+    "timestamp": 1785901778,
+    "title": "长高误区：补钙不补维 D，等于白补！",
+    "content": "⚠️家长最高频的长高误区 只补钙却忽略维生素 D 📝接诊大量孩子常年补钙 身高依旧偏矮、骨骼发育滞后 💡核心原因之一",
+    "likes": 25,
+    "comments": 1,
+    "collects": 3,
+    "shares": 0,
+    "author": "儿保医生刘树青",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "身高发育"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 29,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f5b600000000060049a5",
+    "published_at": "2026-08-05 16:36:02",
+    "timestamp": 1785918902,
+    "title": "只补钙不补维D，你可能一直在做无用功",
+    "content": "#维生素D  #补钙  #补钙吃什么  #营养素缺乏  #补钙攻略  #育儿经验howto",
+    "likes": 12,
+    "comments": 1,
+    "collects": 9,
+    "shares": 0,
+    "author": "辣妈Luna育儿记",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "维生素D3",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 22,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72995900000000220140ad",
+    "published_at": "2026-08-05 11:50:11",
+    "timestamp": 1785901811,
+    "title": "吃钙不吃D3的孩子，纯属浪费钱",
+    "content": "很多家长一提到小孩长个儿这事，开口就跟我说”我给他吃了钙啊！“、”一直都在吃着！”、“怎么补钙没用啊？”，这条视频就告诉",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "韦恩的成长课",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "negative",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a732da7000000002500fd4f",
+    "published_at": "2026-08-05 20:34:47",
+    "timestamp": 1785933223,
+    "title": "每天吃多少维生素d3合适",
+    "content": "维生素d3根据体重来吃比较好 一般17一34Kg 1000iu 34一57Kg 2000-3000iu 57Kg以上",
+    "likes": 5,
+    "comments": 9,
+    "collects": 5,
+    "shares": 0,
+    "author": "营养师竹子师兄",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "维生素D3"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 19,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72e9a900000000250030cd",
+    "published_at": "2026-08-05 15:44:22",
+    "timestamp": 1785915817,
+    "title": "",
+    "content": "我前一段时间钙片吃着，牛奶喝着，[鄙视R]半夜还是会经常抽筋，大白让搭配维d一起，或者换含维d的液体钙，我嫌搭配一起吃容",
+    "likes": 1,
+    "comments": 1,
+    "collects": 0,
+    "shares": 1,
+    "author": "W.",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6fecb5000000002403eb42",
+    "published_at": "2026-08-05 06:23:28",
+    "timestamp": 1785719989,
+    "title": "宝宝追高真相｜补钙不是全部",
+    "content": "想要宝宝稳步长高，重点做好这4件事： ✅补足维D，帮助钙吸收，多晒太阳按需补充 ✅保证牛奶、鸡蛋、瘦肉这类优质蛋白 ✅尽",
+    "likes": 69,
+    "comments": 19,
+    "collects": 63,
+    "shares": 3,
+    "author": "甜六生活记",
+    "note_type": "视频笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK",
+      "身高发育"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 154,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c8050000000035016ffc",
+    "published_at": "2026-08-06 05:26:00",
+    "timestamp": 1785841669,
+    "title": "71年 55岁｜更年期的健康，别默默硬扛",
+    "content": "55岁 慢慢走进人生下半场 这段时间常常听到身边姐妹说 失眠、浑身酸痛、情绪莫名低落 大家总安慰自己: 人到岁数 这些难",
+    "likes": 13,
+    "comments": 14,
+    "collects": 3,
+    "shares": 1,
+    "author": "温姐姐退休成长记",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "情绪压力",
+      "睡眠放松"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 31,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72bab50000000025006a99",
+    "published_at": "2026-08-05 12:24:00",
+    "timestamp": 1785903797,
+    "title": "骨质疏松T值-2.8 开始吃骨康了",
+    "content": "体检骨密度T值-2.8，说已经是骨质疏松了。除了补钙和维生素D，还开了骨康，说是能提升骨密度。吃了三个月，最近复查T值变",
+    "likes": 5,
+    "comments": 2,
+    "collects": 4,
+    "shares": 3,
+    "author": "你很牛嘛",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK",
+      "成人骨骼"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "维生素D3",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 14,
+    "post_type": "health"
+  },
+  {
+    "id": "6a723ce7000000002500b9b0",
+    "published_at": "2026-08-05 03:27:11",
+    "timestamp": 1785871591,
+    "title": "什么人要少补充维生素D",
+    "content": "维生素D并非多多益善，需谨慎补充。高钙血症、肾结石、结节病等人群应避免或少补，尤其是正在服用利尿剂或强心苷者。肝肾功能不",
+    "likes": 2,
+    "comments": 0,
+    "collects": 2,
+    "shares": 0,
+    "author": "AA科普",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK",
+      "结节"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "维生素D3",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 4,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73394c0000000005021d60",
+    "published_at": "2026-08-05 21:24:06",
+    "timestamp": 1785936204,
+    "title": "锐平退休父母补钙在吃的营养品（自用可存）",
+    "content": "从上到下一次是： 夯：康善佳中老年奶粉，维生素D，维生素K2 顶级：锌片，维生素B，叶黄素 人上人：鱼油，西芹菜籽",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "👿😏😝😝",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK",
+      "心脑血管",
+      "VB类",
+      "眼健康"
+    ],
+    "scene": [
+      "骨骼关节",
+      "护眼用脑",
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "柠檬酸钙",
+      "维生素K2(MK-7)",
+      "维生素D3",
+      "葡萄糖酸锌",
+      "叶黄素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71bd8a00000000060049b8",
+    "published_at": "2026-08-04 22:55:53",
+    "timestamp": 1785838986,
+    "title": "你缺维生素D吗",
+    "content": "这几个月有在吃钙和VD，感觉这次术后的身体恢复整体确实比2月术后快。 8月再检查看看。 钙和D需要一起吃的 #维生素D",
+    "likes": 1,
+    "comments": 1,
+    "collects": 0,
+    "shares": 0,
+    "author": "保髋为目标",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [
+      "VD_VK"
+    ],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "维生素D3",
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a731855000000002403eef1",
+    "published_at": "2026-08-05 19:03:28",
+    "timestamp": 1785927765,
+    "title": "",
+    "content": "儿童成长期｜吃过的液体钙合集！纯自用感受 1️⃣：迪巧：一开始入手的，是酸甜的柠檬味，日常补充基础营养吃 2️⃣蒂诺侨",
+    "likes": 1,
+    "comments": 2,
+    "collects": 0,
+    "shares": 1,
+    "author": "-M",
+    "note_type": "普通笔记",
+    "source_keyword": "维生素D 钙",
+    "category": [],
+    "scene": [
+      "骨骼关节"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "柠檬酸钙"
+    ],
+    "product": "",
+    "brands": [
+      "迪巧"
+    ],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 4,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72fb670000000024025205",
+    "published_at": "2026-08-05 21:30:33",
+    "timestamp": 1785936633,
+    "title": "维持腹肌的秘诀！分享我的饮食+健身补剂",
+    "content": "坚持健身这么久，一直都保持腹肌明显的状态，总结下来饮食和基础补剂真的不能偷懒。 之前总经常忘记按时喝肌酸，三天打鱼两天晒",
+    "likes": 273,
+    "comments": 10,
+    "collects": 32,
+    "shares": 2,
+    "author": "西兰花战士",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 317,
+    "post_type": "health"
+  },
+  {
+    "id": "6a713a5e0000000022033329",
+    "published_at": "2026-08-04 09:04:09",
+    "timestamp": 1785805406,
+    "title": "肌酸：唯一A类补剂的真相",
+    "content": "· 先说结论：拥有海量文献支撑、安全性拉满、实打实归为A类等级的功能性补剂，只有一水肌酸，没有之一。 但要说明，肌酸是靠",
+    "likes": 269,
+    "comments": 12,
+    "collects": 15,
+    "shares": 1,
+    "author": "四夕犬er",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 297,
+    "post_type": "health"
+  },
+  {
+    "id": "6a737f3f000000000e03f001",
+    "published_at": "2026-08-06 02:23:31",
+    "timestamp": 1785954111,
+    "title": "肌酸 你把我养的很好",
+    "content": "瘦了几斤以后 线条好像确实更明显了 #健身  #肌酸  #补剂  #健身日常  #不死就往死里练",
+    "likes": 7,
+    "comments": 3,
+    "collects": 0,
+    "shares": 0,
+    "author": "Rui",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 10,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6d69000000000024025fb1",
+    "published_at": "2026-08-04 10:38:30",
+    "timestamp": 1785577622,
+    "title": "健身教练大实话｜女生喝肌酸到底有没有用？",
+    "content": "被学员问得最多的问题：“女生需要喝肌酸吗？”“会不会变壮？”“会不会水肿？” 今天直接用我最近在喝的训练怪兽一水肌酸（白",
+    "likes": 153,
+    "comments": 5,
+    "collects": 21,
+    "shares": 2,
+    "author": "Sidra 希爪",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 181,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71f2f40000000025000670",
+    "published_at": "2026-08-04 22:11:43",
+    "timestamp": 1785852660,
+    "title": "健身房的通勤包里有什么？",
+    "content": "每天包里鼓鼓的 “餐包 香蕉 肌酸 蛋白粉 还有运动套装….” 很累但很充实 #黑皮  #正装  #健身日常  #健身人",
+    "likes": 85,
+    "comments": 9,
+    "collects": 3,
+    "shares": 1,
+    "author": "小狼头",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "职场",
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白",
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 98,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72c2230000000024026534",
+    "published_at": "2026-08-05 12:55:51",
+    "timestamp": 1785905699,
+    "title": "健身.肩膀",
+    "content": "肩膀充血了健身房好多人像看怪物一样看着我，好害怕，只是今天状态比较好它有点超长发挥了[哭惹R] 不太会拍照现实应该会更大",
+    "likes": 85,
+    "comments": 34,
+    "collects": 1,
+    "shares": 2,
+    "author": "生万物",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 122,
+    "post_type": "health"
+  },
+  {
+    "id": "6a719a360000000005030c5d",
+    "published_at": "2026-08-05 18:14:47",
+    "timestamp": 1785829942,
+    "title": "成为更好的自己",
+    "content": "各种补剂都来，昨天蹲腿今天状态居然还可以。 肌酸开始发力了，今天龙门架绳索拉背片片插到55kg还能做组！！！平时是",
+    "likes": 10,
+    "comments": 0,
+    "collects": 0,
+    "shares": 1,
+    "author": "煎饼果子李",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 11,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73b6c80000000012013da8",
+    "published_at": "2026-08-06 06:35:29",
+    "timestamp": 1785968328,
+    "title": "引体向上两个月-健身碎碎念",
+    "content": "健身一年半了，感觉到了瓶颈期，饮食没有严格的控制身形感觉没有太大的变化了， 就好好维持吧。虽然下个月就三十了，但是感觉现",
+    "likes": 13,
+    "comments": 4,
+    "collects": 0,
+    "shares": 0,
+    "author": "子不语",
+    "note_type": "视频笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 17,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7247c4000000002800000e",
+    "published_at": "2026-08-05 07:42:55",
+    "timestamp": 1785874372,
+    "title": "能打几分",
+    "content": "34岁，没有系统锻炼过，不去健身房，算饮食干净，没有蛋白粉和任何补剂，除了肌酸想起就吃，基本只做俯卧撑引体向上，俯卧撑一",
+    "likes": 34,
+    "comments": 9,
+    "collects": 1,
+    "shares": 1,
+    "author": "阿某",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白",
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 45,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71a049000000002c000194",
+    "published_at": "2026-08-04 16:20:13",
+    "timestamp": 1785831497,
+    "title": "女/到底要不要喝蛋白粉和肌酸哈",
+    "content": "刚练四个月感觉一直没什么变化了",
+    "likes": 0,
+    "comments": 9,
+    "collects": 0,
+    "shares": 0,
+    "author": "Man8i",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白",
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 9,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7342200000000006006699",
+    "published_at": "2026-08-05 22:24:41",
+    "timestamp": 1785938464,
+    "title": "",
+    "content": "试了三次 也试过减少剂量 但是只要吃了躺在哪就是清醒的 （我是睡眠挺好的 几乎不会失眠 只能放弃肌酸了吗 #找回消失的睡",
+    "likes": 2,
+    "comments": 17,
+    "collects": 0,
+    "shares": 0,
+    "author": "Charlene",
+    "note_type": "普通笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "睡眠",
+      "运动营养"
+    ],
+    "scene": [
+      "睡眠放松",
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 19,
+    "post_type": "health"
+  },
+  {
+    "id": "6a714526000000000c033c00",
+    "published_at": "2026-08-04 22:18:59",
+    "timestamp": 1785808166,
+    "title": "八月初想知道我在干啥😏❤️",
+    "content": "本月四日第二杯大豆肌酸。把肌肉增长至 40公斤 69% 现状态 肌肉38.5公斤 67% *女生肌肉量 & 肌肉率正常范",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "嘉鳳",
+    "note_type": "视频笔记",
+    "source_keyword": "肌酸 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a719f19000000000e03c000",
+    "published_at": "2026-08-04 16:14:02",
+    "timestamp": 1785831193,
+    "title": "胶原蛋白球给到夯",
+    "content": "\"生完宝宝没多久就回归上班，一心忙工作，完全忽视身体出现的变化，日常上班时不时漏，直到被同事委婉提醒，尴尬到原地抠脚！和",
+    "likes": 2,
+    "comments": 4,
+    "collects": 0,
+    "shares": 4,
+    "author": "躺平碱水结🥨",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [
+      "胶原蛋白"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 10,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71bc4f0000000008013fc0",
+    "published_at": "2026-08-04 18:18:41",
+    "timestamp": 1785838671,
+    "title": "🌙 把日子，慢慢养进皮肤里",
+    "content": "- 这阵子在用的一套黑瓶瓶 水是清透的，拍上脸几秒就钻进皮肤里 面霜像融化的云朵，软乎乎的 推开时能感觉到皮肤在一点点喝",
+    "likes": 29,
+    "comments": 21,
+    "collects": 15,
+    "shares": 2,
+    "author": "清禾敏儿",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 67,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71ac010000000022016782",
+    "published_at": "2026-08-04 17:09:22",
+    "timestamp": 1785834497,
+    "title": "好爱胶原蛋白，晚上",
+    "content": "#每天都有值得记录的瞬间  #快乐瞬间  #人生就是一场体验  #晚上三点才睡一点泪沟都没有",
+    "likes": 33,
+    "comments": 10,
+    "collects": 5,
+    "shares": 1,
+    "author": "卡戴不是三",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [
+      "胶原蛋白"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 49,
+    "post_type": "health"
+  },
+  {
+    "id": "6a729fa30000000021021a05",
+    "published_at": "2026-08-05 10:28:41",
+    "timestamp": 1785896867,
+    "title": "软糯银耳+粉糯莲子+清甜百合，胶原蛋白满满",
+    "content": "▸出胶秘诀：银耳剪碎+冷水下锅+朝同一方向搅拌 ▸用老冰糖更清甜，怕胖的换零卡糖 ▸冷藏后是夏日神仙甜品！加牛奶秒变糖水",
+    "likes": 6,
+    "comments": 2,
+    "collects": 2,
+    "shares": 0,
+    "author": "大馋丫头美食记",
+    "note_type": "视频笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [
+      "胶原蛋白"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 10,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72ff2f000000002402c330",
+    "published_at": "2026-08-05 17:17:26",
+    "timestamp": 1785921327,
+    "title": "40岁胶原蛋白球初体验9天分享",
+    "content": "✅40岁顺产2宝✅18颗✅ 当天全程20分钟感受很好，回家前三天回感到有点坠胀的，慢慢自己就能感觉到饱满，很多年纪和我一",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "Alano",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [
+      "胶原蛋白"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72c55c00000000320322b2",
+    "published_at": "2026-08-05 17:12:03",
+    "timestamp": 1785921123,
+    "title": "",
+    "content": "\"口服胶原蛋白没用，吃到肚子里都分解成氨基酸了\" 这句话你肯定听过。但作为成分党，我要说：不完全对。 🔬 关键区分：胶",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "早睡不熬夜",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [
+      "胶原蛋白"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "negative",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72ae41000000002c001ff1",
+    "published_at": "2026-08-05 11:31:06",
+    "timestamp": 1785900609,
+    "title": "",
+    "content": "花胶排骨炖汤，好喝又滋补，满满的胶原蛋白，喝出好气色!#食养靓汤 #滋补养颜炖品 #潮汕美食制作 #创作者中心 #创作灵",
+    "likes": 20,
+    "comments": 4,
+    "collects": 39,
+    "shares": 5,
+    "author": "潮汕小包🍔",
+    "note_type": "视频笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [
+      "胶原蛋白"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 68,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71d92700000000220326de",
+    "published_at": "2026-08-04 20:22:39",
+    "timestamp": 1785846055,
+    "title": "47岁的眼周抗衰思路",
+    "content": "从41岁开始抗衰，六年里做了功课也交了学费， 现在回头看眼周抗衰， 最大误区就是把“填充”当成日常保养。 熊猫针我用过",
+    "likes": 63,
+    "comments": 58,
+    "collects": 54,
+    "shares": 5,
+    "author": "alice大魔王",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 180,
+    "post_type": "health"
+  },
+  {
+    "id": "6a732d2e0000000025001ac3",
+    "published_at": "2026-08-05 20:42:15",
+    "timestamp": 1785933102,
+    "title": "25+垮脸熬夜党，吃素也能好好补胶原",
+    "content": "谁懂啊，坚持素食之后一直纠结内服胶原这件事！ 市面上大多都是动物来源的，总觉得和自己的饮食习惯搭不上，吃着心里别扭[捂脸",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "发财妮",
+    "note_type": "普通笔记",
+    "source_keyword": "胶原蛋白",
+    "category": [],
+    "scene": [
+      "内服焕肤",
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7183f40000000008012c02",
+    "published_at": "2026-08-04 14:18:09",
+    "timestamp": 1785824244,
+    "title": "30+减脂塑形日常｜好好吃饭，认真塑形",
+    "content": "#减脂也要好好吃饭  #吃的干净才能长的干净  一、食材分类 优质蛋白 1. 大虾：海虾，高蛋白低脂肪，富含优质动物蛋白",
+    "likes": 10,
+    "comments": 2,
+    "collects": 1,
+    "shares": 0,
+    "author": "食有滋味",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [],
+    "scene": [
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 13,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71987400000000250167c5",
+    "published_at": "2026-08-04 15:45:35",
+    "timestamp": 1785829492,
+    "title": "吃了三款磷虾油，说一下各自的感受吧",
+    "content": "自费吃了快半年，三款轮着来的，纯个人体验分享。 图左：因为主要是磷脂型moega-3+虾青素，所以会有点海虾的味道。吃下",
+    "likes": 2,
+    "comments": 2,
+    "collects": 1,
+    "shares": 1,
+    "author": "琪视你",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [
+      "虾青素"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "磷虾油",
+      "虾青素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73c8010000000028033471",
+    "published_at": "2026-08-06 07:33:24",
+    "timestamp": 1785972737,
+    "title": "平价虾青素精华",
+    "content": "抗老美白效果比较明显 每天早晚用 坚持下来素颜气色透亮 不用厚厚的粉底遮盖黄气 夏天防晒搭配它刚刚好",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "奶酪泡泡鱼",
+    "note_type": "视频笔记",
+    "source_keyword": "虾青素",
+    "category": [
+      "美白",
+      "虾青素"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "虾青素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71ad150000000032022d72",
+    "published_at": "2026-08-04 17:13:44",
+    "timestamp": 1785834773,
+    "title": "熬夜党们，有吃这两款美白丸的吗",
+    "content": "前段时间报复性熬夜搞的心态很崩，眼睛快眯上了还放不下手机，刷剧打机到一两点，觉得白天都是给别人活的，深夜才是属于自己的时",
+    "likes": 2,
+    "comments": 4,
+    "collects": 0,
+    "shares": 0,
+    "author": "阿Q",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [
+      "美白"
+    ],
+    "scene": [
+      "内服焕肤",
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a735576000000002c005873",
+    "published_at": "2026-08-05 23:29:12",
+    "timestamp": 1785943414,
+    "title": "空气炸锅做虾干｜减脂期高蛋白小零食",
+    "content": "🦐 今日快手餐：空气炸锅做虾干（高蛋白小零食，清甜有嚼劲） 食材： · 鲜虾：1000g（选个头均匀的） · 料酒",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "姐妹养生日记",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [],
+    "scene": [
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a719715000000002500a425",
+    "published_at": "2026-08-04 20:02:33",
+    "timestamp": 1785844953,
+    "title": "至暗时刻第一要事，把身体搞好",
+    "content": "100天重启第14天。 今天聊身体。 妈妈走的那年， 一个朋友塞给我一本书—— 《每个人的战争》。 书里说，癌症不是突然",
+    "likes": 2,
+    "comments": 1,
+    "collects": 1,
+    "shares": 4,
+    "author": "卤蛋君｜幸福实验室",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 8,
+    "post_type": "health"
+  },
+  {
+    "id": "6a735450000000002500c326",
+    "published_at": "2026-08-05 23:19:21",
+    "timestamp": 1785943120,
+    "title": "记录一下fan beauty面膜使用感8",
+    "content": "虾青素这个膜布太大了，像是常规的膜布被从眼睛那里往两边拉长了一样，敷到旁边还得往回卷卷边。 拿出来就闻到一股小时候喝的某",
+    "likes": 1,
+    "comments": 2,
+    "collects": 0,
+    "shares": 0,
+    "author": "ayuanyuan",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [
+      "虾青素"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "虾青素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7134840000000005033f77",
+    "published_at": "2026-08-04 08:39:06",
+    "timestamp": 1785803908,
+    "title": "健康早餐推荐",
+    "content": "1. 煎蛋 (2个) ​核心营养元素： 优质蛋白质、胆碱、维生素A、维生素D、叶黄素、健康的脂肪。 ​健康特点： ​提供",
+    "likes": 4,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "泡泡爱学习",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [
+      "VD_VK",
+      "眼健康"
+    ],
+    "scene": [
+      "护眼用脑"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "维生素D3",
+      "维生素A",
+      "叶黄素",
+      "胆碱"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 5,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f8ae00000000350169f5",
+    "published_at": "2026-08-05 16:48:29",
+    "timestamp": 1785919662,
+    "title": "考研在吃的提专注补脑剂合集",
+    "content": "有问必答，纯属自用分享 依次是： 一排：维生素c，PS、虾青素 维生素c平时不爱吃蔬菜，会偶尔补充一下，ps缓解一下情绪",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 1,
+    "author": "都市丽人6A568E84",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [
+      "脑健康",
+      "提升注意力",
+      "虾青素"
+    ],
+    "scene": [
+      "情绪压力"
+    ],
+    "crowd": [
+      "学生"
+    ],
+    "ingredients": [
+      "虾青素",
+      "磷脂酰丝氨酸",
+      "维生素C"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71271600000000260361cb",
+    "published_at": "2026-08-04 07:41:49",
+    "timestamp": 1785800470,
+    "title": "高蛋白早餐，好吃且稳定食欲",
+    "content": "分享我常做的鲜虾牛油果酸面包开放式吐司，食材简单快手，10分钟搞定，营养精准拆分给大家： ▪️复合碳水：酸面包 ▪️优质",
+    "likes": 4,
+    "comments": 2,
+    "collects": 0,
+    "shares": 1,
+    "author": "Ben来时路",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 7,
+    "post_type": "health"
+  },
+  {
+    "id": "6a727c200000000011021568",
+    "published_at": "2026-08-05 07:57:02",
+    "timestamp": 1785887776,
+    "title": "🇲🇾减脂期早餐｜杂粮贝果",
+    "content": "周三，早安 ☀️ 把早餐吃好，为一天开启满满活力。💛 🍽️ 今天的211餐盘： 🥚 蛋白质｜ 水煮鸡蛋 🥯 优质",
+    "likes": 2,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "Cassie Ng",
+    "note_type": "普通笔记",
+    "source_keyword": "虾青素",
+    "category": [],
+    "scene": [
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6aefc3000000000101c946",
+    "published_at": "2026-08-04 15:03:50",
+    "timestamp": 1785400260,
+    "title": "蛋白粉随便喝就行吗？喝不对等于白白浪",
+    "content": "蛋白粉喝得越多越好吗？当然不是。每个人需求不一样，结合三餐摄入，合理控制分量，跟大家聊聊日常怎么安排更合适。【个人经验分",
+    "likes": 632,
+    "comments": 18,
+    "collects": 518,
+    "shares": 14,
+    "author": "成分营养师KK",
+    "note_type": "视频笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "是的 日常可以多注意一下",
+      "嗯嗯，要及时补充 #蛋白粉[搜索高亮]# 呢[赞R]",
+      "容易好冲泡吗？",
+      "直接冲泡挺方便的 好吸收吗？",
+      "不是的哦 日常也是需要补充的",
+      "我一直以为只有健身的才会喝蛋白粉[捂脸R]",
+      "对 维持我们身体的健康",
+      "蛋白粉喝了强身健体[哇R]",
+      "要多注意量，尽量不要多吃",
+      "蛋白粉喝多了会长脂肪不？",
+      "#普通人每天需要多少蛋白质[搜索高亮]# 呢？",
+      "对 多注意日常补充和用量",
+      "蛋白粉原来可以这么选的吗",
+      "是需要日常补充的",
+      "这个很好呀 日常补充挺好的哇[偷笑R]",
+      "这款蛋白粉太棒了，值得入手"
+    ],
+    "comments_fetched": true,
+    "interaction": 1182,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7321cb000000003400d7ef",
+    "published_at": "2026-08-05 19:43:53",
+    "timestamp": 1785930187,
+    "title": "澳洲的健身朋友们我强烈推荐这个粉！",
+    "content": "本人健身断断续续也有六年了。来澳洲四年也是喝了很多不同的本土蛋白粉，比如musashi，inp这些。最近发现了一个小众的",
+    "likes": 32,
+    "comments": 12,
+    "collects": 34,
+    "shares": 17,
+    "author": "小钱会有💰",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 95,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71cf63000000003300c4d4",
+    "published_at": "2026-08-04 19:40:38",
+    "timestamp": 1785843555,
+    "title": "来不及骑车了.",
+    "content": "来不及骑车了，接下来登场的是蛋白粉里最高的山，吸收率里最长的河，拥有细腻的粉质，完美的溶解度，丝滑的口感，甜而不腻的味道",
+    "likes": 2,
+    "comments": 11,
+    "collects": 0,
+    "shares": 0,
+    "author": "Simon.",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 13,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71ee1f0000000035017584",
+    "published_at": "2026-08-05 12:13:24",
+    "timestamp": 1785851423,
+    "title": "蛋白粉到了我要变高壮男咯",
+    "content": "减脂胃口小了，吃不动就冲服[失望R] #健身人健身魂  #练胸  #胸肌  #羞涩的胸肌  #男妈妈",
+    "likes": 23,
+    "comments": 7,
+    "collects": 1,
+    "shares": 1,
+    "author": "Fu.🍗",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复",
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "negative",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 32,
+    "post_type": "health"
+  },
+  {
+    "id": "6a733f0b00000000220338e6",
+    "published_at": "2026-08-05 21:48:38",
+    "timestamp": 1785937675,
+    "title": "健身新手入了foyes",
+    "content": "我买的菠萝味，之前没喝过别的蛋白粉，这个味道还可以，就是牛奶加了点水的感觉，但是同时奶味还挺足的，菠萝味很清爽#蛋白粉",
+    "likes": 0,
+    "comments": 6,
+    "collects": 0,
+    "shares": 0,
+    "author": "花海",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7344ce0000000005020682",
+    "published_at": "2026-08-05 22:14:16",
+    "timestamp": 1785939150,
+    "title": "188｜增肌重启",
+    "content": "生病暴瘦12斤，开启身体修复周期 Day1饮食 蛋白粉｜肌酸 鸡腿｜鸭腿｜双鸡蛋｜米饭｜青菜 好好吃饭，好好恢复",
+    "likes": 8,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "🐑🐑先森",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [
+      "运动营养"
+    ],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白",
+      "一水肌酸"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 9,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72d2d600000000250103e2",
+    "published_at": "2026-08-05 14:07:08",
+    "timestamp": 1785909974,
+    "title": "可乐➕蛋白粉❓❓",
+    "content": "健身人已疯哈哈哈哈哈 没想到可乐加蛋白粉味道很不错 感觉在喝可乐味奶昔 肠胃敏感的朋友慎重考虑[doge] #好视频扶持",
+    "likes": 8,
+    "comments": 2,
+    "collects": 1,
+    "shares": 4,
+    "author": "PYM减脂日记",
+    "note_type": "视频笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "肠道调理",
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 15,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7007e50000000025017043",
+    "published_at": "2026-08-04 11:09:07",
+    "timestamp": 1785812947,
+    "title": "164/104 今天也是迷人的某某某",
+    "content": "几乎每个女生对练臀都有种执念 我更是，从曾经只有90斤脏增肌到108 又慢慢调整到现在比较满意的104 吃和练都有琢磨",
+    "likes": 644,
+    "comments": 12,
+    "collects": 112,
+    "shares": 36,
+    "author": "ZGL🍫",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 804,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f34d0000000008013584",
+    "published_at": "2026-08-05 16:25:35",
+    "timestamp": 1785918285,
+    "title": "你们喝不喝？",
+    "content": "减脂撸铁离不开康比特蛋白粉 粉质顺滑好冲泡，练后快速补蛋白 维持线条、缓解运动后酸软，国货靠谱健身补给💪 #康比特蛋白",
+    "likes": 29,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "茜仔",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复",
+      "女性周期与气血",
+      "轻体控卡"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白",
+      "甘氨酸亚铁"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 29,
+    "post_type": "health"
+  },
+  {
+    "id": "6a714ebd000000003301ae2f",
+    "published_at": "2026-08-04 10:53:09",
+    "timestamp": 1785811989,
+    "title": "普通人健身一年变化记录 都说我换了一个人",
+    "content": "25年7月开始健身，一周四练健身1年，目前脖子歪、大小脸、高低肩都有改善，有对比才知道自己没有白练 上一条分享时有人问我",
+    "likes": 59,
+    "comments": 25,
+    "collects": 20,
+    "shares": 7,
+    "author": "赛文",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 111,
+    "post_type": "health"
+  },
+  {
+    "id": "6a70a6390000000021020e1f",
+    "published_at": "2026-08-04 15:39:24",
+    "timestamp": 1785829164,
+    "title": "练对喝对才能事半功倍",
+    "content": "坚持训练这么久，补剂真的别瞎选 日常训练后都会来一杯康比特蛋白粉 从他们家老款喝到新款 升级了「浓缩+分离」双蛋白矩阵",
+    "likes": 427,
+    "comments": 4,
+    "collects": 25,
+    "shares": 0,
+    "author": "健身阿韦",
+    "note_type": "普通笔记",
+    "source_keyword": "蛋白粉 健身",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [
+      "乳清分离蛋白"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "训练后黄金30分钟真的有道理",
+      "练完直接喝蛋白粉+香蕉",
+      "BCAA练中喝是不是也可以",
+      "蛋白粉求链接",
+      "博主练了多久了，身材好好",
+      "练后不补真的白练",
+      "训练后还会吃一顿正餐吗",
+      "肌酸和蛋白粉一起冲可以吗",
+      "我练完就累瘫根本不想吃东西",
+      "运动恢复真的是被低估的一环"
+    ],
+    "comments_fetched": true,
+    "interaction": 456,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6d38bc000000003400e17c",
+    "published_at": "2026-08-06 01:33:25",
+    "timestamp": 1785542844,
+    "title": "拜托‼️谁不想要气血充盈的美啊‼️",
+    "content": "天知道我每天收到多少私信 脾胃虚怎么办 体寒怎么办 气血不足怎么办 别慌 你的螂来了",
+    "likes": 163,
+    "comments": 51,
+    "collects": 118,
+    "shares": 10,
+    "author": "蟑螂恶霸🖤",
+    "note_type": "普通笔记",
+    "source_keyword": "补铁 气血",
+    "category": [],
+    "scene": [
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 342,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7187fb000000002403eb8d",
+    "published_at": "2026-08-04 14:59:19",
+    "timestamp": 1785826759,
+    "title": "日常选铁心得|气血虚这缺的是铁",
+    "content": "咱们女生每个月那几天都会流失不少🩸，长期下来，我一直有意识注重铁元素的补充。 但我的肠胃本身比较脆弱，之前试过几款补铁",
+    "likes": 121,
+    "comments": 13,
+    "collects": 31,
+    "shares": 3,
+    "author": "温婉Mama",
+    "note_type": "普通笔记",
+    "source_keyword": "补铁 气血",
+    "category": [
+      "补气血"
+    ],
+    "scene": [
+      "肠道调理",
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [
+      "甘氨酸亚铁"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 168,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6f58990000000027022d89",
+    "published_at": "2026-08-04 00:19:05",
+    "timestamp": 1785682073,
+    "title": "空瓶记｜25.7-26.7吃过的一些气血补剂",
+    "content": "无数次被小红书种草，自己再拔草，筛选出了图上这些，我觉得还算有代表性的气血补剂 ✅共同优点： 1、都不算难入口，日常坚持",
+    "likes": 13,
+    "comments": 6,
+    "collects": 8,
+    "shares": 2,
+    "author": "ddup！",
+    "note_type": "普通笔记",
+    "source_keyword": "补铁 气血",
+    "category": [],
+    "scene": [
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 29,
+    "post_type": "health"
+  },
+  {
+    "id": "6a731e47000000000e03f400",
+    "published_at": "2026-08-05 19:28:55",
+    "timestamp": 1785929287,
+    "title": "",
+    "content": "被贫🩸困扰的这两年，孩子脸色总是白白的，没气色，浑身软软的没精神，白天也犯困，出门玩一会儿就喘气，整个人像精气神被抽空",
+    "likes": 3,
+    "comments": 0,
+    "collects": 2,
+    "shares": 0,
+    "author": "甜度不打烊哦",
+    "note_type": "普通笔记",
+    "source_keyword": "补铁 气血",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 5,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73247c0000000027021f94",
+    "published_at": "2026-08-05 19:55:21",
+    "timestamp": 1785930876,
+    "title": "气色差容易疲惫｜别只敷面膜，内调才是根源",
+    "content": "很多女生会陷入一个误区： 脸黄、暗沉、没精神，拼命护肤敷面膜。 但其实皮肤是人体最大的反射器官。 你脸上的状态，就是身体",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "如果",
+    "note_type": "普通笔记",
+    "source_keyword": "补铁 气血",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7295b100000000250042d5",
+    "published_at": "2026-08-05 09:45:59",
+    "timestamp": 1785894321,
+    "title": "气血不足容易掉头发！内调养血，比外",
+    "content": "头发古称“血之余”，气血充盈，头发乌黑浓密；气血亏虚，毛囊得不到滋养，干枯、分叉、大把掉发、白发增多。 内调养血防脱食疗",
+    "likes": 3,
+    "comments": 0,
+    "collects": 3,
+    "shares": 0,
+    "author": "祖方分享养身知识",
+    "note_type": "普通笔记",
+    "source_keyword": "补铁 气血",
+    "category": [],
+    "scene": [
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 6,
+    "post_type": "health"
+  },
+  {
+    "id": "6a729af30000000024024f80",
+    "published_at": "2026-08-05 10:08:29",
+    "timestamp": 1785895667,
+    "title": "🥱睡不着别只怪压力你的晚餐可能正在“毁",
+    "content": "中国食品报指出，全球27%的人有睡眠障碍。其实，睡不好不一定是心事重，很可能是“吃”错了。 餐盘里的这3种营养素，是天然",
+    "likes": 5,
+    "comments": 0,
+    "collects": 3,
+    "shares": 0,
+    "author": "初吻承利",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "情绪压力"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 8,
+    "post_type": "health"
+  },
+  {
+    "id": "6a736efb000000002402f28d",
+    "published_at": "2026-08-06 01:13:10",
+    "timestamp": 1785949947,
+    "title": "慎吃褪黑素",
+    "content": "最近作息日夜颠倒，连着三天靠吃褪黑素强制入睡。 其实我很享受吃完立刻脑子昏昏沉沉的感觉，但是这个东西吃过量副作用真的太大",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "momo",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "褪黑素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "negative",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73c4380000000022016deb",
+    "published_at": "2026-08-06 07:16:49",
+    "timestamp": 1785971768,
+    "title": "睡不着就吃褪黑素？先搞清它管什么",
+    "content": "它拨的是生物钟，不是睡眠开关 #褪黑素  #失眠怎么办  #改善睡眠  #入睡困难  #睡眠科普",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "浮生助眠",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "褪黑素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6c0e6700000000050234b9",
+    "published_at": "2026-08-05 10:19:03",
+    "timestamp": 1785466471,
+    "title": "不经意间get了早睡的秘诀😍老天待我不薄！",
+    "content": "‼️发布前怕误导大家，又去查了点资料，原来我是无意我踩中了睡眠科学的四个核心开关！ 1️⃣力量训练会大量消耗ATP（能量",
+    "likes": 86,
+    "comments": 2,
+    "collects": 44,
+    "shares": 4,
+    "author": "沈若竹🌱",
+    "note_type": "视频笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [],
+    "crowd": [
+      "健身"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 136,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71d5560000000033033a76",
+    "published_at": "2026-08-05 08:28:16",
+    "timestamp": 1785845078,
+    "title": "凌晨1‑3点醒?我读懂了早醒背后的原因",
+    "content": "又醒了。 手机屏幕刺眼地亮着——3:47。 . 人到50+才体会这种滋味，不是偶然失眠，连续一周，总在凌晨1‑3点这个区",
+    "likes": 3,
+    "comments": 1,
+    "collects": 1,
+    "shares": 0,
+    "author": "听风静日常",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 5,
+    "post_type": "health"
+  },
+  {
+    "id": "6a733e9a00000000280029f2",
+    "published_at": "2026-08-05 21:46:46",
+    "timestamp": 1785937562,
+    "title": "低成本早睡计划，老fu亲测有效",
+    "content": "#howto无痛早睡  --- 低成本早睡计划，老fu亲测有效 老fu之前也是熬夜党，凌晨两点才睡是常态，第二天上班昏昏",
+    "likes": 9,
+    "comments": 0,
+    "collects": 1,
+    "shares": 1,
+    "author": "养女人不如养生",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 11,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72c3540000000005033b8e",
+    "published_at": "2026-08-05 13:00:48",
+    "timestamp": 1785906004,
+    "title": "日本人是怎么发明出-196这种神酒的",
+    "content": "博主因为就业焦虑和工作压力吃褪黑素➕南非醉茄勉强能睡着，但是半夜还是会因为各种莫名其妙的原因起床然后躺1个小时再勉强睡去",
+    "likes": 5586,
+    "comments": 428,
+    "collects": 1856,
+    "shares": 349,
+    "author": "oz",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [
+      "睡眠",
+      "情绪管理"
+    ],
+    "scene": [
+      "情绪压力",
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "褪黑素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 8219,
+    "post_type": "health"
+  },
+  {
+    "id": "6a640338000000000f03d86c",
+    "published_at": "2026-08-04 17:30:41",
+    "timestamp": 1785835841,
+    "title": "重度失眠，常吃5种天然褪黑素",
+    "content": "重度失眠｜常吃5种“天然褪黑素” 躺下2小时还清醒？数羊数到怀疑人生？ 别急着吃药，厨房里就有“安神高手”👇 #失眠食",
+    "likes": 1,
+    "comments": 0,
+    "collects": 3,
+    "shares": 1,
+    "author": "中医失眠专家罗文君",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [
+      "睡眠"
+    ],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "褪黑素"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 5,
+    "post_type": "health"
+  },
+  {
+    "id": "6a715f9e0000000033031928",
+    "published_at": "2026-08-04 11:43:04",
+    "timestamp": 1785814942,
+    "title": "有没有同款失眠的姐妹",
+    "content": "躺在床上身体疲惫到眼皮打架，大脑却高速循环琐事，越强迫自己入睡越清醒； 好不容易熬到浅浅睡着，整夜乱糟糟的梦不断，凌晨两",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "不发脾气只发财",
+    "note_type": "普通笔记",
+    "source_keyword": "褪黑素 助眠",
+    "category": [],
+    "scene": [
+      "睡眠放松"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72bdee000000002402c65d",
+    "published_at": "2026-08-05 12:37:45",
+    "timestamp": 1785904622,
+    "title": "CoQ10（辅酶Q10）到底值不值得补？",
+    "content": "美国保健品研究室｜第002期 主题：CoQ10（辅酶Q10）到底值不值得补？ 很多人知道辅酶Q10，却不知道真正适合补充",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "LA_Chris",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72e7630000000006006032",
+    "published_at": "2026-08-05 20:05:11",
+    "timestamp": 1785931511,
+    "title": "允许一切发生 但别老发生啊！！",
+    "content": "#infp  #处女座  #记录生活  #低能量  #vlog  #上班如上刑  #vlog日常  #辅酶q10  #澳",
+    "likes": 315,
+    "comments": 43,
+    "collects": 23,
+    "shares": 1,
+    "author": "一个歪",
+    "note_type": "视频笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 382,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72bd650000000028009d03",
+    "published_at": "2026-08-05 12:36:42",
+    "timestamp": 1785904485,
+    "title": "辅酶Q10，哪些人群需要补充❓50岁内行人经验",
+    "content": "#健康howto  #全营养模式  #拥抱健康生活  #营养均衡  #从每一个细胞开始减龄  #健康是吃出来的  #饮食",
+    "likes": 359,
+    "comments": 0,
+    "collects": 212,
+    "shares": 2,
+    "author": "50岁颜姐（资深营养师）",
+    "note_type": "视频笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心"
+    ],
+    "scene": [],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": true,
+    "interaction": 573,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73e2da000000002500d080",
+    "published_at": "2026-08-06 09:27:39",
+    "timestamp": 1785979610,
+    "title": "",
+    "content": "😎😎辅酶Q10——细胞的天然抗氧化防锈漆",
+    "likes": 1,
+    "comments": 1,
+    "collects": 1,
+    "shares": 0,
+    "author": "小艾",
+    "note_type": "视频笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心",
+      "身体抗衰"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 3,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7337a900000000330084b9",
+    "published_at": "2026-08-06 07:30:16",
+    "timestamp": 1785972616,
+    "title": "这应该是来澳洲必买的吧",
+    "content": "这段时间休假去澳洲旅游逛当地的TerryWhite看到了一面墙的Swisse，真的很亲切。 我是经常需熬夜加班，日常都有",
+    "likes": 6,
+    "comments": 3,
+    "collects": 4,
+    "shares": 0,
+    "author": "勇敢的向日葵🌻",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [
+      "Swisse"
+    ],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 13,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71ba7800000000050237d3",
+    "published_at": "2026-08-05 23:06:10",
+    "timestamp": 1785838200,
+    "title": "服用辅酶Q10期间需就医的异常反应说",
+    "content": "服用还原型辅酶Q10期间需就医的异常反应说明 #辅酶Q10  #心血管  #心率  #医疗科普",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "牛小妞",
+    "note_type": "视频笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a70420a000000003301d18a",
+    "published_at": "2026-08-05 09:52:50",
+    "timestamp": 1785742702,
+    "title": "多重身份不累垮｜30+姐姐的高能量内服公式",
+    "content": "白天上班晚上带娃如何保持高精力#内服好物  #精力管理  #辅酶Q10  #甘氨酸镁  #斜杠妈妈  #打工人养生",
+    "likes": 324,
+    "comments": 30,
+    "collects": 113,
+    "shares": 1,
+    "author": "爱分享的兮兮",
+    "note_type": "视频笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心",
+      "镁"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场",
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "辅酶Q10",
+      "甘氨酸镁"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "又要上班又要带娃又要健身，真的是铁人",
+      "葡萄籽我也在吃，感觉肤色亮了一点",
+      "女性30+真的要开始内服了",
+      "博主一天吃这么多补剂不会肝肾负担吗",
+      "求清单，想抄作业",
+      "胶原蛋白和葡萄籽哪个更值得入",
+      "上班族+宝妈+健身，时间怎么挤出来的",
+      "我也是多重身份，最近明显感觉精力不够",
+      "虾青素是不是要随餐吃",
+      "女性内服真的要早，别等垮了才补"
+    ],
+    "comments_fetched": true,
+    "interaction": 468,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72acda0000000005028844",
+    "published_at": "2026-08-05 11:24:54",
+    "timestamp": 1785900250,
+    "title": "吃了一年辅酶Q10 复查结果把我整沉默了",
+    "content": "30+备孕两年没动静 查出来amh只有零点几，我就开始自己吃辅酶Q10养着。我是真的认真吃了一整年 没断过结果上个月复查",
+    "likes": 1,
+    "comments": 2,
+    "collects": 1,
+    "shares": 0,
+    "author": "小七",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心"
+    ],
+    "scene": [
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 4,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7058080000000025008894",
+    "published_at": "2026-08-05 09:23:22",
+    "timestamp": 1785747464,
+    "title": "辅酶Q10提升心率的身体阶段性反应",
+    "content": "服用还原型辅酶Q10提升心率过程中的身体阶段性反应是怎样的？ #心血管系统  #辅酶Q10  #心血管 #心率",
+    "likes": 2,
+    "comments": 0,
+    "collects": 2,
+    "shares": 0,
+    "author": "牛小妞",
+    "note_type": "视频笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [
+      "护心"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 4,
+    "post_type": "health"
+  },
+  {
+    "id": "6a734bbd0000000005032757",
+    "published_at": "2026-08-05 22:54:42",
+    "timestamp": 1785941682,
+    "title": "25+熬夜打工人吃辅酶q10记录",
+    "content": "难道是因为年纪上来了？稍微一熬夜就胸口不舒服，总要下意识深吸一大口气才稍微舒服一点，还经常有一阵心跳的很频繁！跟着网上的",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "雪喏",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c8010000000035016fe8",
+    "published_at": "2026-08-04 21:09:16",
+    "timestamp": 1785845107,
+    "title": "辅酶 Q10 选 100 还是 200？看 3 个数字",
+    "content": "🔸 备孕补剂里，辅酶 Q10 100 和 200 最容易买错——价格差 1 倍，但选错的人 80% 都栽在\"看年龄\"上",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "好孕课代表刘队长",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [
+      "女性周期与气血"
+    ],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7341400000000033011753",
+    "published_at": "2026-08-05 22:14:22",
+    "timestamp": 1785938240,
+    "title": "养心辅酶买左别买右",
+    "content": "左边三瓶已经全部吃完，偶然刷到右边这款高吸收效果也很好 想着买来试试 救命！一颗巨大 ，一开始我分成两半吃，很容易刮喉咙",
+    "likes": 2,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "言宝贝",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71a4c300000000250079f7",
+    "published_at": "2026-08-04 16:55:44",
+    "timestamp": 1785833744,
+    "title": "虚了几十年终于满血复活了！！！",
+    "content": "不是，给我爸妈换了脉拓辅酶q10之后，现在他俩的状态好到我怀疑是不是偷偷报了什么老年健身班……之前我妈擦个地要扶腰歇半天",
+    "likes": 46,
+    "comments": 7,
+    "collects": 49,
+    "shares": 1,
+    "author": "月亮Moon",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [
+      "运动恢复"
+    ],
+    "crowd": [
+      "健身",
+      "中老年"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 103,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72a01a000000000600572f",
+    "published_at": "2026-08-05 14:26:47",
+    "timestamp": 1785911207,
+    "title": "已停服！两款辅酶q10都试了，聊聊真实感受",
+    "content": "不打广也不带货，纯自费个人感受 实在看不下去明晃晃的广子了，来分享点自己的选择过程 我是从去年年底开始关注辅酶q10的",
+    "likes": 31,
+    "comments": 9,
+    "collects": 17,
+    "shares": 4,
+    "author": "诗诗",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 61,
+    "post_type": "health"
+  },
+  {
+    "id": "6a730df8000000003300ae33",
+    "published_at": "2026-08-05 18:20:16",
+    "timestamp": 1785925112,
+    "title": "吐槽下最近在用的两款辅酶q10",
+    "content": "左边，右边两款 我本人是非常慎重的，吃之前看了好多红🍠网评和jd买家评价，选择这两个风评都不错的两款对比着吃 说一下我",
+    "likes": 1,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "丽啦啦",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "辅酶Q10"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a718bdc0000000028003f93",
+    "published_at": "2026-08-04 16:45:13",
+    "timestamp": 1785833113,
+    "title": "30➕职场宝妈保持好状态的秘诀",
+    "content": "30➕的职场宝妈！白天上班，下班带娃，无缝衔接 🥲我都自嘲自己像个永动机～ 办公室姐妹都夸我高精力，说每天不闲着状态还",
+    "likes": 146,
+    "comments": 24,
+    "collects": 90,
+    "shares": 1,
+    "author": "屿宝",
+    "note_type": "普通笔记",
+    "source_keyword": "辅酶Q10",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场",
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 261,
+    "post_type": "health"
+  },
+  {
+    "id": "6a703f840000000005023074",
+    "published_at": "2026-08-05 20:35:03",
+    "timestamp": 1785933303,
+    "title": "每天吃鱼油，却忽视了最重要的一步",
+    "content": "很多家属私信问我： “鱼油真的能预防阿尔茨海默病吗？” 我去翻了很多近几年的研究，答案其实比大家想象得更简单。 目前，并",
+    "likes": 0,
+    "comments": 1,
+    "collects": 0,
+    "shares": 0,
+    "author": "替你记得",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 1,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72b77a00000000250057c4",
+    "published_at": "2026-08-05 12:11:29",
+    "timestamp": 1785902970,
+    "title": "宝宝鱼油别乱买！认准3点不踩坑",
+    "content": "很多宝妈分不清鱼油和鱼肝油，选错白白浪费钱！ ✅看配比：宝宝选高DHA、低EPA款，适配脑部视网膜发育 ✅看纯度：优选无",
+    "likes": 1048,
+    "comments": 0,
+    "collects": 392,
+    "shares": 1,
+    "author": "配方师cat妈",
+    "note_type": "视频笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "脑健康",
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "EPA",
+      "DHA"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": true,
+    "interaction": 1441,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73e4590000000022030acf",
+    "published_at": "2026-08-06 09:39:11",
+    "timestamp": 1785980351,
+    "title": "痘肌说下这三款鱼油身体感受变化（停服）",
+    "content": "【吃鱼油的规律】 吃了大半年鱼油，一直固定在晚饭吃，不会空腹。坚持这么久，确实觉得变化挺大的 ⬜️白瓶：这个是97%高纯",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "yy",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a70568d00000000290301ce",
+    "published_at": "2026-08-05 17:47:23",
+    "timestamp": 1785748465,
+    "title": "吃玫瑰鱼油一个月了",
+    "content": "最近长痘太严重了，集中在下巴和侧脸，涂过阿达帕林凝胶，没太大用，脸上还爆皮了。搜了很多相关的内服，都推荐的omega和姜",
+    "likes": 105,
+    "comments": 27,
+    "collects": 70,
+    "shares": 3,
+    "author": "小宝",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 205,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b251000000000502160a",
+    "published_at": "2026-08-04 18:01:55",
+    "timestamp": 1785837715,
+    "title": "清华女博，xhs推荐的三款，个人向感受",
+    "content": "由于本贝贝熬夜这方面的经验非常丰富 所以马不停蹄地来分享我常吃的仨鱼油 也是被🍠姐妹种草的 加上我自己去查资料做了功课",
+    "likes": 10,
+    "comments": 4,
+    "collects": 1,
+    "shares": 3,
+    "author": "一口一个泡泡龙",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "熬夜恢复",
+      "心血管养护"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 18,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73e1a40000000005020555",
+    "published_at": "2026-08-06 09:23:09",
+    "timestamp": 1785979300,
+    "title": "选了三个月的鱼油，不会了，抓狂中😫……",
+    "content": "我纯是为了熬夜看着没那么憔悴、脸上少冒点痘才吃的鱼油，图里就是我目前在吃的三款。其实之前还试过一瓶便宜大碗的基础款，但吃",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "蓝色的",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "熬夜恢复",
+      "心血管养护"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7069640000000021021e54",
+    "published_at": "2026-08-04 18:27:49",
+    "timestamp": 1785839269,
+    "title": "鱼油已停服，说下xhs推荐的和其他的差别",
+    "content": "封面是我24、25、26年买的所有鱼油大概被我分成了两类: 第一类是我刷小红书被种草的:swisse、vitalvita",
+    "likes": 14,
+    "comments": 8,
+    "collects": 5,
+    "shares": 0,
+    "author": "小楼Kinho",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [
+      "Swisse"
+    ],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 27,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b592000000000502ad16",
+    "published_at": "2026-08-05 12:36:22",
+    "timestamp": 1785904582,
+    "title": "鱼油分享（女生，长痘，烫染频繁）",
+    "content": "我吃鱼油是想不长痘，频繁烫染后能保护一下头发 我就从左到右分享，仅代表我个人感受 ❶线下买的一桶200多，吃完半桶给我一",
+    "likes": 1,
+    "comments": 0,
+    "collects": 1,
+    "shares": 0,
+    "author": "salina~",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 2,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71c3d90000000005029238",
+    "published_at": "2026-08-05 16:40:35",
+    "timestamp": 1785919235,
+    "title": "连续吃鱼油的75天真实反馈",
+    "content": "5月份跟风买了3盒小红盾鱼油，到现在已经快80天了，先说结论，对😴和豆真的还不错 一、关于睡眠 1.我当时想吃鱼油主要",
+    "likes": 25,
+    "comments": 5,
+    "collects": 13,
+    "shares": 2,
+    "author": "喜得宝",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管",
+      "睡眠"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 45,
+    "post_type": "health"
+  },
+  {
+    "id": "6a73003800000000050204f4",
+    "published_at": "2026-08-05 17:47:21",
+    "timestamp": 1785923241,
+    "title": "吃了两盒，玫瑰鱼油对暗沉好像有一套啊",
+    "content": "因为我才吃两盒，可能有些变化还不明显，只说我能感受到的变化哈 吃玫瑰鱼油是因为这段时间脸色很差，就算早睡早起也还是灰蒙蒙",
+    "likes": 113,
+    "comments": 0,
+    "collects": 86,
+    "shares": 2,
+    "author": "小飞鸟",
+    "note_type": "普通笔记",
+    "source_keyword": "鱼油",
+    "category": [
+      "心脑血管"
+    ],
+    "scene": [
+      "心血管养护"
+    ],
+    "crowd": [
+      "中老年"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 201,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71fbcf000000002c003df7",
+    "published_at": "2026-08-05 22:54:53",
+    "timestamp": 1785854928,
+    "title": "麦角硫因风这么大，到底值不值得入手？",
+    "content": "麦角硫因是日常营养补充，不是速效产品。别指望吃两天就怎么怎么样，理性看待、按需选择才是正解。 #麦角硫因  #抗衰赛道",
+    "likes": 940,
+    "comments": 17,
+    "collects": 865,
+    "shares": 2,
+    "author": "营养师沐沐",
+    "note_type": "视频笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [
+      "[飞吻R][飞吻R]谁脸[笑哭R][笑哭R]长斑，我法发你 不卖货，当做好事[害羞R][害羞R]",
+      "这个是抗衰用的嘛，如果是想保养，用这个可以吗？",
+      "女人还是要内调外养，要选到适合自己的产品",
+      "正常一天补这个需要多少呀",
+      "内调外养一定要结合起来，这样效果才更好",
+      "听说这个好久了，但是一直没下手，看了你的科普，感觉会选[偷笑R]了",
+      "脸[玫瑰R][玫瑰R]有班班的，，，。 举个手🙋‍♂️无条件帮一把。我渴望成为有贡献的人[飞吻R]",
+      "第一次听说他有什么作用啊",
+      "这个怎么补充从多大开始"
+    ],
+    "comments_fetched": true,
+    "interaction": 1824,
+    "post_type": "health"
+  },
+  {
+    "id": "6a62b50f0000000005039546",
+    "published_at": "2026-08-04 17:17:58",
+    "timestamp": 1785835078,
+    "title": "奔四 空腹挨饿+港式抗衰1年 已显化",
+    "content": "37岁，二宝妈妈，职场打工人。先给你们看个反差——我特意去了解过自己的NAD+状态，在同龄人里算保持得很不错的。一般",
+    "likes": 213,
+    "comments": 12,
+    "collects": 38,
+    "shares": 7,
+    "author": "青青〰",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场",
+      "宝妈·育儿"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 270,
+    "post_type": "health"
+  },
+  {
+    "id": "6a719ac30000000022015a4f",
+    "published_at": "2026-08-04 15:55:26",
+    "timestamp": 1785830083,
+    "title": "",
+    "content": "40岁女人吃麦角硫因好吗？过来人真实抗衰心得✨ 跨过40岁之后，明显察觉到身体变化：代谢变慢、脸上黄气久久散不去，熬夜后",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "少忧多甜^^",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [
+      "内服焕肤",
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a6f1dd0000000002500d4c2",
+    "published_at": "2026-08-04 09:16:52",
+    "timestamp": 1785667024,
+    "title": "关于岁月的流失，别只做表面功夫",
+    "content": "#迪哥精准营养 #衰老 #麦角硫因",
+    "likes": 16,
+    "comments": 0,
+    "collects": 7,
+    "shares": 1,
+    "author": "迪哥精准营养",
+    "note_type": "视频笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 24,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7308800000000032020869",
+    "published_at": "2026-08-05 17:56:03",
+    "timestamp": 1785923712,
+    "title": "",
+    "content": "口服麦角硫因功效与作用✨内调抗衰真的靠谱 很多人跟风吃麦角硫因，但大多只知道它能抗老，却不懂它的真正作用原理",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "少忧多甜^^",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71a40e000000002701c6a8",
+    "published_at": "2026-08-05 09:59:42",
+    "timestamp": 1785832861,
+    "title": "抗老离不开麦角硫因，终于懂内服养护的快乐",
+    "content": "如果你的抗老还停留在疯狂涂护肤品，那真的太慢了！ 今天真心想安利我的本命内服—— ✨#Povoni麦角硫因  以前我一直",
+    "likes": 288,
+    "comments": 10,
+    "collects": 220,
+    "shares": 14,
+    "author": "柒紫✨",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [
+      "@点点 麦角硫因的用处？",
+      "内调至少需要三个月才能充分感受到变化，一次性囤够周期慢慢坚持，效果更容易显现。",
+      "连续入手三瓶吃完，熬夜后的憔悴感明显减轻，素颜通透感稳稳在线！",
+      "第1次体验可以先入一瓶适应看看，确认适合自己之后，再囤三个月周期装更划算。",
+      "初次尝试，先入手一瓶试试，还是直接囤周期装更合适？",
+      "日常长期养护建议一次囤3瓶，刚好三个月周期，也很划算，很多姐妹都是这样囤货打卡。",
+      "一次囤几瓶性价比更高？",
+      "内调讲究持续稳定，断断续续服用见效会慢很多，尽量保持规律打卡哦。",
+      "经常出差作息混乱，断断续续吃，会不会很难看到效果？"
+    ],
+    "comments_fetched": true,
+    "interaction": 532,
+    "post_type": "health"
+  },
+  {
+    "id": "6a730b72000000002403d495",
+    "published_at": "2026-08-05 18:08:36",
+    "timestamp": 1785924466,
+    "title": "",
+    "content": "麦角硫因的主要作用✨由内调养，慢慢稳住年轻状态 常年熬夜、伏案久坐，脸蛋发黄松弛、白天总是昏沉疲惫，试过不少护肤品效果平",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "少忧多甜^^",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [
+      "熬夜恢复"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71ad790000000025002606",
+    "published_at": "2026-08-04 17:31:04",
+    "timestamp": 1785835864,
+    "title": "42岁吃feelwell麦角有问必答贴！",
+    "content": "过了35，看啥内服都想试，钱除了孩子，就想花自己身上，学会了爱自己。光是麦角硫因就入了好几款，后来还是选了身边好几个熟龄",
+    "likes": 48,
+    "comments": 10,
+    "collects": 39,
+    "shares": 2,
+    "author": "考拉不是考拉",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [],
+    "crowd": [
+      "宝妈·育儿"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 99,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7199b8000000003300f812",
+    "published_at": "2026-08-04 15:50:59",
+    "timestamp": 1785829816,
+    "title": "",
+    "content": "麦角硫因一旦吃了就不能停吗？直白辟谣+普通人抗衰干货✨ 经常刷到很多姐妹焦虑发问，麦角硫因是不是一旦开始吃，这辈子就没法",
+    "likes": 0,
+    "comments": 0,
+    "collects": 0,
+    "shares": 0,
+    "author": "少忧多甜^^",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "美容抗衰"
+    ],
+    "scene": [
+      "内服焕肤",
+      "情绪压力"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 0,
+    "post_type": "health"
+  },
+  {
+    "id": "6a72f0cc0000000006006459",
+    "published_at": "2026-08-05 16:50:09",
+    "timestamp": 1785919809,
+    "title": "产后垮脸都在吃什么保健品，我先来说",
+    "content": "前阵子跟朋友聚会合照，看到原图有点受不了。。。也不是丑，就是脸看着空，尤其鼻子下面到嘴角这一块，好像皮肉松散了，没什么支",
+    "likes": 219,
+    "comments": 0,
+    "collects": 170,
+    "shares": 14,
+    "author": "龙花E",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "备孕·孕产"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 403,
+    "post_type": "health"
+  },
+  {
+    "id": "6a71b17e000000002c005a61",
+    "published_at": "2026-08-05 22:13:33",
+    "timestamp": 1785924028,
+    "title": "所有女生！！真的喝出贵妇感了。。。",
+    "content": "#内服保养  #胶原蛋白饮  #晓姿塑颜饮  #下颌线养成  #晓姿  #液态麦角硫因  #内服推荐  #30+抗老",
+    "likes": 420,
+    "comments": 55,
+    "collects": 263,
+    "shares": 3,
+    "author": "汉堡不饱",
+    "note_type": "视频笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [
+      "胶原蛋白",
+      "美容抗衰"
+    ],
+    "scene": [
+      "内服焕肤"
+    ],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [
+      "水解胶原蛋白肽",
+      "麦角硫因"
+    ],
+    "product": "",
+    "brands": [],
+    "sentiment": "positive",
+    "comment_texts": [
+      "有链接可以发一下吗？",
+      "一天喝一瓶吗",
+      "一盒多少支",
+      "一天一个吗 味道能接受吗",
+      "[色色R]",
+      "好用吗[石化R]",
+      "多少岁喝合适呀",
+      "每天都喝吗",
+      "味道大概怎么样？会不会苦呀？",
+      "哪里可以买到"
+    ],
+    "comments_fetched": true,
+    "interaction": 741,
+    "post_type": "health"
+  },
+  {
+    "id": "6a7323260000000032033332",
+    "published_at": "2026-08-05 20:32:52",
+    "timestamp": 1785933172,
+    "title": "难怪你的脸越来越垮！因为你的底子“饿”了",
+    "content": "很多30+的女生应该都会有这种无力感：脸上断崖式衰老，肌肉往下松垮，法令纹也坠下来，整张脸都是干瘪耷拉的；脸色也跟发黄的",
+    "likes": 122,
+    "comments": 8,
+    "collects": 116,
+    "shares": 1,
+    "author": "成分党小喂",
+    "note_type": "普通笔记",
+    "source_keyword": "麦角硫因 抗衰",
+    "category": [],
+    "scene": [],
+    "crowd": [
+      "职场"
+    ],
+    "ingredients": [],
+    "product": "",
+    "brands": [],
+    "sentiment": "neutral",
+    "comment_texts": [],
+    "comments_fetched": false,
+    "interaction": 247,
+    "post_type": "health"
   }
 ]
