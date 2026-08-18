@@ -23,7 +23,7 @@
    "brands": [
     "均瑶健康"
    ],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "想轻松身材管理一定得选对益生菌！J26就是我的one pick",
     "分清不同菌株对应的肠胃问题太重要，经常便秘、容易腹泻选的菌株完全不一样，以后挑益生菌直接对照这篇标准，再也不盲目跟风",
@@ -35,27 +35,32 @@
     {
      "content": "想轻松身材管理一定得选对益生菌！J26就是我的one pick",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "分清不同菌株对应的肠胃问题太重要，经常便秘、容易腹泻选的菌株完全不一样，以后挑益生菌直接对照这篇标准，再也不盲目跟风",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "正好想买益生菌，刷到了买来试试",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "长期便秘喝这个会有改善吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "瘦子菌是智商税不？有用过的吗？说说",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -76,7 +81,7 @@
    "source_keyword": "益生菌",
    "category": "益生菌_成人_肠胃呵护",
    "scene": "肠道调理",
-   "crowd": "",
+   "crowd": "健身",
    "ingredients": [
     "双歧杆菌BB-12"
    ],
@@ -113,7 +118,7 @@
    "brands": [
     "NC"
    ],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "过敏性鼻炎可以不？想试试",
     "请问吃多久有效果呢",
@@ -124,22 +129,26 @@
     {
      "content": "过敏性鼻炎可以不？想试试",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "请问吃多久有效果呢",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个价格怎么样啊",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "经常鼻塞适合吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -168,7 +177,7 @@
    "brands": [
     "万益蓝"
    ],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "这个效果好吗",
     "什么年龄段的人都可以吃吗？",
@@ -179,22 +188,26 @@
     {
      "content": "这个效果好吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "什么年龄段的人都可以吃吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "兑水冲服吗？还是干咽啊",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "益生菌真的能治感冒吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -250,7 +263,7 @@
    "brands": [
     "inne"
    ],
-   "sentiment": "",
+   "sentiment": "negative",
    "comment_texts": [
     "这是不是广子",
     "多少钱一罐？",
@@ -261,22 +274,26 @@
     {
      "content": "这是不是广子",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "negative"
     },
     {
      "content": "多少钱一罐？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "小孩能用吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个对花粉过敏的使用它管用吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -522,7 +539,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "我的补剂都是想起来了吃，所以根本不会过量",
     "吃带鱼行不行呀？老师",
@@ -533,22 +550,26 @@
     {
      "content": "我的补剂都是想起来了吃，所以根本不会过量",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "吃带鱼行不行呀？老师",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "我正好在四川 正好在思考吃不到深海鱼这个问题 谢谢老师答疑解惑",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "医生能说说日常维生素该吃哪些？吃多少？谢谢",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -576,7 +597,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "高三文科可以吗",
     "请问这个吃久了会不会免疫呀，就没有效果了",
@@ -587,22 +608,26 @@
     {
      "content": "高三文科可以吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "请问这个吃久了会不会免疫呀，就没有效果了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "真的管用吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "家附近没有山姆 有能买的朋友吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -686,7 +711,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "negative",
    "comment_texts": [
     "吃了快半个月，没感觉到什么效果",
     "黑咖啡有同样功效",
@@ -697,22 +722,26 @@
     {
      "content": "吃了快半个月，没感觉到什么效果",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "negative"
     },
     {
      "content": "黑咖啡有同样功效",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "考研党买了试试，不便宜，不好用你完了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "negative"
     },
     {
      "content": "贵的吓人",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "negative"
     }
    ],
    "comments_fetched": true,
@@ -740,7 +769,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "下单了，吃了没有效果就回来蛐蛐",
     "这款鱼油适合熬夜压力大的人日常吃吗？",
@@ -751,22 +780,26 @@
     {
      "content": "下单了，吃了没有效果就回来蛐蛐",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这款鱼油适合熬夜压力大的人日常吃吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "会不会很腥啊",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "刚开始还不适应它的口感，后面就还好了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -794,7 +827,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "在吃其他内调的一同服用会不会冲突？",
     "想问问大家吃这款黑绷带鱼油多久能感觉到提亮效果呀？天生黄皮真的很需要真实反馈",
@@ -805,22 +838,26 @@
     {
      "content": "在吃其他内调的一同服用会不会冲突？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "想问问大家吃这款黑绷带鱼油多久能感觉到提亮效果呀？天生黄皮真的很需要真实反馈",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "听说外卖吃多吃鱼油内调也有效",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个没啥异味，挺好吃的",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -876,7 +913,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "一般服用多久看到效果呀？",
     "来姨妈能吃吗，会不会影响",
@@ -887,22 +924,26 @@
     {
      "content": "一般服用多久看到效果呀？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "来姨妈能吃吗，会不会影响",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "太需要了 最近熬夜 头发要没了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这款和4x那款有什么区别吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -988,7 +1029,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "容易吞咽吗？鱼油腥味会不会很大呀？",
     "要一直吃吗？还是吃几个月停一段时间",
@@ -999,22 +1040,26 @@
     {
      "content": "容易吞咽吗？鱼油腥味会不会很大呀？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "要一直吃吗？还是吃几个月停一段时间",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "含量很友好，吃着没负担，适合我们这种经常熬大夜的上班族日常补",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "长期吃下来，整个人状态都稳定很多",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -1127,7 +1172,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "补钙追高想一步到位，可以上钙尔奇",
     "睡前吃还是早晨吃比较好",
@@ -1138,22 +1183,26 @@
     {
      "content": "补钙追高想一步到位，可以上钙尔奇",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "睡前吃还是早晨吃比较好",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个味道孩子抗拒不？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这种液体钙好吸收吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -1969,7 +2018,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "直接吃蛋白粉可以吗",
     "果糖。。。就是说水果要少吃是吗",
@@ -1980,22 +2029,26 @@
     {
      "content": "直接吃蛋白粉可以吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "果糖。。。就是说水果要少吃是吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "吃麦角硫因有用吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "地中海饮食法",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -2022,7 +2075,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "打工人太需要这个面霜了",
     "上脸油腻吗？",
@@ -2033,22 +2086,26 @@
     {
      "content": "打工人太需要这个面霜了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "上脸油腻吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "搓泥吗？玻尿酸那款搓泥严重",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个好像卖的还不贵诶",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -2152,7 +2209,7 @@
    "source_keyword": "胶原蛋白",
    "category": "胶原蛋白",
    "scene": "内服焕肤",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [
     "水解胶原蛋白肽"
    ],
@@ -2212,7 +2269,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "都是草本的成分吗？",
     "这瓶是可以长期吃的吗？还是说得吃吃停停？",
@@ -2223,22 +2280,26 @@
     {
      "content": "都是草本的成分吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这瓶是可以长期吃的吗？还是说得吃吃停停？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "天天吃外卖确实应该吃点护肝片，都是重盐的食物",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "85%的纯度算是很高的了吗？不太了解",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -2450,7 +2511,7 @@
    "source_keyword": "护肝片",
    "category": "护肝",
    "scene": "熬夜恢复",
-   "crowd": "",
+   "crowd": "职场",
    "ingredients": [
     "水飞蓟素"
    ],
@@ -2593,7 +2654,7 @@
    "brands": [
     "澳特力"
    ],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "我家每年都补三个月",
     "有崔玉涛背书，这个可太放心了",
@@ -2604,22 +2665,26 @@
     {
      "content": "我家每年都补三个月",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "有崔玉涛背书，这个可太放心了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "已经近视了吃这个还管用吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "现在幼儿园越来越多四眼仔了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -2883,7 +2948,7 @@
    "source_keyword": "氨糖",
    "category": "骨关节",
    "scene": "骨骼关节",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [
     "盐酸氨基葡萄糖"
    ],
@@ -2891,7 +2956,7 @@
    "brands": [
     "汤臣倍健"
    ],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "一直信赖的品牌，觉得关节不太舒服，所以买了这款，现在已经开始吃起来了，希望关节不太舒服的症状可以很快得到缓解",
     "痛风的病人可以吃这款氨糖吗？",
@@ -2902,22 +2967,26 @@
     {
      "content": "一直信赖的品牌，觉得关节不太舒服，所以买了这款，现在已经开始吃起来了，希望关节不太舒服的症状可以很快得到缓解",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "痛风的病人可以吃这款氨糖吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "一天一粒，蛮好的，给家里老人吃的，修复软骨，大品牌有保障",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "这个氨糖是需要一直吃，还是吃一段时间必须停一阵呢",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -2938,7 +3007,7 @@
    "source_keyword": "氨糖",
    "category": "骨关节",
    "scene": "骨骼关节",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [
     "盐酸氨基葡萄糖"
    ],
@@ -3046,7 +3115,7 @@
    "source_keyword": "氨糖",
    "category": "骨关节",
    "scene": "骨骼关节",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [
     "盐酸氨基葡萄糖"
    ],
@@ -3073,7 +3142,7 @@
    "source_keyword": "氨糖",
    "category": "骨关节",
    "scene": "骨骼关节",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [
     "盐酸氨基葡萄糖"
    ],
@@ -3106,7 +3175,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "配料表成分安全吗？",
     "适合多大宝宝呀",
@@ -3117,22 +3186,26 @@
     {
      "content": "配料表成分安全吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "适合多大宝宝呀",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "DHA 可不可以跟钙同时吃？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "补充DHA对孩子来说太重要了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -3186,7 +3259,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "鱼油这个东西到底有没有必要天天吃?",
     "这个颗粒比平时买的要小得多，小朋友吞咽没压力",
@@ -3197,22 +3270,26 @@
     {
      "content": "鱼油这个东西到底有没有必要天天吃?",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个颗粒比平时买的要小得多，小朋友吞咽没压力",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "三岁是不是可以直接吞咽了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这款口感怎么样，会不会很腥",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -3536,7 +3613,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "很多人问什么样的，我拍了两个版本的大蜜丸跟红曲酒。大家理性跟风，例如哺乳期 子宫肌瘤这些尽量不要跟～也谢谢大家的喜欢",
     "经期正常，只想姨妈后补气血，原来有吃白盒大蜜丸，还剩下两盒，但是做了乳腺良性纤维瘤手术8个月了，不敢吃",
@@ -3547,22 +3624,26 @@
     {
      "content": "很多人问什么样的，我拍了两个版本的大蜜丸跟红曲酒。大家理性跟风，例如哺乳期 子宫肌瘤这些尽量不要跟～也谢谢大家的喜欢",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "经期正常，只想姨妈后补气血，原来有吃白盒大蜜丸，还剩下两盒，但是做了乳腺良性纤维瘤手术8个月了，不敢吃",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "我是宫寒，喝这个能有用吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "有的有的，我吃了一个星期，嘴唇都红润了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -4287,13 +4368,13 @@
    "source_keyword": "辅酶Q10",
    "category": "护心",
    "scene": "心血管养护",
-   "crowd": "",
+   "crowd": "备孕·孕产",
    "ingredients": [
     "辅酶Q10"
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "真的挺不错的，我备孕期间一直在吃，一路绿灯，已经上岸了"
    ],
@@ -4301,7 +4382,8 @@
     {
      "content": "真的挺不错的，我备孕期间一直在吃，一路绿灯，已经上岸了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -4677,7 +4759,7 @@
    "ingredients": [],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "胶囊的个头大不大？吞咽比较困难的人会不会不好咽",
     "性价比如何 有好价没",
@@ -4688,22 +4770,26 @@
     {
      "content": "胶囊的个头大不大？吞咽比较困难的人会不会不好咽",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "性价比如何 有好价没",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "吃完会不会亢奋失眠啊",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个生理期能吃吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -4755,7 +4841,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "这个吃多久才有效果呀",
     "小孩子可以吗",
@@ -4766,22 +4852,26 @@
     {
      "content": "这个吃多久才有效果呀",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "小孩子可以吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "吃这个内调之后气色都好了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "感觉体虚的人吃一点这个真的很不错",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -4883,7 +4973,7 @@
    "source_keyword": "复合维生素",
    "category": "多维",
    "scene": "基础补充",
-   "crowd": "",
+   "crowd": "健身",
    "ingredients": [
     "维生素B1"
    ],
@@ -4937,7 +5027,7 @@
    "source_keyword": "复合维生素",
    "category": "多维",
    "scene": "基础补充",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [
     "维生素B1"
    ],
@@ -4991,13 +5081,13 @@
    "source_keyword": "护眼",
    "category": "眼健康",
    "scene": "护眼用脑",
-   "crowd": "",
+   "crowd": "宝妈·育儿",
    "ingredients": [
     "叶黄素"
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "感觉我的近视有救了",
     "请问可以分享一下原始文献吗",
@@ -5008,22 +5098,26 @@
     {
      "content": "感觉我的近视有救了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "请问可以分享一下原始文献吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "求求软件～iphone13可以用嘛？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "看了主页 关注了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -5050,7 +5144,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "negative",
    "comment_texts": [
     "三文鱼我买不起",
     "为什么尽量避免的最后是一个喝酒精？",
@@ -5060,17 +5154,20 @@
     {
      "content": "三文鱼我买不起",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "negative"
     },
     {
      "content": "为什么尽量避免的最后是一个喝酒精？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "原来吃这些东西可以让自己的眼睛变成一颗葡萄",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -5097,7 +5194,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "收到",
     "8",
@@ -5108,22 +5205,26 @@
     {
      "content": "收到",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "8",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "4",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "3",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -5150,7 +5251,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "护眼这点真的戳我，长时间看电子屏幕太费眼睛了",
     "想问下学生党性价比咋样",
@@ -5161,22 +5262,26 @@
     {
      "content": "护眼这点真的戳我，长时间看电子屏幕太费眼睛了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "想问下学生党性价比咋样",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "彩色墨水屏吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "种草了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -5338,7 +5443,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "报名报名，宝宝马上中班了，学习任务开始加重，很需要这样一款护眼大路灯",
     "书房很需要",
@@ -5349,22 +5454,26 @@
     {
      "content": "报名报名，宝宝马上中班了，学习任务开始加重，很需要这样一款护眼大路灯",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "书房很需要",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "万粉滴滴，刚需",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "滴滴滴有儿童房，相机出图",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -5497,7 +5606,7 @@
    "ingredients": [],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "成分安全吗，效果怎么样",
     "黄黑皮用多久能见效呀",
@@ -5508,22 +5617,26 @@
     {
      "content": "成分安全吗，效果怎么样",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "黄黑皮用多久能见效呀",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "效果真的很好，去黄提亮。",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "斯维诗这个品牌还是不错的，我一直在吃他家产品",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -5544,7 +5657,7 @@
    "source_keyword": "Swisse",
    "category": "骨关节",
    "scene": "基础补充",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [],
    "product": "",
    "brands": [],
@@ -5644,7 +5757,7 @@
    "source_keyword": "汤臣倍健",
    "category": "多维",
    "scene": "基础补充",
-   "crowd": "",
+   "crowd": "健身",
    "ingredients": [],
    "product": "",
    "brands": [],
@@ -5796,7 +5909,7 @@
    "source_keyword": "汤臣倍健",
    "category": "多维",
    "scene": "基础补充",
-   "crowd": "",
+   "crowd": "中老年",
    "ingredients": [],
    "product": "",
    "brands": [
@@ -5879,7 +5992,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "小哥哥我今晚吃褪黑素你们一定要来我梦里啊",
     "啥牌的 上个链接呗...",
@@ -5890,22 +6003,26 @@
     {
      "content": "小哥哥我今晚吃褪黑素你们一定要来我梦里啊",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "啥牌的 上个链接呗...",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "我应该是没睡醒",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "只有我在看腿吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -6115,7 +6232,7 @@
    "source_keyword": "褪黑素",
    "category": "睡眠",
    "scene": "睡眠放松",
-   "crowd": "",
+   "crowd": "学生",
    "ingredients": [
     "褪黑素"
    ],
@@ -6609,7 +6726,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "neutral",
    "comment_texts": [
     "好入口吗？",
     "这个味道是什么样的呀 是鱼肝油的味道么",
@@ -6620,22 +6737,26 @@
     {
      "content": "好入口吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个味道是什么样的呀 是鱼肝油的味道么",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "可以和蛋白粉、钙片等其他保健品叠加一起吃吗？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "这个要内服多久才有效果？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -6662,7 +6783,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "最近都在熬夜我的买一瓶",
     "助眠挺好的，消炎不长痘",
@@ -6673,22 +6794,26 @@
     {
      "content": "最近都在熬夜我的买一瓶",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "助眠挺好的，消炎不长痘",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "这个有啥副作用吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "一天一个吗",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -6796,7 +6921,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "negative",
    "comment_texts": [
     "我上个月测的18ng/ml，现在吃5000单位的阳光瓶每天一颗，加个镁",
     "老师，感觉这个指标达标后，停药后特别容易掉下来",
@@ -6807,22 +6932,26 @@
     {
      "content": "我上个月测的18ng/ml，现在吃5000单位的阳光瓶每天一颗，加个镁",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "老师，感觉这个指标达标后，停药后特别容易掉下来",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "吃了三个月，体检报告上显示偏高",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "negative"
     },
     {
      "content": "每天吃多少合适",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     }
    ],
    "comments_fetched": true,
@@ -6986,7 +7115,7 @@
    "brands": [
     "inne"
    ],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "钙和铁不能一起吃这个知识点真的应该让每个妈妈都知道。我也是换钙镁锌之后才知道的，之前白花了好多钱",
     "我们当时去儿保还问了，医生说钙和铁要间隔两小时以上吃",
@@ -6997,22 +7126,26 @@
     {
      "content": "钙和铁不能一起吃这个知识点真的应该让每个妈妈都知道。我也是换钙镁锌之后才知道的，之前白花了好多钱",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     },
     {
      "content": "我们当时去儿保还问了，医生说钙和铁要间隔两小时以上吃",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "是要吃钙镁锌是吗？在哪里买比较好？",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "neutral"
     },
     {
      "content": "我们这半年5.5cm，那很期待下半年了",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -7284,7 +7417,7 @@
    "source_keyword": "钙镁锌",
    "category": "身高发育",
    "scene": "骨骼关节",
-   "crowd": "",
+   "crowd": "宝妈·育儿",
    "ingredients": [
     "柠檬酸钙"
    ],
@@ -7373,7 +7506,7 @@
    ],
    "product": "",
    "brands": [],
-   "sentiment": "",
+   "sentiment": "positive",
    "comment_texts": [
     "老实说我自己也是经常陪他熬大夜，虽然我不怎么喝酒，但是总感觉精力大不如以前，我也跟着一起吃了一两个星期，是感觉有一些些缓解了疲惫感"
    ],
@@ -7381,7 +7514,8 @@
     {
      "content": "老实说我自己也是经常陪他熬大夜，虽然我不怎么喝酒，但是总感觉精力大不如以前，我也跟着一起吃了一两个星期，是感觉有一些些缓解了疲惫感",
      "likes": 0,
-     "level": 1
+     "level": 1,
+     "sentiment": "positive"
     }
    ],
    "comments_fetched": true,
@@ -7618,7 +7752,7 @@
    "source_keyword": "奶蓟草",
    "category": "护肝",
    "scene": "熬夜恢复",
-   "crowd": "",
+   "crowd": "职场",
    "ingredients": [
     "奶蓟草提取物"
    ],
