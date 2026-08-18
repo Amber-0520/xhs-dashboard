@@ -1,476 +1,523 @@
 {
  "events": [
   {
-   "industry": "汽车与新能源",
-   "title": "人要有一颗独立思考的脑子！！！",
-   "description": "#新能源汽车",
-   "engagement": 76589,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "软件与AI",
-   "title": "不会写代码也能做AI量化实盘 #量化 #大模型 #GitHub #AI工具 #编",
-   "description": "不会写代码也能做AI量化实盘 #量化  #大模型  #GitHub  #AI工具  #编程  #AI  #howto用好",
-   "engagement": 8786,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "消费电子与智能硬件",
-   "title": "苹果折叠屏手机，是这样的",
-   "description": "九月份发布会后，可以看到真机了#苹果折叠屏手机 #数码开箱  #献章歌",
-   "engagement": 14075,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "美妆护肤",
-   "title": "淡颜换头！还得是娇俏韩系水光妆~",
-   "description": "#美貌野心家  #我的练妆日记  #妆教经验howto  #水光妆容  #屈臣氏PDRN水光弹  #屈臣氏PDRN精华",
-   "engagement": 8283,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
+   "title": "倒计时3天！瑞幸泰奶系列重磅上新",
    "industry": "咖啡与茶饮",
-   "title": "已严肃品鉴瑞幸经典泰奶……",
-   "description": "感谢瑞的邀请！！不在暹罗但喝到了仙品….. 店员和我说这是瑞幸法务出差泰国，打赢官司回来推荐的！！！ 哈哈哈哈哈哈哈哈哈",
-   "engagement": 4254,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
+   "description": "这是一杯有故事的泰奶 灵感来自瑞幸法务同事去泰国出差（大家都懂的） 于是他们推荐给了产品研发部 #瑞幸咖啡  #瑞幸新品",
+   "engagement": 20883,
+   "source": "小红书",
+   "date": "2026-08-14 11:00:30",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
   },
   {
+   "title": "回到家天塌了…小龙虾越狱了",
    "industry": "宠物",
-   "title": "小猫、是你弄丢滴妙脆角吗",
-   "description": "#橘白  #一只耳  #妙脆角小猫  #和宠物过夏天  #土猫土狗大赏  #大橘为重  #命中注定我的小猫  #小红书土",
-   "engagement": 111783,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
+   "description": "#萌宠  #萨摩耶  #养狗日常  #猫狗双全  #和宠物过夏天  #打开监控看宠物",
+   "engagement": 933088,
+   "source": "小红书",
+   "date": "2026-08-16 17:10:30",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
   },
   {
-   "industry": "游戏与电竞",
-   "title": "思念互动展示🔥祁煜「玄面昭昭」",
-   "description": "维系彼此的印记忽明忽暗，向你许诺凯旋的祁将军，何时才会归来？ 又一日夕阳斜照时，有人倏然策马回营，带来捷报、战利品，还有",
-   "engagement": 58972,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "旅游与酒店",
-   "title": "酒店坐地起价怎么办，以防万一先学了再说！",
-   "description": "#酒店  #酒店攻略  #旅游攻略  #内容过于真实  #生活小妙招  （cr:@暴走的林妹妹",
-   "engagement": 172192,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "家电与智能家居",
    "title": "冰箱这样选 轻松get厨房全能大师!",
+   "industry": "家电与智能家居",
    "description": "#冰箱  #冰箱选购  #冰箱推荐  #家电  #家电选购  #冰箱选购攻略  #如何选购冰箱  #原来家电还能这样",
-   "engagement": 33001,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
+   "engagement": 32995,
+   "source": "小红书",
+   "date": "2026-08-12 17:02:01",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
   },
   {
-   "industry": "母婴与玩具",
-   "title": "宝宝：你们笑什么啊呜呜呜呜呜",
-   "description": "#美妆 #母婴 #万万没想到 #家具 #本色裸装",
-   "engagement": 47844,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
+   "title": "25条装修避坑口诀，装修小白直接抄作业！",
+   "industry": "房地产与家居装修",
+   "description": "#装修#全屋定制#千年舟#吉安装修  #好视频扶持计划",
+   "engagement": 12001,
+   "source": "小红书",
+   "date": "2026-08-15 16:00:16",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
   },
   {
-   "industry": "餐饮与食品",
-   "title": "豆豆第二次中国行，先来碳水之都咥碗面",
-   "description": "#外国人爱吃美食  #老外在中国  #西安  #小家大厨大赛  #地方掌勺人",
-   "engagement": 16569,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
+   "title": "i人在马尔代夫断联的一天🏝️",
+   "industry": "旅游与酒店",
+   "description": "🐠拖延症大爆发🤦🏻5月去的马代🦭拖到现在才把视频剪出来 #vlog  #i人  #独处  #马尔代夫 #旅行记录",
+   "engagement": 57581,
+   "source": "小红书",
+   "date": "2026-08-11 20:13:30",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
   },
   {
-   "industry": "酒水",
-   "title": "普通家庭记录男朋友第一次来我家",
-   "description": "一共8️⃣样，分别是烟、酒、点心、燕窝、阿胶、营养品、坚果礼盒和蜂蜜 - 燕窝和一束花💐没有拍进来 普通家庭的第一次见",
-   "engagement": 377,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "本地生活与零售",
-   "title": "胖东来模式解析",
-   "description": "#新消费模式  #实体行业破局  #新消费时代  #商业的底层逻辑  #新零售模式  #营销思维模式  #新零售时代",
-   "engagement": 2554,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "体育与户外",
-   "title": "坚持一个月从肚子胀气到腰线清晰的蜕变过程 #居家健身 #减脂瘦身 #居家运动 #",
-   "description": "坚持一个月从肚子胀气到腰线清晰的蜕变过程 #居家健身  #减脂瘦身  #居家运动  #我的日常运动",
-   "engagement": 84222,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
-   "industry": "医疗服务与器械",
-   "title": "医生一路按压 上演“生死时速”",
-   "description": "（来源：文明成都）#好视频扶持计划  #安全第一生命至上  #人生意外无处不在  #但愿人间无疾苦",
-   "engagement": 943,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
-  },
-  {
+   "title": "拉夫劳伦十级爱好者🫶🏾秋冬灵感穿搭18图",
    "industry": "服饰鞋包",
-   "title": "立秋后的衣橱🤎📷#LeFame拉飞姆 #Moderne",
-   "description": "#LeFame拉飞姆  #ModerneUtility摩登衣橱",
-   "engagement": 118353,
-   "date": "",
-   "cross_type": "event",
-   "post_type": "cross"
+   "description": "最近被问的很多的RL穿搭～ 很懂事的我👀乖乖听姐妹们的安排上啦～ 老钱风真的很讨我喜欢🫶🏾☁️ 秋冬就需要这些简简",
+   "engagement": 9715,
+   "source": "小红书",
+   "date": "2026-08-11 18:02:54",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "当母乳妈妈挤地铁🚇 突然涨奶了！怎么办❓",
+   "industry": "母婴与玩具",
+   "description": "真的只有母乳妈妈才懂，在外突如其来涨奶有多崩溃！ 下班高峰期挤地铁突然涨奶了 🐻一碰就痛，真的是束手无策 只想找个母婴",
+   "engagement": 2989,
+   "source": "小红书",
+   "date": "2026-08-15 19:20:49",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "vlog.",
+   "industry": "汽车与新能源",
+   "description": "#新能源  #电车  #沉浸式记录生活  #vlog  #小蛇的电车车",
+   "engagement": 2803,
+   "source": "小红书",
+   "date": "2026-08-15 21:35:01",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "荣耀robotphone实机上手体验",
+   "industry": "消费电子与智能硬件",
+   "description": "有点厚，有点热，云台有点好玩#国产手机  #荣耀  #robotphone  #手机体验感  #数码大玩家  #广州",
+   "engagement": 13374,
+   "source": "小红书",
+   "date": "2026-08-13 12:20:53",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "这最后的晚餐，我敢做你敢吃吗？",
+   "industry": "游戏与电竞",
+   "description": "#独立游戏  #steam游戏  #单机游戏  #红薯游戏美学家  #游戏推荐",
+   "engagement": 55779,
+   "source": "小红书",
+   "date": "2026-08-13 17:53:38",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "全新液体腮红🎁500份惊喜点亮颊上光与色",
+   "industry": "美妆护肤",
+   "description": "👑颊彩大师欲色新作 🌟全新#NARS欲色无尽液体腮红  💧一抹显色，一滴生光，突破颊彩想象！ ⭐惊喜掉落",
+   "engagement": 19298,
+   "source": "小红书",
+   "date": "2026-08-15 16:00:18",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "不会写代码的纯小白，我的超简单AI入门方法",
+   "industry": "软件与AI",
+   "description": "#AI  #AI进化生活howto  #AI新手村  #自学AI  #效率  #codex  #好视频扶持计划",
+   "engagement": 80844,
+   "source": "小红书",
+   "date": "2026-08-13 17:03:01",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "一图秒懂啤酒段位🍺可以直接抄作业✅收藏",
+   "industry": "酒水",
+   "description": "今天盘一下👀： 0失误的啤酒尖货清单🍺🍺 从入门口粮到尖货传奇，皆是精品✔️ 酒蒙子快快码住🐴 可按预算和喜好直",
+   "engagement": 1229,
+   "source": "小红书",
+   "date": "2026-08-11 18:45:42",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "揣着🎁等你半天了",
+   "industry": "金融与保险",
+   "description": "好纠结呀，该song给谁呢? 🎁 任你选： 【iPhone 17】256GB*1 颜色随机 【5499元稳利宝理财现金",
+   "engagement": 19273,
+   "source": "小红书",
+   "date": "2026-08-17 12:27:01",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
+  },
+  {
+   "title": "我去…白排了1000桌5小时啊啊啊啊",
+   "industry": "餐饮与食品",
+   "description": "#上海  #上海美食  #上海白人饭  #上海精致餐厅  #上海旅游攻略  #上海旅行  #万万没想到  #vlog",
+   "engagement": 21128,
+   "source": "小红书",
+   "date": "2026-08-12 17:12:48",
+   "post_count": 20,
+   "post_type": "cross",
+   "cross_type": "event"
   }
  ],
  "keywords": [
   {
-   "industry": "汽车与新能源",
-   "term": "新能源汽车",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "汽车与新能源",
-   "term": "智能驾驶",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "软件与AI",
-   "term": "AI大模型",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "软件与AI",
-   "term": "DeepSeek",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "消费电子与智能硬件",
-   "term": "苹果折叠屏",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "消费电子与智能硬件",
-   "term": "iPhone18",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "美妆护肤",
-   "term": "韩系水光妆",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "美妆护肤",
-   "term": "oliveyoung",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "咖啡与茶饮",
-   "term": "瑞幸泰奶",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "咖啡与茶饮",
-   "term": "苹果油柑美式",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
+   "term": "回到家天塌了",
    "industry": "宠物",
-   "term": "新手养猫",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "engagement": 933088,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
+   "term": "小龙虾越狱了",
    "industry": "宠物",
-   "term": "猫咪冷知识",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "engagement": 933088,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
+   "term": "这最后的晚餐",
    "industry": "游戏与电竞",
-   "term": "祁煜",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "engagement": 55779,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
+   "term": "我敢做你敢吃吗",
    "industry": "游戏与电竞",
-   "term": "乙女游戏",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "engagement": 55779,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
-   "industry": "旅游与酒店",
-   "term": "酒店维权",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "旅游与酒店",
-   "term": "旅行攻略",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
+   "term": "冰箱这样选",
    "industry": "家电与智能家居",
-   "term": "冰箱选购",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "engagement": 32995,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
+   "term": "啊啊啊",
+   "industry": "消费电子与智能硬件",
+   "engagement": 23223,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "和宠物过夏天",
+   "industry": "宠物",
+   "engagement": 22874,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "萌宠",
+   "industry": "宠物",
+   "engagement": 22874,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "我去",
+   "industry": "餐饮与食品",
+   "engagement": 21128,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "倒计时3天",
+   "industry": "咖啡与茶饮",
+   "engagement": 20883,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "全新液体腮红",
+   "industry": "美妆护肤",
+   "engagement": 19298,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "揣着",
+   "industry": "金融与保险",
+   "engagement": 19273,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "等你半天了",
+   "industry": "金融与保险",
+   "engagement": 19273,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "青岛",
+   "industry": "旅游与酒店",
+   "engagement": 17441,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "威海",
+   "industry": "旅游与酒店",
+   "engagement": 17441,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "烟台",
+   "industry": "旅游与酒店",
+   "engagement": 17441,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "地图版攻略来了",
+   "industry": "旅游与酒店",
+   "engagement": 17441,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "希望这是最后一篇",
+   "industry": "游戏与电竞",
+   "engagement": 15562,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "实机上手体验",
+   "industry": "消费电子与智能硬件",
+   "engagement": 13374,
+   "post_type": "cross",
+   "cross_type": "keyword"
+  },
+  {
+   "term": "沉浸式体验",
    "industry": "家电与智能家居",
-   "term": "智能家电",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "engagement": 13023,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
-   "industry": "母婴与玩具",
-   "term": "敏宝",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "term": "冰箱水果清洗技巧",
+   "industry": "家电与智能家居",
+   "engagement": 12361,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
-   "industry": "母婴与玩具",
-   "term": "宝宝健康",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "term": "再也不怕吃到虫",
+   "industry": "家电与智能家居",
+   "engagement": 12361,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
-   "industry": "餐饮与食品",
-   "term": "探店",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "term": "速度学习任何东西",
+   "industry": "软件与AI",
+   "engagement": 11943,
+   "post_type": "cross",
+   "cross_type": "keyword"
   },
   {
-   "industry": "餐饮与食品",
-   "term": "法式牛排",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "酒水",
-   "term": "七夕礼物",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "酒水",
-   "term": "纳帕",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "本地生活与零售",
-   "term": "胖东来模式",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "本地生活与零售",
-   "term": "即兴消费",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "体育与户外",
-   "term": "居家健身",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "体育与户外",
-   "term": "减脂瘦身",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "医疗服务与器械",
-   "term": "医疗检验",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "医疗服务与器械",
-   "term": "医保卡",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "服饰鞋包",
-   "term": "立秋穿搭",
-   "cross_type": "keyword",
-   "post_type": "cross"
-  },
-  {
-   "industry": "服饰鞋包",
-   "term": "早秋外套",
-   "cross_type": "keyword",
-   "post_type": "cross"
+   "term": "仙品水缎光妆效",
+   "industry": "美妆护肤",
+   "engagement": 11919,
+   "post_type": "cross",
+   "cross_type": "keyword"
   }
  ],
  "signals": [
   {
-   "industry": "汽车与新能源",
-   "signal": "新能源汽车智能化配置成为种草核心卖点",
-   "evidence": "新能源汽车搜索热帖聚焦智能驾驶与配置体验"
-  },
-  {
-   "industry": "软件与AI",
-   "signal": "国产大模型定价争议引发用户热议",
-   "evidence": "'不是，DS你凭什么卖这么贵啊'高互动"
-  },
-  {
-   "industry": "消费电子",
-   "signal": "折叠屏与9月新机发布预期升温",
-   "evidence": "苹果折叠屏、iPhone18 Pro价格曝光热帖"
-  },
-  {
-   "industry": "美妆护肤",
-   "signal": "韩系水光妆与平价开架好物持续走红",
-   "evidence": "淡颜换头韩系水光妆、oliveyoung好物"
-  },
-  {
-   "industry": "咖啡与茶饮",
-   "signal": "瑞幸与古茗联名/季节新品成讨论焦点",
-   "evidence": "瑞幸经典泰奶、古茗苹果油柑美式"
-  },
-  {
-   "industry": "宠物",
-   "signal": "宠物冷知识与情绪向内容互动极高",
-   "evidence": "猫咪成精、新手养猫冷知识高互动"
-  },
-  {
-   "industry": "游戏与电竞",
-   "signal": "乙女向角色内容与互动展示热度高",
-   "evidence": "思念互动展示祁煜玄面昭昭"
-  },
-  {
-   "industry": "旅游与酒店",
-   "signal": "酒店价格纠纷与维权攻略受关注",
-   "evidence": "酒店坐地起价怎么办高互动"
-  },
-  {
-   "industry": "家电与智能家居",
-   "signal": "厨房大电选购与隐形美学受青睐",
-   "evidence": "冰箱这样选、厨房隐形美学"
-  },
-  {
-   "industry": "母婴与玩具",
-   "signal": "敏宝健康与宝宝营养关注度高",
-   "evidence": "全港医生都推敏宝宝"
-  },
-  {
-   "industry": "本地生活与零售",
-   "signal": "胖东来模式与即时消费讨论升温",
-   "evidence": "胖东来模式解析、谁杀了即兴消费"
-  },
-  {
+   "signal": "体育与户外近7天高热度话题：",
    "industry": "体育与户外",
-   "signal": "居家健身减脂内容持续高热",
-   "evidence": "居家健身减脂瘦身蜕变高互动"
+   "evidence": "该行业抓取 20 篇，合计互动 59522",
+   "engagement": 59522,
+   "post_type": "cross",
+   "cross_type": "signal"
   },
   {
-   "industry": "医疗服务与器械",
-   "signal": "医疗检验收费同检同价成政策热点",
-   "evidence": "全国一把尺医疗检验收费"
+   "signal": "咖啡与茶饮近7天高热度话题：倒计时3天！瑞幸泰奶系列重磅上新",
+   "industry": "咖啡与茶饮",
+   "evidence": "该行业抓取 20 篇，合计互动 85572",
+   "engagement": 85572,
+   "post_type": "cross",
+   "cross_type": "signal"
   },
   {
+   "signal": "宠物近7天高热度话题：回到家天塌了…小龙虾越狱了",
+   "industry": "宠物",
+   "evidence": "该行业抓取 20 篇，合计互动 1033743",
+   "engagement": 1033743,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "家电与智能家居近7天高热度话题：冰箱这样选 轻松get厨房全能大师!",
+   "industry": "家电与智能家居",
+   "evidence": "该行业抓取 20 篇，合计互动 75955",
+   "engagement": 75955,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "房地产与家居装修近7天高热度话题：25条装修避坑口诀，装修小白直接抄作业！",
+   "industry": "房地产与家居装修",
+   "evidence": "该行业抓取 20 篇，合计互动 41623",
+   "engagement": 41623,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "旅游与酒店近7天高热度话题：i人在马尔代夫断联的一天🏝️",
+   "industry": "旅游与酒店",
+   "evidence": "该行业抓取 20 篇，合计互动 124088",
+   "engagement": 124088,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "服饰鞋包近7天高热度话题：拉夫劳伦十级爱好者🫶🏾秋冬灵感穿搭18图",
    "industry": "服饰鞋包",
-   "signal": "立秋换季穿搭内容爆发",
-   "evidence": "立秋后的衣橱收藏8595"
+   "evidence": "该行业抓取 20 篇，合计互动 68541",
+   "engagement": 68541,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "母婴与玩具近7天高热度话题：当母乳妈妈挤地铁🚇 突然涨奶了！怎么办❓",
+   "industry": "母婴与玩具",
+   "evidence": "该行业抓取 20 篇，合计互动 24276",
+   "engagement": 24276,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "汽车与新能源近7天高热度话题：vlog.",
+   "industry": "汽车与新能源",
+   "evidence": "该行业抓取 20 篇，合计互动 18318",
+   "engagement": 18318,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "消费电子与智能硬件近7天高热度话题：荣耀robotphone实机上手体验",
+   "industry": "消费电子与智能硬件",
+   "evidence": "该行业抓取 20 篇，合计互动 48471",
+   "engagement": 48471,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "游戏与电竞近7天高热度话题：这最后的晚餐，我敢做你敢吃吗？",
+   "industry": "游戏与电竞",
+   "evidence": "该行业抓取 20 篇，合计互动 203866",
+   "engagement": 203866,
+   "post_type": "cross",
+   "cross_type": "signal"
+  },
+  {
+   "signal": "美妆护肤近7天高热度话题：全新液体腮红🎁500份惊喜点亮颊上光与色",
+   "industry": "美妆护肤",
+   "evidence": "该行业抓取 20 篇，合计互动 127086",
+   "engagement": 127086,
+   "post_type": "cross",
+   "cross_type": "signal"
   }
  ],
  "ideas": [
   {
-   "title": "咖啡茶饮控糖风潮",
-   "idea": "咖啡茶饮热帖中'测糖&热量'成为高频诉求，可迁移到保健品'控糖/轻体'场景，开发随餐控糖类口服产品",
-   "evidence": "Manner咖啡点单测糖&热量"
+   "title": "咖啡与茶饮 → 保健品机会",
+   "migration_to_health": "咖啡因与提神需求向\"低负担能量/护肝\"迁移，可做咖啡因替代或熬夜护肝概念",
+   "industry": "咖啡与茶饮",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "AI软件打工人的久坐疲劳",
-   "idea": "AI/软件从业者久坐用脑场景可联动'护眼用脑+熬夜恢复'复合补充概念",
-   "evidence": "AI大模型讨论人群以职场久坐为主"
+   "title": "汽车与新能源 → 保健品机会",
+   "migration_to_health": "车内健康座舱/久坐人群腰颈养护概念，可与骨骼关节、久坐养护结合",
+   "industry": "汽车与新能源",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "居家健身减脂",
-   "idea": "居家健身减脂热帖中'肚子胀气到腰线清晰'诉求，可迁移到'轻体控卡+肠道调理'益生菌/代餐产品",
-   "evidence": "坚持一个月从肚子胀气到腰线清晰"
+   "title": "软件与AI → 保健品机会",
+   "migration_to_health": "AIGC办公人群用眼护眼、脑力疲劳场景，迁移叶黄素/磷脂酰丝氨酸",
+   "industry": "软件与AI",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "敏宝营养焦虑",
-   "idea": "母婴敏宝内容提示'免疫防护+儿童肠道'细分机会，可强化儿童舒鼻/免疫类产品概念",
-   "evidence": "全港医生都推敏宝宝"
+   "title": "宠物 → 保健品机会",
+   "migration_to_health": "养宠人群情感陪伴与解压，可延展情绪压力、睡眠放松类内服",
+   "industry": "宠物",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "熬夜咖啡依赖",
-   "idea": "咖啡茶饮与熬夜场景叠加，可推出'熬夜恢复+提神'的复配护肝/提代产品",
-   "evidence": "瑞幸泰奶、熬夜人特调"
+   "title": "旅游与酒店 → 保健品机会",
+   "migration_to_health": "出行场景的便携营养补充、时差助眠、水土不服肠道调理",
+   "industry": "旅游与酒店",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "宠物经济的情感陪伴",
-   "idea": "宠物高互动情绪内容提示'情绪压力'场景可延伸至养宠人群的助眠/舒缓产品",
-   "evidence": "猫咪成精高互动"
+   "title": "服饰鞋包 → 保健品机会",
+   "migration_to_health": "身材管理与轻体控卡、体重管理益生菌/代餐",
+   "industry": "服饰鞋包",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "游戏电竞用眼",
-   "idea": "游戏电竞人群长时间用眼可联动'护眼用脑'叶黄素/玉米黄质产品",
-   "evidence": "游戏互动展示高热度"
+   "title": "游戏与电竞 → 保健品机会",
+   "migration_to_health": "电竞用眼、久坐、熬夜场景，护眼+熬夜恢复双概念",
+   "industry": "游戏与电竞",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "旅游出行免疫力",
-   "idea": "旅游/酒店人群换季出行可联动'免疫防护'维C/乳铁蛋白便携装",
-   "evidence": "旅游酒店攻略高互动"
+   "title": "美妆护肤 → 保健品机会",
+   "migration_to_health": "内服焕肤、口服美容概念，与胶原蛋白/谷胱甘肽强关联",
+   "industry": "美妆护肤",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "家电宅家养生",
-   "idea": "家电宅家场景可联动'基础补充'家庭装复合维生素概念",
-   "evidence": "厨房隐形美学、冰箱选购"
+   "title": "母婴与玩具 → 保健品机会",
+   "migration_to_health": "育儿精力透支，宝妈营养补充、补气血",
+   "industry": "母婴与玩具",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "医疗服务健康焦虑",
-   "idea": "医疗服务收费透明化引发健康焦虑，可强化'基础补充+心血管养护'家庭健康组合",
-   "evidence": "医疗检验收费同检同价"
+   "title": "餐饮与食品 → 保健品机会",
+   "migration_to_health": "重油重辣饮食场景，肠胃调理、护肝、控糖",
+   "industry": "餐饮与食品",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "立秋换季穿搭的身材管理",
-   "idea": "服饰立秋穿搭的显瘦诉求可迁移到'轻体控卡+内服焕肤'产品",
-   "evidence": "立秋后的衣橱收藏8595"
+   "title": "酒水 → 保健品机会",
+   "migration_to_health": "应酬饮酒场景，护肝解酒概念",
+   "industry": "酒水",
+   "post_type": "cross",
+   "cross_type": "idea"
   },
   {
-   "title": "酒水送礼的养肝需求",
-   "idea": "酒水七夕送礼场景可联动'护肝+解酒'产品概念",
-   "evidence": "七夕送crush礼物"
+   "title": "金融与保险 → 保健品机会",
+   "migration_to_health": "高压职场人群，情绪压力、睡眠放松、护肝",
+   "industry": "金融与保险",
+   "post_type": "cross",
+   "cross_type": "idea"
   }
  ]
 }
