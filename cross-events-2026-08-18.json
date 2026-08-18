@@ -1,3360 +1,476 @@
 {
  "events": [
   {
-   "industry": "医疗服务与器械",
-   "title": "美国医院",
-   "published_at": "2026-08-13",
-   "posts": [
-    {
-     "likes": 1050,
-     "comments": 488,
-     "collects": 246,
-     "shares": 186,
-     "title": "美国医院"
-    },
-    {
-     "likes": 450,
-     "comments": 58,
-     "collects": 310,
-     "shares": 282,
-     "title": "那批没进医院的医学生，去了字节跳动"
-    },
-    {
-     "likes": 238,
-     "comments": 91,
-     "collects": 275,
-     "shares": 237,
-     "title": "按摩医院皮肤科的新机器"
-    },
-    {
-     "likes": 125,
-     "comments": 25,
-     "collects": 104,
-     "shares": 1,
-     "title": "二胎感悟｜怀孕之后，才懂未雨绸缪有多重要"
-    },
-    {
-     "likes": 93,
-     "comments": 4,
-     "collects": 223,
-     "shares": 71,
-     "title": "8月乃至下半年，盯紧医药不动摇！"
-    },
-    {
-     "likes": 45,
-     "comments": 37,
-     "collects": 55,
-     "shares": 64,
-     "title": "很多华人不知道！这张卡一年能帮你省不少钱！"
-    },
-    {
-     "likes": 46,
-     "comments": 6,
-     "collects": 10,
-     "shares": 0,
-     "title": "【小藏展示】军法&医疗服务&工程校官蓝礼服"
-    },
-    {
-     "likes": 36,
-     "comments": 10,
-     "collects": 17,
-     "shares": 5,
-     "title": "周三涨停方向"
-    },
-    {
-     "likes": 32,
-     "comments": 3,
-     "collects": 27,
-     "shares": 10,
-     "title": "医疗结构化面试热点｜三医联动、医疗改革"
-    },
-    {
-     "likes": 29,
-     "comments": 34,
-     "collects": 0,
-     "shares": 2,
-     "title": "医生跪在担架床上对患者心肺复苏"
-    },
-    {
-     "likes": 28,
-     "comments": 106,
-     "collects": 24,
-     "shares": 134,
-     "title": "检验费全国一把尺，同检同价来了"
-    },
-    {
-     "likes": 29,
-     "comments": 27,
-     "collects": 22,
-     "shares": 38,
-     "title": "检验类立项指南的4个变化，直接影响收入"
-    },
-    {
-     "likes": 24,
-     "comments": 43,
-     "collects": 32,
-     "shares": 15,
-     "title": "哪些医生好开病假单"
-    },
-    {
-     "likes": 16,
-     "comments": 4,
-     "collects": 13,
-     "shares": 13,
-     "title": "8月14日新岗｜京东健康口腔主治医师"
-    },
-    {
-     "likes": 15,
-     "comments": 0,
-     "collects": 17,
-     "shares": 2,
-     "title": "数字化医疗提升就医体验"
-    },
-    {
-     "likes": 14,
-     "comments": 0,
-     "collects": 5,
-     "shares": 6,
-     "title": "医疗旅游≠跨境医疗，4类患者需求差别很大"
-    },
-    {
-     "likes": 12,
-     "comments": 18,
-     "collects": 1,
-     "shares": 0,
-     "title": "甲状腺维修结束"
-    },
-    {
-     "likes": 11,
-     "comments": 0,
-     "collects": 21,
-     "shares": 4,
-     "title": "互联网医疗行业汇总"
-    },
-    {
-     "likes": 11,
-     "comments": 2,
-     "collects": 11,
-     "shares": 5,
-     "title": "广西居民医保门诊每年能报销300，不浪费！"
-    },
-    {
-     "likes": 10,
-     "comments": 42,
-     "collects": 10,
-     "shares": 3,
-     "title": "平安出手！8月无健告医疗新品，赢麻了！"
-    }
-   ],
-   "description": "门诊大厅、产房、麻醉诊室、第五代达芬奇机器人、图书馆、停机坪、医学院平平无奇的19个诺贝尔奖",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "咖啡与茶饮",
-   "title": "倒计时3天！瑞幸泰奶系列重磅上新",
-   "published_at": "2026-08-14",
-   "posts": [
-    {
-     "likes": 17132,
-     "comments": 81,
-     "collects": 1282,
-     "shares": 392,
-     "title": "浓抹我要和你纠缠一辈子！"
-    },
-    {
-     "likes": 4991,
-     "comments": 5480,
-     "collects": 328,
-     "shares": 10036,
-     "title": "倒计时3天！瑞幸泰奶系列重磅上新"
-    },
-    {
-     "likes": 4276,
-     "comments": 139,
-     "collects": 418,
-     "shares": 1058,
-     "title": "瑞幸销冠来了！第一个发现瑞幸跟苹果适配的人简直是天才！#迪士尼 #瑞幸 #周边"
-    },
-    {
-     "likes": 2845,
-     "comments": 210,
-     "collects": 310,
-     "shares": 2097,
-     "title": "太好了瑞也有泰奶了！！还发现了绝佳喝法！"
-    },
-    {
-     "likes": 2314,
-     "comments": 104,
-     "collects": 334,
-     "shares": 661,
-     "title": "古茗咖啡豆终于等来油柑这个cp了"
-    },
-    {
-     "likes": 2206,
-     "comments": 133,
-     "collects": 456,
-     "shares": 20,
-     "title": "下班plog｜咖啡就是坏情绪的调味剂～"
-    },
-    {
-     "likes": 2068,
-     "comments": 317,
-     "collects": 255,
-     "shares": 1434,
-     "title": "瑞幸你在哪偷的师！！快说出来！！"
-    },
-    {
-     "likes": 1808,
-     "comments": 29,
-     "collects": 323,
-     "shares": 36,
-     "title": "🥯糟糕，又被早餐叫醒了！૮₍ᵔ⤙ᵔ ₎ა"
-    },
-    {
-     "likes": 1670,
-     "comments": 45,
-     "collects": 273,
-     "shares": 74,
-     "title": "库迪好样的..你这次是真说到做到不甜了.."
-    },
-    {
-     "likes": 1555,
-     "comments": 402,
-     "collects": 402,
-     "shares": 1202,
-     "title": "已经这么多口味了"
-    },
-    {
-     "likes": 1528,
-     "comments": 216,
-     "collects": 161,
-     "shares": 481,
-     "title": "古茗新品苹果油柑美式"
-    },
-    {
-     "likes": 1249,
-     "comments": 61,
-     "collects": 199,
-     "shares": 850,
-     "title": "魔镜认证！瑞幸反派双杯套餐周边直接集齐"
-    },
-    {
-     "likes": 1237,
-     "comments": 69,
-     "collects": 273,
-     "shares": 27,
-     "title": "都去这样做！！爆改薄巧生椰拿铁来咯～"
-    },
-    {
-     "likes": 1198,
-     "comments": 55,
-     "collects": 256,
-     "shares": 32,
-     "title": "少吃不运动｜满足又掉⚖️的一天吃什么"
-    },
-    {
-     "likes": 1140,
-     "comments": 13,
-     "collects": 126,
-     "shares": 53,
-     "title": "꧞。淡人生活"
-    },
-    {
-     "likes": 1103,
-     "comments": 43,
-     "collects": 292,
-     "shares": 577,
-     "title": "星级奶茶！星巴克海外爆火UBE风味咱也有了"
-    },
-    {
-     "likes": 1050,
-     "comments": 144,
-     "collects": 236,
-     "shares": 714,
-     "title": "史上最不甜的库迪出现了！就在8月18日！"
-    },
-    {
-     "likes": 1041,
-     "comments": 47,
-     "collects": 258,
-     "shares": 214,
-     "title": "818库迪抹茶升级｜迪杀死了抹茶🍵赛道！！"
-    },
-    {
-     "likes": 838,
-     "comments": 46,
-     "collects": 156,
-     "shares": 143,
-     "title": "成年人的抹茶就应该是818升级的库迪.浓浓浓"
-    },
-    {
-     "likes": 765,
-     "comments": 96,
-     "collects": 207,
-     "shares": 204,
-     "title": "打脸了！！古茗这杯苹果杨桃油柑夯爆了。。。"
-    }
-   ],
-   "description": "这是一杯有故事的泰奶 灵感来自瑞幸法务同事去泰国出差（大家都懂的） 于是他们推荐给了产品研发部 #瑞幸咖啡  #瑞幸新品",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "宠物",
-   "title": "是哪家品牌亚宠展不用集赞就能薅羊毛！",
-   "published_at": "2026-08-14",
-   "posts": [
-    {
-     "likes": 864,
-     "comments": 59,
-     "collects": 83,
-     "shares": 33,
-     "title": "小芒果当然要宠着来！"
-    },
-    {
-     "likes": 784,
-     "comments": 19,
-     "collects": 708,
-     "shares": 99,
-     "title": "小猫也有生日礼盒了吗！"
-    },
-    {
-     "likes": 632,
-     "comments": 464,
-     "collects": 623,
-     "shares": 273,
-     "title": "是哪家品牌亚宠展不用集赞就能薅羊毛！"
-    },
-    {
-     "likes": 601,
-     "comments": 50,
-     "collects": 259,
-     "shares": 8,
-     "title": "养猫刚需清单｜全套养护好物不踩雷✨"
-    },
-    {
-     "likes": 545,
-     "comments": 639,
-     "collects": 493,
-     "shares": 67,
-     "title": "🌷招募郁金香体验官｜咪速来报到"
-    },
-    {
-     "likes": 519,
-     "comments": 46,
-     "collects": 4,
-     "shares": 7,
-     "title": "皮：嘿嘿#金毛 #狗狗 #宠物 #smileplus #smileplus宠物鸡"
-    },
-    {
-     "likes": 492,
-     "comments": 0,
-     "collects": 26,
-     "shares": 6,
-     "title": "最适合当父母的那群人都去养宠物了"
-    },
-    {
-     "likes": 353,
-     "comments": 28,
-     "collects": 9,
-     "shares": 2,
-     "title": "小坦，假如我们心意相通"
-    },
-    {
-     "likes": 274,
-     "comments": 38,
-     "collects": 64,
-     "shares": 13,
-     "title": "8猫家庭分享，长期主义养猫好物～"
-    },
-    {
-     "likes": 255,
-     "comments": 69,
-     "collects": 268,
-     "shares": 191,
-     "title": "什么？亚宠还有不集赞就能领周边的展台"
-    },
-    {
-     "likes": 247,
-     "comments": 15,
-     "collects": 198,
-     "shares": 3,
-     "title": "🚫2026亚宠展逛展提前看🐕必逛展位不要错过"
-    },
-    {
-     "likes": 234,
-     "comments": 12,
-     "collects": 133,
-     "shares": 6,
-     "title": "建议给养猫有娃家庭颁发石头P30 Pro！"
-    },
-    {
-     "likes": 218,
-     "comments": 287,
-     "collects": 202,
-     "shares": 30,
-     "title": "📢📢📢拟物岛招募宠物体验官啦！"
-    },
-    {
-     "likes": 209,
-     "comments": 4,
-     "collects": 57,
-     "shares": 0,
-     "title": "养猫六年用下来真心推荐的好物："
-    },
-    {
-     "likes": 185,
-     "comments": 7,
-     "collects": 43,
-     "shares": 16,
-     "title": "多宠家庭8月开箱合集"
-    },
-    {
-     "likes": 157,
-     "comments": 84,
-     "collects": 90,
-     "shares": 6,
-     "title": "四只猫空气净化器！除臭好物倒置香薰"
-    },
-    {
-     "likes": 156,
-     "comments": 76,
-     "collects": 72,
-     "shares": 15,
-     "title": "养猫日常｜定期防护才是护猫关键"
-    },
-    {
-     "likes": 140,
-     "comments": 10,
-     "collects": 33,
-     "shares": 10,
-     "title": "一个超级适合bjd的宠物香蕉床"
-    },
-    {
-     "likes": 139,
-     "comments": 221,
-     "collects": 128,
-     "shares": 20,
-     "title": "上新朝暮❣️小兔几陶瓷猫碗｜产品体验官"
-    },
-    {
-     "likes": 128,
-     "comments": 6,
-     "collects": 63,
-     "shares": 5,
-     "title": "小狗的长期主义好物合集"
-    }
-   ],
-   "description": "原来是我家啊！ 📣大玛仕上海亚宠展福利提前码住！ 📍展位：E7 馆 G-51 ⏰时间：08.19–08.23｜上海新",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "家电与智能家居",
-   "title": "冰箱水果清洗技巧，再也不怕吃到虫！",
-   "published_at": "2026-08-12",
-   "posts": [
-    {
-     "likes": 3724,
-     "comments": 12,
-     "collects": 7656,
-     "shares": 429,
-     "title": "冰箱水果清洗技巧，再也不怕吃到虫！"
-    },
-    {
-     "likes": 1033,
-     "comments": 315,
-     "collects": 429,
-     "shares": 1751,
-     "title": "2046年的洗衣机，大家给定个价"
-    },
-    {
-     "likes": 898,
-     "comments": 7,
-     "collects": 1337,
-     "shares": 213,
-     "title": "低成本让家更智能！提升幸福感"
-    },
-    {
-     "likes": 870,
-     "comments": 8,
-     "collects": 511,
-     "shares": 19,
-     "title": "阳台装修差距太大！嵌入式家电真的别乱装✨"
-    },
-    {
-     "likes": 457,
-     "comments": 11,
-     "collects": 765,
-     "shares": 49,
-     "title": "居然全是套路，外出采购避雷tips"
-    },
-    {
-     "likes": 431,
-     "comments": 17,
-     "collects": 210,
-     "shares": 1,
-     "title": "绝了❗️买家电花了大💰选的竟然不是必需品"
-    },
-    {
-     "likes": 417,
-     "comments": 21,
-     "collects": 218,
-     "shares": 7,
-     "title": "居家松弛感，从自在省心的日常开始"
-    },
-    {
-     "likes": 394,
-     "comments": 33,
-     "collects": 225,
-     "shares": 38,
-     "title": "手机没白刷！床头喂养台精简实用版"
-    },
-    {
-     "likes": 353,
-     "comments": 12,
-     "collects": 244,
-     "shares": 1,
-     "title": "腰疼党居家福音，开窗再也不用遭罪了！"
-    },
-    {
-     "likes": 275,
-     "comments": 20,
-     "collects": 126,
-     "shares": 2,
-     "title": "我的治愈系厨房美学｜质感家电让我爱上下厨"
-    },
-    {
-     "likes": 237,
-     "comments": 67,
-     "collects": 128,
-     "shares": 16,
-     "title": "分享三个我宅家使用率99.99%的幸福感好物～"
-    },
-    {
-     "likes": 233,
-     "comments": 21,
-     "collects": 86,
-     "shares": 6,
-     "title": "精装房新家入住第一件事：把智能马桶扔了❕"
-    },
-    {
-     "likes": 192,
-     "comments": 26,
-     "collects": 138,
-     "shares": 64,
-     "title": "163㎡大横厅忠告！硬装越简单，后期越好看"
-    },
-    {
-     "likes": 191,
-     "comments": 48,
-     "collects": 124,
-     "shares": 39,
-     "title": "89㎡极简风|软装5W(附清单）"
-    },
-    {
-     "likes": 182,
-     "comments": 4,
-     "collects": 154,
-     "shares": 5,
-     "title": "一把智能锁用了五年，说出去别人都不信"
-    },
-    {
-     "likes": 181,
-     "comments": 19,
-     "collects": 125,
-     "shares": 6,
-     "title": "不再抵触洗碗｜方太洗碗机安心下车✨"
-    },
-    {
-     "likes": 162,
-     "comments": 1,
-     "collects": 116,
-     "shares": 1,
-     "title": "居家实用好物分享"
-    },
-    {
-     "likes": 146,
-     "comments": 8,
-     "collects": 76,
-     "shares": 5,
-     "title": "不必纠结‼️一篇分清COLMOX1和X11"
-    },
-    {
-     "likes": 143,
-     "comments": 7,
-     "collects": 80,
-     "shares": 7,
-     "title": "普通灯变智能灯"
-    },
-    {
-     "likes": 141,
-     "comments": 2,
-     "collects": 30,
-     "shares": 3,
-     "title": "纠结好久定稿！老房全屋智能终于落地"
-    }
-   ],
-   "description": "#好视频扶持计划  #厨房小家电指南  #智能家居  #家居美学  #不懂就问有问必答  #果蔬清洗机  #舌尖上的安全",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "影视综艺与音乐",
-   "title": "此男对美食的开发程度恐在我之上",
-   "published_at": "2026-08-12",
-   "posts": [
-    {
-     "likes": 35394,
-     "comments": 1211,
-     "collects": 2729,
-     "shares": 854,
-     "title": "此男对美食的开发程度恐在我之上"
-    },
-    {
-     "likes": 30906,
-     "comments": 710,
-     "collects": 1204,
-     "shares": 1719,
-     "title": "王俊凯：我不是来中餐厅当领导的吗？！"
-    },
-    {
-     "likes": 22143,
-     "comments": 2066,
-     "collects": 2581,
-     "shares": 8318,
-     "title": "职场遇到张雅琪，你能挺到第几关？"
-    },
-    {
-     "likes": 13132,
-     "comments": 129,
-     "collects": 935,
-     "shares": 160,
-     "title": "不管懂没懂，反正先OK"
-    },
-    {
-     "likes": 6312,
-     "comments": 49,
-     "collects": 1093,
-     "shares": 325,
-     "title": "这下出不去了 喜人奇妙夜 鹅滴神片"
-    },
-    {
-     "likes": 6200,
-     "comments": 179,
-     "collects": 1582,
-     "shares": 77,
-     "title": "论知识的重要性 学好物理化 对付渣男不用愁"
-    },
-    {
-     "likes": 4754,
-     "comments": 331,
-     "collects": 729,
-     "shares": 308,
-     "title": "金靖你太厉害了把我的真实感受表达出来了"
-    },
-    {
-     "likes": 4383,
-     "comments": 1207,
-     "collects": 1639,
-     "shares": 108,
-     "title": "宋雨琦这高难度动作 敢问谁能做到"
-    },
-    {
-     "likes": 4234,
-     "comments": 104,
-     "collects": 299,
-     "shares": 73,
-     "title": "我第一次如此真切感觉到大老师有多开心"
-    },
-    {
-     "likes": 2629,
-     "comments": 1850,
-     "collects": 149,
-     "shares": 544,
-     "title": "6岁被确诊矮小症"
-    },
-    {
-     "likes": 2137,
-     "comments": 43,
-     "collects": 236,
-     "shares": 51,
-     "title": "开推怎么这样啊..."
-    },
-    {
-     "likes": 1861,
-     "comments": 192,
-     "collects": 179,
-     "shares": 53,
-     "title": "这不是房主任的困境，而是我们所有人的"
-    },
-    {
-     "likes": 1751,
-     "comments": 27,
-     "collects": 900,
-     "shares": 104,
-     "title": "每天笑一笑 拍摄花絮"
-    },
-    {
-     "likes": 1551,
-     "comments": 58,
-     "collects": 96,
-     "shares": 256,
-     "title": "激情溅射宇宙年糕店人设"
-    },
-    {
-     "likes": 1473,
-     "comments": 13,
-     "collects": 1739,
-     "shares": 169,
-     "title": "强烈建议大家去看财务综艺，因为真的能速通"
-    },
-    {
-     "likes": 1370,
-     "comments": 10,
-     "collects": 136,
-     "shares": 7,
-     "title": "王玉雯的精神状态太超前了，建议逐帧学习"
-    },
-    {
-     "likes": 1352,
-     "comments": 40,
-     "collects": 362,
-     "shares": 142,
-     "title": "关于婚姻的散文诗，综艺之神降临的八分钟"
-    },
-    {
-     "likes": 1317,
-     "comments": 77,
-     "collects": 80,
-     "shares": 29,
-     "title": "我真的太喜欢弟弟说话了，又可爱又好笑"
-    },
-    {
-     "likes": 1293,
-     "comments": 745,
-     "collects": 61,
-     "shares": 283,
-     "title": "大侦探十二季再度升级"
-    },
-    {
-     "likes": 1241,
-     "comments": 345,
-     "collects": 231,
-     "shares": 23,
-     "title": "渣男终有被抓的 小三终有被打脸的那一刻"
-    }
-   ],
-   "description": "#谢霆锋 #综艺 #美食 #一饭封神 #一饭封神第二季",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "旅游与酒店",
-   "title": "美国穷人的超市，藏着中国20年前禁的东西",
-   "published_at": "2026-08-16",
-   "posts": [
-    {
-     "likes": 28529,
-     "comments": 1287,
-     "collects": 3930,
-     "shares": 3085,
-     "title": "美国穷人的超市，藏着中国20年前禁的东西"
-    },
-    {
-     "likes": 8754,
-     "comments": 147,
-     "collects": 1020,
-     "shares": 648,
-     "title": "胡志明不适合出片，但也不无聊"
-    },
-    {
-     "likes": 4986,
-     "comments": 752,
-     "collects": 3249,
-     "shares": 2149,
-     "title": "青岛有三个人不能死"
-    },
-    {
-     "likes": 5008,
-     "comments": 71,
-     "collects": 9085,
-     "shares": 2002,
-     "title": "青岛 威海 烟台📍地图版攻略来了！"
-    },
-    {
-     "likes": 4217,
-     "comments": 440,
-     "collects": 1636,
-     "shares": 3023,
-     "title": "哈密，不白来"
-    },
-    {
-     "likes": 3304,
-     "comments": 169,
-     "collects": 1262,
-     "shares": 390,
-     "title": "这才是我想要的旅行照"
-    },
-    {
-     "likes": 2680,
-     "comments": 660,
-     "collects": 3895,
-     "shares": 532,
-     "title": ""
-    },
-    {
-     "likes": 2633,
-     "comments": 96,
-     "collects": 863,
-     "shares": 850,
-     "title": "拜见杭州奶油焦糖香蕉派大王！！！"
-    },
-    {
-     "likes": 2482,
-     "comments": 214,
-     "collects": 1394,
-     "shares": 419,
-     "title": "8月14日～8月20日（黄山）爬山路线参考"
-    },
-    {
-     "likes": 2380,
-     "comments": 36,
-     "collects": 701,
-     "shares": 92,
-     "title": "🛥️vacation mood:"
-    },
-    {
-     "likes": 1799,
-     "comments": 29,
-     "collects": 2267,
-     "shares": 659,
-     "title": "给9月去韩国的友友提个醒"
-    },
-    {
-     "likes": 1622,
-     "comments": 108,
-     "collects": 1250,
-     "shares": 1243,
-     "title": "🇯🇵伊豆悬崖潜水员戴夫餐厅"
-    },
-    {
-     "likes": 1512,
-     "comments": 346,
-     "collects": 2324,
-     "shares": 747,
-     "title": "8.13热乎的黄果树！我踩的雷，你千万避一下！"
-    },
-    {
-     "likes": 1290,
-     "comments": 65,
-     "collects": 1619,
-     "shares": 466,
-     "title": "300块左右的东京酒店"
-    },
-    {
-     "likes": 1113,
-     "comments": 171,
-     "collects": 1203,
-     "shares": 207,
-     "title": "求问埃及15天的规划合理吗"
-    },
-    {
-     "likes": 1147,
-     "comments": 50,
-     "collects": 876,
-     "shares": 423,
-     "title": "汪苏泷北京演唱会保姆级攻略（必看！！！）"
-    },
-    {
-     "likes": 956,
-     "comments": 62,
-     "collects": 1032,
-     "shares": 762,
-     "title": "北海道旅行最惊喜的一晚"
-    },
-    {
-     "likes": 784,
-     "comments": 50,
-     "collects": 909,
-     "shares": 168,
-     "title": "来香港只有一天时间，直接复制这条路线"
-    },
-    {
-     "likes": 748,
-     "comments": 14,
-     "collects": 975,
-     "shares": 409,
-     "title": "东京真的太好吃了！！！（14家）"
-    },
-    {
-     "likes": 699,
-     "comments": 39,
-     "collects": 214,
-     "shares": 99,
-     "title": "浮潜，红树林，看萤火虫！亚庇真的太好玩了！"
-    }
-   ],
-   "description": "#美国  #超市  #购买  #全球旅游",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "服饰鞋包",
-   "title": "换句话说这个世界还有一种西装..叫女人装",
-   "published_at": "2026-08-13",
-   "posts": [
-    {
-     "likes": 112251,
-     "comments": 1549,
-     "collects": 22595,
-     "shares": 3751,
-     "title": "换句话说这个世界还有一种西装..叫女人装"
-    },
-    {
-     "likes": 42793,
-     "comments": 548,
-     "collects": 14346,
-     "shares": 1188,
-     "title": "之前有好多美眉问我穿裙子怎么着来拍照。"
-    },
-    {
-     "likes": 33495,
-     "comments": 993,
-     "collects": 2600,
-     "shares": 662,
-     "title": "和doll感洛丽塔交朋友,打扮成洋娃娃...."
-    },
-    {
-     "likes": 32299,
-     "comments": 544,
-     "collects": 2733,
-     "shares": 221,
-     "title": "都说他眼光好 结果买上瘾啦"
-    },
-    {
-     "likes": 31512,
-     "comments": 230,
-     "collects": 2357,
-     "shares": 685,
-     "title": "爱私服！！！"
-    },
-    {
-     "likes": 25722,
-     "comments": 166,
-     "collects": 12821,
-     "shares": 853,
-     "title": "当我开始尝试低饱和高智感穿搭"
-    },
-    {
-     "likes": 25651,
-     "comments": 1615,
-     "collects": 9078,
-     "shares": 4776,
-     "title": "震惊一万年！这才是“人”穿的衣服！！！"
-    },
-    {
-     "likes": 17359,
-     "comments": 50,
-     "collects": 9728,
-     "shares": 489,
-     "title": "howto穿搭🎨10s告诉你早秋最舒服的配色！"
-    },
-    {
-     "likes": 16551,
-     "comments": 43,
-     "collects": 7579,
-     "shares": 480,
-     "title": "韩蕾风🇰🇷入门韩蕾穿搭看这个视频就够了"
-    },
-    {
-     "likes": 15023,
-     "comments": 757,
-     "collects": 2022,
-     "shares": 66,
-     "title": "这对母女太会穿搭了吧！！#穿搭技巧 #干货教学"
-    },
-    {
-     "likes": 14687,
-     "comments": 375,
-     "collects": 884,
-     "shares": 128,
-     "title": "甜系lo娘vs哥特风，体验彼此穿搭风格..."
-    },
-    {
-     "likes": 12705,
-     "comments": 305,
-     "collects": 7007,
-     "shares": 1227,
-     "title": "白色系穿搭合集"
-    },
-    {
-     "likes": 12588,
-     "comments": 110,
-     "collects": 2659,
-     "shares": 337,
-     "title": "非常古早美萌白月光感的吊带裙开衫套装"
-    },
-    {
-     "likes": 12589,
-     "comments": 170,
-     "collects": 13871,
-     "shares": 1403,
-     "title": ""
-    },
-    {
-     "likes": 9275,
-     "comments": 108,
-     "collects": 2289,
-     "shares": 809,
-     "title": "这套完全我的菜！超级好看"
-    },
-    {
-     "likes": 7793,
-     "comments": 55,
-     "collects": 3596,
-     "shares": 153,
-     "title": "早秋长袖外套💭 ◡̈ 低饱和百搭实穿主义～"
-    },
-    {
-     "likes": 7588,
-     "comments": 94,
-     "collects": 4408,
-     "shares": 246,
-     "title": "🥕才30多拿下奶茶色吊带开衫两件套！"
-    },
-    {
-     "likes": 7576,
-     "comments": 37,
-     "collects": 1169,
-     "shares": 122,
-     "title": "只有我愿意没有我应该"
-    },
-    {
-     "likes": 6649,
-     "comments": 60,
-     "collects": 4589,
-     "shares": 201,
-     "title": "当150的我用16套穿搭一键入秋！"
-    },
-    {
-     "likes": 6497,
-     "comments": 51,
-     "collects": 2036,
-     "shares": 227,
-     "title": "ootd：💃露背穿搭&内衣分享"
-    }
-   ],
-   "description": "#古着新穿  #西装  #西装控  #西装裙  #ysl  #西装女  #古着  #Vintage  #Vintage西",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "本地生活与零售",
-   "title": "睡的坏端端的怎么好端端又馋山姆了呢",
-   "published_at": "2026-08-11",
-   "posts": [
-    {
-     "likes": 8091,
-     "comments": 134,
-     "collects": 629,
-     "shares": 508,
-     "title": "睡的坏端端的怎么好端端又馋山姆了呢"
-    },
-    {
-     "likes": 1514,
-     "comments": 35,
-     "collects": 361,
-     "shares": 17,
-     "title": "中女控卡自愈时刻🍊允许自己拥有一份健康甜"
-    },
-    {
-     "likes": 1246,
-     "comments": 49,
-     "collects": 545,
-     "shares": 6,
-     "title": "锁死这瓶山姆洗发水！油扁塌的命都是它给的"
-    },
-    {
-     "likes": 1194,
-     "comments": 58,
-     "collects": 538,
-     "shares": 4,
-     "title": "在山姆遇见了本命洗发水！"
-    },
-    {
-     "likes": 1168,
-     "comments": 50,
-     "collects": 522,
-     "shares": 5,
-     "title": "山姆新品！海飞丝你让我感到陌生"
-    },
-    {
-     "likes": 1143,
-     "comments": 8,
-     "collects": 584,
-     "shares": 30,
-     "title": "🤣这到底是谁发明的软糖新吃法……"
-    },
-    {
-     "likes": 891,
-     "comments": 168,
-     "collects": 161,
-     "shares": 1773,
-     "title": "山姆新品青花椒香糖心蛋测评"
-    },
-    {
-     "likes": 796,
-     "comments": 52,
-     "collects": 151,
-     "shares": 165,
-     "title": "山姆⑧月新品红黑榜清单请收好！"
-    },
-    {
-     "likes": 754,
-     "comments": 27,
-     "collects": 411,
-     "shares": 81,
-     "title": "一口沦陷🔥海苔虾仁炒饭‼️油润鲜香巨好吃"
-    },
-    {
-     "likes": 696,
-     "comments": 52,
-     "collects": 399,
-     "shares": 616,
-     "title": "山姆的这四款夯爆啦"
-    },
-    {
-     "likes": 632,
-     "comments": 50,
-     "collects": 116,
-     "shares": 120,
-     "title": "山姆8月新品大测评（3）从夯到拉！"
-    },
-    {
-     "likes": 636,
-     "comments": 21,
-     "collects": 407,
-     "shares": 4,
-     "title": "山姆你有这么夯的产品咋不早点放出来？！！"
-    },
-    {
-     "likes": 523,
-     "comments": 228,
-     "collects": 84,
-     "shares": 2762,
-     "title": "山姆新品，刺身三拼"
-    },
-    {
-     "likes": 488,
-     "comments": 44,
-     "collects": 74,
-     "shares": 301,
-     "title": "山姆新品萨拉米测评"
-    },
-    {
-     "likes": 466,
-     "comments": 41,
-     "collects": 243,
-     "shares": 10,
-     "title": "这一次我一定要夺回属于我的头发"
-    },
-    {
-     "likes": 404,
-     "comments": 6,
-     "collects": 272,
-     "shares": 8,
-     "title": "山姆购物N次总结出来的自律期美食清单！"
-    },
-    {
-     "likes": 386,
-     "comments": 24,
-     "collects": 131,
-     "shares": 119,
-     "title": "🔥山姆8月新品指南🔥快来看看哪款值得买？"
-    },
-    {
-     "likes": 367,
-     "comments": 169,
-     "collects": 58,
-     "shares": 1271,
-     "title": "终于买到的。。山姆新品（🍢）"
-    },
-    {
-     "likes": 338,
-     "comments": 119,
-     "collects": 120,
-     "shares": 1088,
-     "title": "山姆新品"
-    },
-    {
-     "likes": 321,
-     "comments": 76,
-     "collects": 30,
-     "shares": 50,
-     "title": "8.16山姆新品集合来啦～"
-    }
-   ],
-   "description": "#趣满果0糖爆浆软糖 #山姆新品  #FRUTIPS #山姆软糖  #爆浆软糖  #雀巢新品  #健康零食  #办公室零",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "母婴与玩具",
-   "title": "我真服了我老婆…他真是个购物奇才！#小月龄宝宝 #母婴好物 #防止宝宝掉下床 #",
-   "published_at": "2026-08-11",
-   "posts": [
-    {
-     "likes": 6246,
-     "comments": 71,
-     "collects": 2539,
-     "shares": 76,
-     "title": "我真服了我老婆…他真是个购物奇才！#小月龄宝宝 #母婴好物 #防止宝宝掉下床 #"
-    },
-    {
-     "likes": 5594,
-     "comments": 34,
-     "collects": 2481,
-     "shares": 0,
-     "title": "为什么全港医生都推它？敏宝宝妈必看~"
-    },
-    {
-     "likes": 4420,
-     "comments": 459,
-     "collects": 1142,
-     "shares": 371,
-     "title": ""
-    },
-    {
-     "likes": 3030,
-     "comments": 140,
-     "collects": 1354,
-     "shares": 483,
-     "title": "有崽有狗家庭睡前内战终于结束了"
-    },
-    {
-     "likes": 2380,
-     "comments": 20,
-     "collects": 5079,
-     "shares": 1061,
-     "title": "0‑6 个月宝宝玩具避雷❗不用买一堆，这几"
-    },
-    {
-     "likes": 1623,
-     "comments": 766,
-     "collects": 327,
-     "shares": 248,
-     "title": "当母乳妈妈挤地铁🚇 突然涨奶了！怎么办❓"
-    },
-    {
-     "likes": 1296,
-     "comments": 16,
-     "collects": 1101,
-     "shares": 17,
-     "title": "坏了……我叫婆婆少刷小红书。。"
-    },
-    {
-     "likes": 1096,
-     "comments": 58,
-     "collects": 518,
-     "shares": 68,
-     "title": ""
-    },
-    {
-     "likes": 1060,
-     "comments": 34,
-     "collects": 1011,
-     "shares": 508,
-     "title": "怎么二胎了才知道😭用一次感叹一次"
-    },
-    {
-     "likes": 1075,
-     "comments": 12,
-     "collects": 79,
-     "shares": 23,
-     "title": "20后高能量自律女孩的一天vlog"
-    },
-    {
-     "likes": 866,
-     "comments": 8,
-     "collects": 2115,
-     "shares": 165,
-     "title": "我真不允许你们还不知道❗️"
-    },
-    {
-     "likes": 856,
-     "comments": 19,
-     "collects": 591,
-     "shares": 270,
-     "title": "感谢xhs 让我一胎就发现了介个…"
-    },
-    {
-     "likes": 850,
-     "comments": 67,
-     "collects": 636,
-     "shares": 6,
-     "title": "母婴带娃vlog｜带娃做饭也能很轻松"
-    },
-    {
-     "likes": 634,
-     "comments": 65,
-     "collects": 224,
-     "shares": 3,
-     "title": "热门婴儿看护器选哪款？真实对比来了！"
-    },
-    {
-     "likes": 490,
-     "comments": 46,
-     "collects": 166,
-     "shares": 1,
-     "title": "带娃出门 10 几次！6 件超实用好物分享"
-    },
-    {
-     "likes": 486,
-     "comments": 21,
-     "collects": 296,
-     "shares": 84,
-     "title": "又学会了！上网果然能学到好东西。。。"
-    },
-    {
-     "likes": 476,
-     "comments": 35,
-     "collects": 327,
-     "shares": 0,
-     "title": "遛娃晒红脸？这罐冰淇淋面霜急救绝了"
-    },
-    {
-     "likes": 476,
-     "comments": 79,
-     "collects": 547,
-     "shares": 276,
-     "title": "小红书我爱你！"
-    },
-    {
-     "likes": 430,
-     "comments": 26,
-     "collects": 123,
-     "shares": 10,
-     "title": "亲喂妈妈外出哺乳安全感被spring喜临拿捏！"
-    },
-    {
-     "likes": 398,
-     "comments": 48,
-     "collects": 70,
-     "shares": 6,
-     "title": "自主进食餐具怎么选？我的标准答案在这"
-    }
-   ],
-   "description": "我真服了我老婆…他真是个购物奇才！#小月龄宝宝  #母婴好物  #防止宝宝掉下床  #解放父母双手",
-   "source": "小红书搜索"
-  },
-  {
    "industry": "汽车与新能源",
-   "title": "同样是电池，小米这次直接上“装甲”",
-   "published_at": "2026-08-16",
-   "posts": [
-    {
-     "likes": 1744,
-     "comments": 129,
-     "collects": 650,
-     "shares": 9,
-     "title": "同样是电池，小米这次直接上“装甲”"
-    },
-    {
-     "likes": 1669,
-     "comments": 575,
-     "collects": 158,
-     "shares": 108,
-     "title": "40年驾龄老司机：远程锁用户的车毫无安全感"
-    },
-    {
-     "likes": 672,
-     "comments": 261,
-     "collects": 151,
-     "shares": 1016,
-     "title": "捷豹确认：豪华纯电GT跑车10月6日首发！"
-    },
-    {
-     "likes": 479,
-     "comments": 195,
-     "collects": 49,
-     "shares": 1577,
-     "title": "手搓了个视频找领导请年假，大家觉得可行吗"
-    },
-    {
-     "likes": 463,
-     "comments": 50,
-     "collects": 196,
-     "shares": 89,
-     "title": "我排除掉的别选"
-    },
-    {
-     "likes": 452,
-     "comments": 212,
-     "collects": 95,
-     "shares": 33,
-     "title": "比亚迪不愧电池之王，刀片之后又有蜂巢"
-    },
-    {
-     "likes": 449,
-     "comments": 1,
-     "collects": 37,
-     "shares": 62,
-     "title": "比亚迪拿下德国大奖，真正可怕的不是“5分"
-    },
-    {
-     "likes": 335,
-     "comments": 321,
-     "collects": 62,
-     "shares": 139,
-     "title": "奔驰你是懂造车的"
-    },
-    {
-     "likes": 306,
-     "comments": 704,
-     "collects": 37,
-     "shares": 545,
-     "title": "小鹏G9L 预售价25.98万元（起？）"
-    },
-    {
-     "likes": 301,
-     "comments": 168,
-     "collects": 52,
-     "shares": 210,
-     "title": "全新比亚迪海鸥内饰谍照曝光！"
-    },
-    {
-     "likes": 298,
-     "comments": 32,
-     "collects": 52,
-     "shares": 42,
-     "title": ""
-    },
-    {
-     "likes": 253,
-     "comments": 948,
-     "collects": 89,
-     "shares": 67,
-     "title": "电车真的无法像油车一样开上十年吗"
-    },
-    {
-     "likes": 253,
-     "comments": 13,
-     "collects": 104,
-     "shares": 20,
-     "title": "智能汽车到底排老几？中国十大汽车集团!"
-    },
-    {
-     "likes": 231,
-     "comments": 94,
-     "collects": 162,
-     "shares": 20,
-     "title": "30万级猎装怎么选？盘点三大热门猎装标杆！"
-    },
-    {
-     "likes": 222,
-     "comments": 49,
-     "collects": 67,
-     "shares": 6,
-     "title": "老BBA车主集合，你们增购电车选啥？"
-    },
-    {
-     "likes": 201,
-     "comments": 58,
-     "collects": 3,
-     "shares": 2,
-     "title": "岚图追光S配置拉满，与小米yu7谁更值？"
-    },
-    {
-     "likes": 200,
-     "comments": 9,
-     "collects": 53,
-     "shares": 6,
-     "title": "是女生一眼沦陷的梦中情车💫✨"
-    },
-    {
-     "likes": 187,
-     "comments": 51,
-     "collects": 130,
-     "shares": 160,
-     "title": "电池没衰减车先废了，电车真正死穴，根本不是电池#新能源汽车知识 #新能源汽车 #"
-    },
-    {
-     "likes": 177,
-     "comments": 5,
-     "collects": 156,
-     "shares": 18,
-     "title": "小鹏自适应氛围灯"
-    },
-    {
-     "likes": 158,
-     "comments": 38,
-     "collects": 41,
-     "shares": 63,
-     "title": "00后女生🎀4.59w开走Model 3"
-    }
-   ],
-   "description": "选新能源车还在一味关注冰箱彩电大沙发？ 其实动力电池才是最根本的❗ ⚡小米这次发布的龙甲电池 说几个让我觉得“这钱花得值",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "消费电子与智能硬件",
-   "title": "中国科技到底是真厉害，还是吹出来的？",
-   "published_at": "2026-08-14",
-   "posts": [
-    {
-     "likes": 9463,
-     "comments": 89,
-     "collects": 1935,
-     "shares": 86,
-     "title": "中国科技到底是真厉害，还是吹出来的？"
-    },
-    {
-     "likes": 7028,
-     "comments": 64,
-     "collects": 651,
-     "shares": 62,
-     "title": "“这次，换他来做主角”"
-    },
-    {
-     "likes": 1185,
-     "comments": 444,
-     "collects": 278,
-     "shares": 5493,
-     "title": "预计9月9发布！iPhone18Pro价格全曝光"
-    },
-    {
-     "likes": 862,
-     "comments": 71,
-     "collects": 348,
-     "shares": 118,
-     "title": "去了趟山东意大利📍附机位｜X300 E拍照体验"
-    },
-    {
-     "likes": 703,
-     "comments": 112,
-     "collects": 240,
-     "shares": 6,
-     "title": "2分钟教会你旅行遇到下雨天怎么拍？"
-    },
-    {
-     "likes": 655,
-     "comments": 51,
-     "collects": 280,
-     "shares": 10,
-     "title": "开学换机必看：S60与Reno16真实对比"
-    },
-    {
-     "likes": 645,
-     "comments": 338,
-     "collects": 146,
-     "shares": 1769,
-     "title": "抢跑苹果 | 小米首款阔折叠或将8月发布"
-    },
-    {
-     "likes": 607,
-     "comments": 661,
-     "collects": 154,
-     "shares": 242,
-     "title": "海信墨水屏A10｜打破边界，一“部”到位"
-    },
-    {
-     "likes": 574,
-     "comments": 424,
-     "collects": 118,
-     "shares": 1544,
-     "title": "苹果来真的啊？20周年纪念款爆料"
-    },
-    {
-     "likes": 469,
-     "comments": 284,
-     "collects": 48,
-     "shares": 235,
-     "title": "啊啊啊华为新机要来了！"
-    },
-    {
-     "likes": 399,
-     "comments": 829,
-     "collects": 71,
-     "shares": 468,
-     "title": "荣耀怎么敢卖16000的？"
-    },
-    {
-     "likes": 391,
-     "comments": 119,
-     "collects": 63,
-     "shares": 44,
-     "title": "iPhone17Pro与iPhone17拍照对比"
-    },
-    {
-     "likes": 377,
-     "comments": 263,
-     "collects": 57,
-     "shares": 1313,
-     "title": ""
-    },
-    {
-     "likes": 343,
-     "comments": 167,
-     "collects": 37,
-     "shares": 1342,
-     "title": "苹果18发布会"
-    },
-    {
-     "likes": 312,
-     "comments": 154,
-     "collects": 55,
-     "shares": 374,
-     "title": "荣耀Robot Phone价格揭晓！"
-    },
-    {
-     "likes": 297,
-     "comments": 47,
-     "collects": 65,
-     "shares": 453,
-     "title": ""
-    },
-    {
-     "likes": 280,
-     "comments": 220,
-     "collects": 53,
-     "shares": 153,
-     "title": "荣耀Magic9系列，9月28日发布"
-    },
-    {
-     "likes": 226,
-     "comments": 150,
-     "collects": 39,
-     "shares": 46,
-     "title": "vivo X500和iQOO16正式入网"
-    },
-    {
-     "likes": 221,
-     "comments": 13,
-     "collects": 71,
-     "shares": 11,
-     "title": "vivo S60 对比 S50｜两代机型真实对比✨"
-    },
-    {
-     "likes": 214,
-     "comments": 55,
-     "collects": 55,
-     "shares": 489,
-     "title": "9月9日苹果发布会前瞻：苹果将带来哪些新品？"
-    }
-   ],
-   "description": "来中国这么多年，我还是经常被中国科技惊到。 这次我一个英国人来到深圳，要亲自看看中国科技到底是真厉害，还是吹出来的 不看",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "游戏与电竞",
-   "title": "雷兹组合技光速炸弹车",
-   "published_at": "2026-08-16",
-   "posts": [
-    {
-     "likes": 8740,
-     "comments": 148,
-     "collects": 1602,
-     "shares": 2506,
-     "title": "雷兹组合技光速炸弹车"
-    },
-    {
-     "likes": 6970,
-     "comments": 1436,
-     "collects": 799,
-     "shares": 202,
-     "title": "蛋仔派对电竞节"
-    },
-    {
-     "likes": 6006,
-     "comments": 169,
-     "collects": 587,
-     "shares": 1164,
-     "title": "校园网打无畏契约，延迟波动真的让人破防 #无畏契约 #无畏契约电竞 #无畏契约手"
-    },
-    {
-     "likes": 2999,
-     "comments": 56,
-     "collects": 491,
-     "shares": 231,
-     "title": "王者荣耀你还我温柔的竞男"
-    },
-    {
-     "likes": 2767,
-     "comments": 381,
-     "collects": 1041,
-     "shares": 1126,
-     "title": "好想也这样肆无忌惮的嘎嘎哒一次#蛋仔派对 #蛋仔派对全国总决赛 #无畏契约 #电"
-    },
-    {
-     "likes": 1744,
-     "comments": 213,
-     "collects": 397,
-     "shares": 39,
-     "title": "假装🏠男整蛊陪陪"
-    },
-    {
-     "likes": 1552,
-     "comments": 47,
-     "collects": 607,
-     "shares": 5,
-     "title": "七夕约会氛围感拉满｜藏给他的玩家专属浪漫"
-    },
-    {
-     "likes": 1225,
-     "comments": 43,
-     "collects": 732,
-     "shares": 3,
-     "title": "七夕别踩雷！ROG懂DOTA男友的浪漫✨"
-    },
-    {
-     "likes": 1126,
-     "comments": 7,
-     "collects": 143,
-     "shares": 24,
-     "title": "这才是游戏的意义"
-    },
-    {
-     "likes": 1079,
-     "comments": 25,
-     "collects": 495,
-     "shares": 4,
-     "title": "藏在礼盒里的专属浪漫💻ROG×DOTA2惊喜开箱"
-    },
-    {
-     "likes": 1067,
-     "comments": 21,
-     "collects": 507,
-     "shares": 7,
-     "title": "沙滩边沙排碎片｜来自打球搭子的小惊喜"
-    },
-    {
-     "likes": 920,
-     "comments": 49,
-     "collects": 281,
-     "shares": 118,
-     "title": "誰不想要一間專屬打遊戲的房間"
-    },
-    {
-     "likes": 889,
-     "comments": 169,
-     "collects": 13,
-     "shares": 6,
-     "title": "今日首发名单：比赛加油！"
-    },
-    {
-     "likes": 827,
-     "comments": 68,
-     "collects": 14,
-     "shares": 541,
-     "title": "为高考闭麦"
-    },
-    {
-     "likes": 808,
-     "comments": 332,
-     "collects": 35,
-     "shares": 45,
-     "title": "游戏过度的电竞化 会减少游戏寿命"
-    },
-    {
-     "likes": 782,
-     "comments": 32,
-     "collects": 102,
-     "shares": 22,
-     "title": "全员恶人，是白叫的吗"
-    },
-    {
-     "likes": 753,
-     "comments": 35,
-     "collects": 20,
-     "shares": 79,
-     "title": "我们jdg就是这样做万恶之首"
-    },
-    {
-     "likes": 600,
-     "comments": 2,
-     "collects": 528,
-     "shares": 50,
-     "title": "蛋仔电竞节"
-    },
-    {
-     "likes": 570,
-     "comments": 24,
-     "collects": 464,
-     "shares": 65,
-     "title": ""
-    },
-    {
-     "likes": 538,
-     "comments": 39,
-     "collects": 110,
-     "shares": 375,
-     "title": "#游戏精彩时刻 #王者荣耀热门 #游戏圈那些事 #我是电竞评论员 #王者日记"
-    }
-   ],
-   "description": "#无畏契约  #游戏分享  #电子竞技",
-   "source": "小红书搜索"
-  },
-  {
-   "industry": "美妆护肤",
-   "title": "全新液体腮红🎁500份惊喜点亮颊上光与色",
-   "published_at": "2026-08-15",
-   "posts": [
-    {
-     "likes": 10936,
-     "comments": 90,
-     "collects": 1727,
-     "shares": 557,
-     "title": "波西米亚风的古西域神女🐫…girlcult新品！"
-    },
-    {
-     "likes": 8953,
-     "comments": 345,
-     "collects": 2921,
-     "shares": 172,
-     "title": "彩虹糖出唇釉了？上嘴啥味儿啊！"
-    },
-    {
-     "likes": 7545,
-     "comments": 7937,
-     "collects": 3109,
-     "shares": 226,
-     "title": "全新液体腮红🎁500份惊喜点亮颊上光与色"
-    },
-    {
-     "likes": 4869,
-     "comments": 91,
-     "collects": 737,
-     "shares": 46,
-     "title": "亚裔大礼盒 我能挑战成功吗！"
-    },
-    {
-     "likes": 4354,
-     "comments": 700,
-     "collects": 1580,
-     "shares": 144,
-     "title": "彩妆礼盒测评！粉扑跨界做彩妆了？！"
-    },
-    {
-     "likes": 3990,
-     "comments": 360,
-     "collects": 848,
-     "shares": 130,
-     "title": ""
-    },
-    {
-     "likes": 3478,
-     "comments": 122,
-     "collects": 1112,
-     "shares": 279,
-     "title": "狗咖新品10只全试色！！！多用霜夯爆了！！"
-    },
-    {
-     "likes": 3413,
-     "comments": 69,
-     "collects": 1233,
-     "shares": 210,
-     "title": "太超前！Girlcult直接进入心机偏光时代！！"
-    },
-    {
-     "likes": 3204,
-     "comments": 156,
-     "collects": 2329,
-     "shares": 237,
-     "title": "逢涂必问！ 5️⃣支无平替的大牌口红必吃榜"
-    },
-    {
-     "likes": 3172,
-     "comments": 165,
-     "collects": 751,
-     "shares": 117,
-     "title": "𖤐𖥔 ݁˖ִ沙域神辉girlcult新品全试色妆教"
-    },
-    {
-     "likes": 2715,
-     "comments": 107,
-     "collects": 768,
-     "shares": 109,
-     "title": "跟着日杂美妆榜单化妆2.0+解锁湿法造型！！"
-    },
-    {
-     "likes": 2694,
-     "comments": 155,
-     "collects": 898,
-     "shares": 243,
-     "title": "🩰✨八月开箱！仙品！刷一下下就爱住了"
-    },
-    {
-     "likes": 2481,
-     "comments": 266,
-     "collects": 541,
-     "shares": 83,
-     "title": "范思哲x丁禹兮独家七夕祝福🎁礼上加礼"
-    },
-    {
-     "likes": 2319,
-     "comments": 512,
-     "collects": 445,
-     "shares": 281,
-     "title": "🔨烤粉小饼入驻成功！"
-    },
-    {
-     "likes": 2206,
-     "comments": 42,
-     "collects": 664,
-     "shares": 84,
-     "title": "淡淡柔纱｜冷调粉紫清透妆容"
-    },
-    {
-     "likes": 2670,
-     "comments": 269,
-     "collects": 862,
-     "shares": 410,
-     "title": "🍁⛓girlcult新品！楼兰嬉皮！又来整活了？"
-    },
-    {
-     "likes": 2236,
-     "comments": 346,
-     "collects": 818,
-     "shares": 211,
-     "title": "NARS液体腮红给我美崩溃了。。气血与光泽并存"
-    },
-    {
-     "likes": 1938,
-     "comments": 237,
-     "collects": 650,
-     "shares": 152,
-     "title": "年度彩妆黑马💥NARS 液体腮红光泽感太惊艳"
-    },
-    {
-     "likes": 1728,
-     "comments": 112,
-     "collects": 691,
-     "shares": 310,
-     "title": "震撼新品🆕NARS液体腮红也太会拿捏光泽感了"
-    },
-    {
-     "likes": 1612,
-     "comments": 192,
-     "collects": 347,
-     "shares": 104,
-     "title": "1是面子 2是生活"
-    }
-   ],
-   "description": "👑颊彩大师欲色新作 🌟全新#NARS欲色无尽液体腮红  💧一抹显色，一滴生光，突破颊彩想象！ ⭐惊喜掉落",
-   "source": "小红书搜索"
+   "title": "人要有一颗独立思考的脑子！！！",
+   "description": "#新能源汽车",
+   "engagement": 76589,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
   },
   {
    "industry": "软件与AI",
-   "title": "不会写代码的纯小白，我的超简单AI入门方法",
-   "published_at": "2026-08-13",
-   "posts": [
-    {
-     "likes": 28520,
-     "comments": 154,
-     "collects": 47381,
-     "shares": 3948,
-     "title": "不会写代码的纯小白，我的超简单AI入门方法"
-    },
-    {
-     "likes": 1233,
-     "comments": 31,
-     "collects": 574,
-     "shares": 55,
-     "title": "第一视角骑龙太爽了！30秒一镜到底怎么做？"
-    },
-    {
-     "likes": 979,
-     "comments": 35,
-     "collects": 1208,
-     "shares": 223,
-     "title": "我想教会你用AI剪视频！"
-    },
-    {
-     "likes": 851,
-     "comments": 210,
-     "collects": 365,
-     "shares": 43,
-     "title": "推荐聊天软件"
-    },
-    {
-     "likes": 581,
-     "comments": 15,
-     "collects": 341,
-     "shares": 97,
-     "title": "英伟达、开源模型、AI应用们的新战争！"
-    },
-    {
-     "likes": 415,
-     "comments": 63,
-     "collects": 94,
-     "shares": 76,
-     "title": "我们受够了动不动和角色告别"
-    },
-    {
-     "likes": 413,
-     "comments": 61,
-     "collects": 346,
-     "shares": 47,
-     "title": "锐评国产 Agent 从夯到拉"
-    },
-    {
-     "likes": 235,
-     "comments": 26,
-     "collects": 392,
-     "shares": 101,
-     "title": "🔥“抄”爆款 App，一年做到月入8万刀"
-    },
-    {
-     "likes": 230,
-     "comments": 17,
-     "collects": 129,
-     "shares": 0,
-     "title": "暑假查漏补缺，学习工具助力孩子收心"
-    },
-    {
-     "likes": 196,
-     "comments": 11,
-     "collects": 303,
-     "shares": 42,
-     "title": "阿里淘天业务技术---AI应用研发工程师"
-    },
-    {
-     "likes": 183,
-     "comments": 11,
-     "collects": 169,
-     "shares": 4,
-     "title": "AI视频总有“塑料感”？我后期这样修🎞️"
-    },
-    {
-     "likes": 150,
-     "comments": 1,
-     "collects": 157,
-     "shares": 95,
-     "title": "靠给肌肉打分，这款健身App月入20万美金❗️"
-    },
-    {
-     "likes": 151,
-     "comments": 22,
-     "collects": 256,
-     "shares": 33,
-     "title": "AI大模型应用开发实战路线全景在这里！"
-    },
-    {
-     "likes": 107,
-     "comments": 23,
-     "collects": 35,
-     "shares": 8,
-     "title": "下周会涨！重点看国产算力和Ai应用！"
-    },
-    {
-     "likes": 91,
-     "comments": 6,
-     "collects": 56,
-     "shares": 1,
-     "title": "自己偷偷看！"
-    },
-    {
-     "likes": 99,
-     "comments": 69,
-     "collects": 103,
-     "shares": 10,
-     "title": ""
-    },
-    {
-     "likes": 81,
-     "comments": 0,
-     "collects": 100,
-     "shares": 0,
-     "title": "秒懂的AI设计小技巧｜基础图形应用 004"
-    },
-    {
-     "likes": 72,
-     "comments": 34,
-     "collects": 52,
-     "shares": 3,
-     "title": "为什么2026年大家都可以学学用ai做视频？"
-    },
-    {
-     "likes": 63,
-     "comments": 18,
-     "collects": 62,
-     "shares": 15,
-     "title": "AI应用，哪5个赛道有望上岸？"
-    },
-    {
-     "likes": 54,
-     "comments": 3,
-     "collects": 100,
-     "shares": 17,
-     "title": "4个AI Agent，接管99%的重复工作"
-    }
-   ],
-   "description": "#AI  #AI进化生活howto  #AI新手村  #自学AI  #效率  #codex  #好视频扶持计划",
-   "source": "小红书搜索"
+   "title": "不会写代码也能做AI量化实盘 #量化 #大模型 #GitHub #AI工具 #编",
+   "description": "不会写代码也能做AI量化实盘 #量化  #大模型  #GitHub  #AI工具  #编程  #AI  #howto用好",
+   "engagement": 8786,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "消费电子与智能硬件",
+   "title": "苹果折叠屏手机，是这样的",
+   "description": "九月份发布会后，可以看到真机了#苹果折叠屏手机 #数码开箱  #献章歌",
+   "engagement": 14075,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "美妆护肤",
+   "title": "淡颜换头！还得是娇俏韩系水光妆~",
+   "description": "#美貌野心家  #我的练妆日记  #妆教经验howto  #水光妆容  #屈臣氏PDRN水光弹  #屈臣氏PDRN精华",
+   "engagement": 8283,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "咖啡与茶饮",
+   "title": "已严肃品鉴瑞幸经典泰奶……",
+   "description": "感谢瑞的邀请！！不在暹罗但喝到了仙品….. 店员和我说这是瑞幸法务出差泰国，打赢官司回来推荐的！！！ 哈哈哈哈哈哈哈哈哈",
+   "engagement": 4254,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "宠物",
+   "title": "小猫、是你弄丢滴妙脆角吗",
+   "description": "#橘白  #一只耳  #妙脆角小猫  #和宠物过夏天  #土猫土狗大赏  #大橘为重  #命中注定我的小猫  #小红书土",
+   "engagement": 111783,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "游戏与电竞",
+   "title": "思念互动展示🔥祁煜「玄面昭昭」",
+   "description": "维系彼此的印记忽明忽暗，向你许诺凯旋的祁将军，何时才会归来？ 又一日夕阳斜照时，有人倏然策马回营，带来捷报、战利品，还有",
+   "engagement": 58972,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "旅游与酒店",
+   "title": "酒店坐地起价怎么办，以防万一先学了再说！",
+   "description": "#酒店  #酒店攻略  #旅游攻略  #内容过于真实  #生活小妙招  （cr:@暴走的林妹妹",
+   "engagement": 172192,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "家电与智能家居",
+   "title": "冰箱这样选 轻松get厨房全能大师!",
+   "description": "#冰箱  #冰箱选购  #冰箱推荐  #家电  #家电选购  #冰箱选购攻略  #如何选购冰箱  #原来家电还能这样",
+   "engagement": 33001,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "母婴与玩具",
+   "title": "宝宝：你们笑什么啊呜呜呜呜呜",
+   "description": "#美妆 #母婴 #万万没想到 #家具 #本色裸装",
+   "engagement": 47844,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
   },
   {
    "industry": "餐饮与食品",
-   "title": "东京真的太好吃了！！！（14家）",
-   "published_at": "2026-08-11",
-   "posts": [
-    {
-     "likes": 748,
-     "comments": 14,
-     "collects": 975,
-     "shares": 409,
-     "title": "东京真的太好吃了！！！（14家）"
-    },
-    {
-     "likes": 493,
-     "comments": 47,
-     "collects": 258,
-     "shares": 161,
-     "title": "长沙下高铁直奔的😭😭真比笨萝卜便宜好吃！！"
-    },
-    {
-     "likes": 359,
-     "comments": 93,
-     "collects": 352,
-     "shares": 212,
-     "title": "感谢何 老师🥹🥹逛完橘子洲直奔的好震撼！！！"
-    },
-    {
-     "likes": 335,
-     "comments": 39,
-     "collects": 219,
-     "shares": 364,
-     "title": "omg苏州中心你好吃到我了！"
-    },
-    {
-     "likes": 209,
-     "comments": 18,
-     "collects": 109,
-     "shares": 60,
-     "title": "南京新街口！！！不起眼但真正好吃的店！！！"
-    },
-    {
-     "likes": 193,
-     "comments": 17,
-     "collects": 87,
-     "shares": 25,
-     "title": "苏州首家！！苏州首家！！终于开了快去吃"
-    },
-    {
-     "likes": 175,
-     "comments": 7,
-     "collects": 105,
-     "shares": 68,
-     "title": "餐饮人的探店vlog！"
-    },
-    {
-     "likes": 167,
-     "comments": 80,
-     "collects": 92,
-     "shares": 174,
-     "title": "试营业｜明天见"
-    },
-    {
-     "likes": 158,
-     "comments": 37,
-     "collects": 127,
-     "shares": 89,
-     "title": "感谢何老师！真的是郴州极品！！！！！"
-    },
-    {
-     "likes": 148,
-     "comments": 115,
-     "collects": 85,
-     "shares": 397,
-     "title": "这次真的开到诸暨希尔顿28楼了｜老面骨新店"
-    },
-    {
-     "likes": 125,
-     "comments": 40,
-     "collects": 51,
-     "shares": 224,
-     "title": "临平首家！！临平首家！！终于开了！！！"
-    },
-    {
-     "likes": 125,
-     "comments": 15,
-     "collects": 26,
-     "shares": 6,
-     "title": "三刷了！宣城你别太好吃了！！！"
-    },
-    {
-     "likes": 124,
-     "comments": 34,
-     "collects": 118,
-     "shares": 70,
-     "title": "逛完橘子洲直奔的！！真比笨萝卜便宜好吃…"
-    },
-    {
-     "likes": 124,
-     "comments": 29,
-     "collects": 57,
-     "shares": 16,
-     "title": "新天地的湘菜真是卧虎藏龙啊…."
-    },
-    {
-     "likes": 126,
-     "comments": 18,
-     "collects": 7,
-     "shares": 3,
-     "title": "吃奉化漂亮饭啦"
-    },
-    {
-     "likes": 120,
-     "comments": 44,
-     "collects": 6,
-     "shares": 25,
-     "title": "第二天餐厅战绩(´▽｀)"
-    },
-    {
-     "likes": 118,
-     "comments": 269,
-     "collects": 94,
-     "shares": 47,
-     "title": "探店招募｜在地风土的创新风味"
-    },
-    {
-     "likes": 113,
-     "comments": 23,
-     "collects": 98,
-     "shares": 275,
-     "title": "澄海也有了家人们！！！终于开了！！！！"
-    },
-    {
-     "likes": 101,
-     "comments": 18,
-     "collects": 47,
-     "shares": 5,
-     "title": "杭州新开！！小说里的江南世家具像化了…"
-    },
-    {
-     "likes": 92,
-     "comments": 18,
-     "collects": 49,
-     "shares": 71,
-     "title": "目前四会top1好吃的二人食漂亮饭……"
-    }
-   ],
-   "description": "去了五次东京吃到的一些满意食物！！ 真的好好吃 #甜品治愈一切  #日本旅游  #东京旅游  #日本美食  #东京美食",
-   "source": "小红书搜索"
+   "title": "豆豆第二次中国行，先来碳水之都咥碗面",
+   "description": "#外国人爱吃美食  #老外在中国  #西安  #小家大厨大赛  #地方掌勺人",
+   "engagement": 16569,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "酒水",
+   "title": "普通家庭记录男朋友第一次来我家",
+   "description": "一共8️⃣样，分别是烟、酒、点心、燕窝、阿胶、营养品、坚果礼盒和蜂蜜 - 燕窝和一束花💐没有拍进来 普通家庭的第一次见",
+   "engagement": 377,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "本地生活与零售",
+   "title": "胖东来模式解析",
+   "description": "#新消费模式  #实体行业破局  #新消费时代  #商业的底层逻辑  #新零售模式  #营销思维模式  #新零售时代",
+   "engagement": 2554,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "体育与户外",
+   "title": "坚持一个月从肚子胀气到腰线清晰的蜕变过程 #居家健身 #减脂瘦身 #居家运动 #",
+   "description": "坚持一个月从肚子胀气到腰线清晰的蜕变过程 #居家健身  #减脂瘦身  #居家运动  #我的日常运动",
+   "engagement": 84222,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "医疗服务与器械",
+   "title": "医生一路按压 上演“生死时速”",
+   "description": "（来源：文明成都）#好视频扶持计划  #安全第一生命至上  #人生意外无处不在  #但愿人间无疾苦",
+   "engagement": 943,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
+  },
+  {
+   "industry": "服饰鞋包",
+   "title": "立秋后的衣橱🤎📷#LeFame拉飞姆 #Moderne",
+   "description": "#LeFame拉飞姆  #ModerneUtility摩登衣橱",
+   "engagement": 118353,
+   "date": "",
+   "cross_type": "event",
+   "post_type": "cross"
   }
  ],
  "keywords": [
   {
-   "industry": "咖啡与茶饮",
-   "term": "库迪抹茶升级",
-   "posts": [
-    {
-     "likes": 17132,
-     "comments": 81,
-     "collects": 1282,
-     "shares": 392,
-     "title": "浓抹我要和你纠缠一辈子！"
-    },
-    {
-     "likes": 4991,
-     "comments": 5480,
-     "collects": 328,
-     "shares": 10036,
-     "title": "倒计时3天！瑞幸泰奶系列重磅上新"
-    },
-    {
-     "likes": 4276,
-     "comments": 139,
-     "collects": 418,
-     "shares": 1058,
-     "title": "瑞幸销冠来了！第一个发现瑞幸跟苹果适配的人简直是天才！#迪士尼 #瑞幸 #周边"
-    },
-    {
-     "likes": 2845,
-     "comments": 210,
-     "collects": 310,
-     "shares": 2097,
-     "title": "太好了瑞也有泰奶了！！还发现了绝佳喝法！"
-    },
-    {
-     "likes": 2314,
-     "comments": 104,
-     "collects": 334,
-     "shares": 661,
-     "title": "古茗咖啡豆终于等来油柑这个cp了"
-    }
-   ]
+   "industry": "汽车与新能源",
+   "term": "新能源汽车",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "汽车与新能源",
+   "term": "智能驾驶",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "软件与AI",
+   "term": "AI大模型",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "软件与AI",
+   "term": "DeepSeek",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "消费电子与智能硬件",
+   "term": "苹果折叠屏",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "消费电子与智能硬件",
+   "term": "iPhone18",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "美妆护肤",
+   "term": "韩系水光妆",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "美妆护肤",
+   "term": "oliveyoung",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
    "industry": "咖啡与茶饮",
-   "term": "瑞幸泰奶新品",
-   "posts": [
-    {
-     "likes": 17132,
-     "comments": 81,
-     "collects": 1282,
-     "shares": 392,
-     "title": "浓抹我要和你纠缠一辈子！"
-    },
-    {
-     "likes": 4991,
-     "comments": 5480,
-     "collects": 328,
-     "shares": 10036,
-     "title": "倒计时3天！瑞幸泰奶系列重磅上新"
-    },
-    {
-     "likes": 4276,
-     "comments": 139,
-     "collects": 418,
-     "shares": 1058,
-     "title": "瑞幸销冠来了！第一个发现瑞幸跟苹果适配的人简直是天才！#迪士尼 #瑞幸 #周边"
-    },
-    {
-     "likes": 2845,
-     "comments": 210,
-     "collects": 310,
-     "shares": 2097,
-     "title": "太好了瑞也有泰奶了！！还发现了绝佳喝法！"
-    },
-    {
-     "likes": 2314,
-     "comments": 104,
-     "collects": 334,
-     "shares": 661,
-     "title": "古茗咖啡豆终于等来油柑这个cp了"
-    }
-   ]
+   "term": "瑞幸泰奶",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
    "industry": "咖啡与茶饮",
    "term": "苹果油柑美式",
-   "posts": [
-    {
-     "likes": 17132,
-     "comments": 81,
-     "collects": 1282,
-     "shares": 392,
-     "title": "浓抹我要和你纠缠一辈子！"
-    },
-    {
-     "likes": 4991,
-     "comments": 5480,
-     "collects": 328,
-     "shares": 10036,
-     "title": "倒计时3天！瑞幸泰奶系列重磅上新"
-    },
-    {
-     "likes": 4276,
-     "comments": 139,
-     "collects": 418,
-     "shares": 1058,
-     "title": "瑞幸销冠来了！第一个发现瑞幸跟苹果适配的人简直是天才！#迪士尼 #瑞幸 #周边"
-    },
-    {
-     "likes": 2845,
-     "comments": 210,
-     "collects": 310,
-     "shares": 2097,
-     "title": "太好了瑞也有泰奶了！！还发现了绝佳喝法！"
-    },
-    {
-     "likes": 2314,
-     "comments": 104,
-     "collects": 334,
-     "shares": 661,
-     "title": "古茗咖啡豆终于等来油柑这个cp了"
-    }
-   ]
-  },
-  {
-   "industry": "美妆护肤",
-   "term": "NARS液体腮红",
-   "posts": [
-    {
-     "likes": 10936,
-     "comments": 90,
-     "collects": 1727,
-     "shares": 557,
-     "title": "波西米亚风的古西域神女🐫…girlcult新品！"
-    },
-    {
-     "likes": 8953,
-     "comments": 345,
-     "collects": 2921,
-     "shares": 172,
-     "title": "彩虹糖出唇釉了？上嘴啥味儿啊！"
-    },
-    {
-     "likes": 7545,
-     "comments": 7937,
-     "collects": 3109,
-     "shares": 226,
-     "title": "全新液体腮红🎁500份惊喜点亮颊上光与色"
-    },
-    {
-     "likes": 4869,
-     "comments": 91,
-     "collects": 737,
-     "shares": 46,
-     "title": "亚裔大礼盒 我能挑战成功吗！"
-    },
-    {
-     "likes": 4354,
-     "comments": 700,
-     "collects": 1580,
-     "shares": 144,
-     "title": "彩妆礼盒测评！粉扑跨界做彩妆了？！"
-    }
-   ]
-  },
-  {
-   "industry": "美妆护肤",
-   "term": "Girlcult楼兰嬉皮",
-   "posts": [
-    {
-     "likes": 10936,
-     "comments": 90,
-     "collects": 1727,
-     "shares": 557,
-     "title": "波西米亚风的古西域神女🐫…girlcult新品！"
-    },
-    {
-     "likes": 8953,
-     "comments": 345,
-     "collects": 2921,
-     "shares": 172,
-     "title": "彩虹糖出唇釉了？上嘴啥味儿啊！"
-    },
-    {
-     "likes": 7545,
-     "comments": 7937,
-     "collects": 3109,
-     "shares": 226,
-     "title": "全新液体腮红🎁500份惊喜点亮颊上光与色"
-    },
-    {
-     "likes": 4869,
-     "comments": 91,
-     "collects": 737,
-     "shares": 46,
-     "title": "亚裔大礼盒 我能挑战成功吗！"
-    },
-    {
-     "likes": 4354,
-     "comments": 700,
-     "collects": 1580,
-     "shares": 144,
-     "title": "彩妆礼盒测评！粉扑跨界做彩妆了？！"
-    }
-   ]
-  },
-  {
-   "industry": "美妆护肤",
-   "term": "烤粉综合盘",
-   "posts": [
-    {
-     "likes": 10936,
-     "comments": 90,
-     "collects": 1727,
-     "shares": 557,
-     "title": "波西米亚风的古西域神女🐫…girlcult新品！"
-    },
-    {
-     "likes": 8953,
-     "comments": 345,
-     "collects": 2921,
-     "shares": 172,
-     "title": "彩虹糖出唇釉了？上嘴啥味儿啊！"
-    },
-    {
-     "likes": 7545,
-     "comments": 7937,
-     "collects": 3109,
-     "shares": 226,
-     "title": "全新液体腮红🎁500份惊喜点亮颊上光与色"
-    },
-    {
-     "likes": 4869,
-     "comments": 91,
-     "collects": 737,
-     "shares": 46,
-     "title": "亚裔大礼盒 我能挑战成功吗！"
-    },
-    {
-     "likes": 4354,
-     "comments": 700,
-     "collects": 1580,
-     "shares": 144,
-     "title": "彩妆礼盒测评！粉扑跨界做彩妆了？！"
-    }
-   ]
-  },
-  {
-   "industry": "软件与AI",
-   "term": "AI应用",
-   "posts": [
-    {
-     "likes": 28520,
-     "comments": 154,
-     "collects": 47381,
-     "shares": 3948,
-     "title": "不会写代码的纯小白，我的超简单AI入门方法"
-    },
-    {
-     "likes": 1233,
-     "comments": 31,
-     "collects": 574,
-     "shares": 55,
-     "title": "第一视角骑龙太爽了！30秒一镜到底怎么做？"
-    },
-    {
-     "likes": 979,
-     "comments": 35,
-     "collects": 1208,
-     "shares": 223,
-     "title": "我想教会你用AI剪视频！"
-    },
-    {
-     "likes": 851,
-     "comments": 210,
-     "collects": 365,
-     "shares": 43,
-     "title": "推荐聊天软件"
-    },
-    {
-     "likes": 581,
-     "comments": 15,
-     "collects": 341,
-     "shares": 97,
-     "title": "英伟达、开源模型、AI应用们的新战争！"
-    }
-   ]
-  },
-  {
-   "industry": "软件与AI",
-   "term": "大模型垂直应用",
-   "posts": [
-    {
-     "likes": 28520,
-     "comments": 154,
-     "collects": 47381,
-     "shares": 3948,
-     "title": "不会写代码的纯小白，我的超简单AI入门方法"
-    },
-    {
-     "likes": 1233,
-     "comments": 31,
-     "collects": 574,
-     "shares": 55,
-     "title": "第一视角骑龙太爽了！30秒一镜到底怎么做？"
-    },
-    {
-     "likes": 979,
-     "comments": 35,
-     "collects": 1208,
-     "shares": 223,
-     "title": "我想教会你用AI剪视频！"
-    },
-    {
-     "likes": 851,
-     "comments": 210,
-     "collects": 365,
-     "shares": 43,
-     "title": "推荐聊天软件"
-    },
-    {
-     "likes": 581,
-     "comments": 15,
-     "collects": 341,
-     "shares": 97,
-     "title": "英伟达、开源模型、AI应用们的新战争！"
-    }
-   ]
-  },
-  {
-   "industry": "汽车与新能源",
-   "term": "新能源汽车",
-   "posts": [
-    {
-     "likes": 1744,
-     "comments": 129,
-     "collects": 650,
-     "shares": 9,
-     "title": "同样是电池，小米这次直接上“装甲”"
-    },
-    {
-     "likes": 1669,
-     "comments": 575,
-     "collects": 158,
-     "shares": 108,
-     "title": "40年驾龄老司机：远程锁用户的车毫无安全感"
-    },
-    {
-     "likes": 672,
-     "comments": 261,
-     "collects": 151,
-     "shares": 1016,
-     "title": "捷豹确认：豪华纯电GT跑车10月6日首发！"
-    },
-    {
-     "likes": 479,
-     "comments": 195,
-     "collects": 49,
-     "shares": 1577,
-     "title": "手搓了个视频找领导请年假，大家觉得可行吗"
-    },
-    {
-     "likes": 463,
-     "comments": 50,
-     "collects": 196,
-     "shares": 89,
-     "title": "我排除掉的别选"
-    }
-   ]
-  },
-  {
-   "industry": "消费电子与智能硬件",
-   "term": "手机新品",
-   "posts": [
-    {
-     "likes": 9463,
-     "comments": 89,
-     "collects": 1935,
-     "shares": 86,
-     "title": "中国科技到底是真厉害，还是吹出来的？"
-    },
-    {
-     "likes": 7028,
-     "comments": 64,
-     "collects": 651,
-     "shares": 62,
-     "title": "“这次，换他来做主角”"
-    },
-    {
-     "likes": 1185,
-     "comments": 444,
-     "collects": 278,
-     "shares": 5493,
-     "title": "预计9月9发布！iPhone18Pro价格全曝光"
-    },
-    {
-     "likes": 862,
-     "comments": 71,
-     "collects": 348,
-     "shares": 118,
-     "title": "去了趟山东意大利📍附机位｜X300 E拍照体验"
-    },
-    {
-     "likes": 703,
-     "comments": 112,
-     "collects": 240,
-     "shares": 6,
-     "title": "2分钟教会你旅行遇到下雨天怎么拍？"
-    }
-   ]
-  },
-  {
-   "industry": "家电与智能家居",
-   "term": "智能家居好物",
-   "posts": [
-    {
-     "likes": 3724,
-     "comments": 12,
-     "collects": 7656,
-     "shares": 429,
-     "title": "冰箱水果清洗技巧，再也不怕吃到虫！"
-    },
-    {
-     "likes": 1033,
-     "comments": 315,
-     "collects": 429,
-     "shares": 1751,
-     "title": "2046年的洗衣机，大家给定个价"
-    },
-    {
-     "likes": 898,
-     "comments": 7,
-     "collects": 1337,
-     "shares": 213,
-     "title": "低成本让家更智能！提升幸福感"
-    },
-    {
-     "likes": 870,
-     "comments": 8,
-     "collects": 511,
-     "shares": 19,
-     "title": "阳台装修差距太大！嵌入式家电真的别乱装✨"
-    },
-    {
-     "likes": 457,
-     "comments": 11,
-     "collects": 765,
-     "shares": 49,
-     "title": "居然全是套路，外出采购避雷tips"
-    }
-   ]
-  },
-  {
-   "industry": "游戏与电竞",
-   "term": "游戏电竞新品",
-   "posts": [
-    {
-     "likes": 8740,
-     "comments": 148,
-     "collects": 1602,
-     "shares": 2506,
-     "title": "雷兹组合技光速炸弹车"
-    },
-    {
-     "likes": 6970,
-     "comments": 1436,
-     "collects": 799,
-     "shares": 202,
-     "title": "蛋仔派对电竞节"
-    },
-    {
-     "likes": 6006,
-     "comments": 169,
-     "collects": 587,
-     "shares": 1164,
-     "title": "校园网打无畏契约，延迟波动真的让人破防 #无畏契约 #无畏契约电竞 #无畏契约手"
-    },
-    {
-     "likes": 2999,
-     "comments": 56,
-     "collects": 491,
-     "shares": 231,
-     "title": "王者荣耀你还我温柔的竞男"
-    },
-    {
-     "likes": 2767,
-     "comments": 381,
-     "collects": 1041,
-     "shares": 1126,
-     "title": "好想也这样肆无忌惮的嘎嘎哒一次#蛋仔派对 #蛋仔派对全国总决赛 #无畏契约 #电"
-    }
-   ]
-  },
-  {
-   "industry": "影视综艺与音乐",
-   "term": "汪苏泷演唱会",
-   "posts": [
-    {
-     "likes": 35394,
-     "comments": 1211,
-     "collects": 2729,
-     "shares": 854,
-     "title": "此男对美食的开发程度恐在我之上"
-    },
-    {
-     "likes": 30906,
-     "comments": 710,
-     "collects": 1204,
-     "shares": 1719,
-     "title": "王俊凯：我不是来中餐厅当领导的吗？！"
-    },
-    {
-     "likes": 22143,
-     "comments": 2066,
-     "collects": 2581,
-     "shares": 8318,
-     "title": "职场遇到张雅琪，你能挺到第几关？"
-    },
-    {
-     "likes": 13132,
-     "comments": 129,
-     "collects": 935,
-     "shares": 160,
-     "title": "不管懂没懂，反正先OK"
-    },
-    {
-     "likes": 6312,
-     "comments": 49,
-     "collects": 1093,
-     "shares": 325,
-     "title": "这下出不去了 喜人奇妙夜 鹅滴神片"
-    }
-   ]
-  },
-  {
-   "industry": "影视综艺与音乐",
-   "term": "暑期综艺",
-   "posts": [
-    {
-     "likes": 35394,
-     "comments": 1211,
-     "collects": 2729,
-     "shares": 854,
-     "title": "此男对美食的开发程度恐在我之上"
-    },
-    {
-     "likes": 30906,
-     "comments": 710,
-     "collects": 1204,
-     "shares": 1719,
-     "title": "王俊凯：我不是来中餐厅当领导的吗？！"
-    },
-    {
-     "likes": 22143,
-     "comments": 2066,
-     "collects": 2581,
-     "shares": 8318,
-     "title": "职场遇到张雅琪，你能挺到第几关？"
-    },
-    {
-     "likes": 13132,
-     "comments": 129,
-     "collects": 935,
-     "shares": 160,
-     "title": "不管懂没懂，反正先OK"
-    },
-    {
-     "likes": 6312,
-     "comments": 49,
-     "collects": 1093,
-     "shares": 325,
-     "title": "这下出不去了 喜人奇妙夜 鹅滴神片"
-    }
-   ]
-  },
-  {
-   "industry": "酒水",
-   "term": "酒水新品",
-   "posts": [
-    {
-     "likes": 419,
-     "comments": 0,
-     "collects": 166,
-     "shares": 10,
-     "title": "卧槽！酒蒙子的选酒品味从未失手！！！"
-    },
-    {
-     "likes": 322,
-     "comments": 0,
-     "collects": 112,
-     "shares": 3,
-     "title": "我去！！本人选酒还从未摔过跤！！"
-    },
-    {
-     "likes": 320,
-     "comments": 118,
-     "collects": 48,
-     "shares": 872,
-     "title": ""
-    },
-    {
-     "likes": 254,
-     "comments": 47,
-     "collects": 13,
-     "shares": 43,
-     "title": "啊啊啊啊真的要来了嘛！！！田曦薇×RIO锐澳！"
-    },
-    {
-     "likes": 180,
-     "comments": 0,
-     "collects": 82,
-     "shares": 216,
-     "title": "小象超市青苹果果泥啤酒"
-    }
-   ]
-  },
-  {
-   "industry": "旅游与酒店",
-   "term": "青岛威海旅游",
-   "posts": [
-    {
-     "likes": 28529,
-     "comments": 1287,
-     "collects": 3930,
-     "shares": 3085,
-     "title": "美国穷人的超市，藏着中国20年前禁的东西"
-    },
-    {
-     "likes": 8754,
-     "comments": 147,
-     "collects": 1020,
-     "shares": 648,
-     "title": "胡志明不适合出片，但也不无聊"
-    },
-    {
-     "likes": 4986,
-     "comments": 752,
-     "collects": 3249,
-     "shares": 2149,
-     "title": "青岛有三个人不能死"
-    },
-    {
-     "likes": 5008,
-     "comments": 71,
-     "collects": 9085,
-     "shares": 2002,
-     "title": "青岛 威海 烟台📍地图版攻略来了！"
-    },
-    {
-     "likes": 4217,
-     "comments": 440,
-     "collects": 1636,
-     "shares": 3023,
-     "title": "哈密，不白来"
-    }
-   ]
-  },
-  {
-   "industry": "旅游与酒店",
-   "term": "东京酒店攻略",
-   "posts": [
-    {
-     "likes": 28529,
-     "comments": 1287,
-     "collects": 3930,
-     "shares": 3085,
-     "title": "美国穷人的超市，藏着中国20年前禁的东西"
-    },
-    {
-     "likes": 8754,
-     "comments": 147,
-     "collects": 1020,
-     "shares": 648,
-     "title": "胡志明不适合出片，但也不无聊"
-    },
-    {
-     "likes": 4986,
-     "comments": 752,
-     "collects": 3249,
-     "shares": 2149,
-     "title": "青岛有三个人不能死"
-    },
-    {
-     "likes": 5008,
-     "comments": 71,
-     "collects": 9085,
-     "shares": 2002,
-     "title": "青岛 威海 烟台📍地图版攻略来了！"
-    },
-    {
-     "likes": 4217,
-     "comments": 440,
-     "collects": 1636,
-     "shares": 3023,
-     "title": "哈密，不白来"
-    }
-   ]
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
    "industry": "宠物",
-   "term": "宠物好物",
-   "posts": [
-    {
-     "likes": 864,
-     "comments": 59,
-     "collects": 83,
-     "shares": 33,
-     "title": "小芒果当然要宠着来！"
-    },
-    {
-     "likes": 784,
-     "comments": 19,
-     "collects": 708,
-     "shares": 99,
-     "title": "小猫也有生日礼盒了吗！"
-    },
-    {
-     "likes": 632,
-     "comments": 464,
-     "collects": 623,
-     "shares": 273,
-     "title": "是哪家品牌亚宠展不用集赞就能薅羊毛！"
-    },
-    {
-     "likes": 601,
-     "comments": 50,
-     "collects": 259,
-     "shares": 8,
-     "title": "养猫刚需清单｜全套养护好物不踩雷✨"
-    },
-    {
-     "likes": 545,
-     "comments": 639,
-     "collects": 493,
-     "shares": 67,
-     "title": "🌷招募郁金香体验官｜咪速来报到"
-    }
-   ]
+   "term": "新手养猫",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
-   "industry": "餐饮与食品",
-   "term": "青岛美食探店",
-   "posts": [
-    {
-     "likes": 748,
-     "comments": 14,
-     "collects": 975,
-     "shares": 409,
-     "title": "东京真的太好吃了！！！（14家）"
-    },
-    {
-     "likes": 493,
-     "comments": 47,
-     "collects": 258,
-     "shares": 161,
-     "title": "长沙下高铁直奔的😭😭真比笨萝卜便宜好吃！！"
-    },
-    {
-     "likes": 359,
-     "comments": 93,
-     "collects": 352,
-     "shares": 212,
-     "title": "感谢何 老师🥹🥹逛完橘子洲直奔的好震撼！！！"
-    },
-    {
-     "likes": 335,
-     "comments": 39,
-     "collects": 219,
-     "shares": 364,
-     "title": "omg苏州中心你好吃到我了！"
-    },
-    {
-     "likes": 209,
-     "comments": 18,
-     "collects": 109,
-     "shares": 60,
-     "title": "南京新街口！！！不起眼但真正好吃的店！！！"
-    }
-   ]
+   "industry": "宠物",
+   "term": "猫咪冷知识",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
-   "industry": "餐饮与食品",
-   "term": "餐饮探店",
-   "posts": [
-    {
-     "likes": 748,
-     "comments": 14,
-     "collects": 975,
-     "shares": 409,
-     "title": "东京真的太好吃了！！！（14家）"
-    },
-    {
-     "likes": 493,
-     "comments": 47,
-     "collects": 258,
-     "shares": 161,
-     "title": "长沙下高铁直奔的😭😭真比笨萝卜便宜好吃！！"
-    },
-    {
-     "likes": 359,
-     "comments": 93,
-     "collects": 352,
-     "shares": 212,
-     "title": "感谢何 老师🥹🥹逛完橘子洲直奔的好震撼！！！"
-    },
-    {
-     "likes": 335,
-     "comments": 39,
-     "collects": 219,
-     "shares": 364,
-     "title": "omg苏州中心你好吃到我了！"
-    },
-    {
-     "likes": 209,
-     "comments": 18,
-     "collects": 109,
-     "shares": 60,
-     "title": "南京新街口！！！不起眼但真正好吃的店！！！"
-    }
-   ]
+   "industry": "游戏与电竞",
+   "term": "祁煜",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
-   "industry": "体育与户外",
-   "term": "体育健身",
-   "posts": [
-    {
-     "likes": 112552,
-     "comments": 692,
-     "collects": 132867,
-     "shares": 7481,
-     "title": ""
-    },
-    {
-     "likes": 27961,
-     "comments": 245,
-     "collects": 2648,
-     "shares": 4266,
-     "title": "两女孩比100米障碍跑，主打一个行云流水！"
-    },
-    {
-     "likes": 13847,
-     "comments": 244,
-     "collects": 23796,
-     "shares": 2648,
-     "title": "五个练习拯救你的腿部力量#腿部力量 #一个夏天能变多强 #提高身体控制力 #跑步"
-    },
-    {
-     "likes": 1393,
-     "comments": 35,
-     "collects": 345,
-     "shares": 48,
-     "title": "科普下 胸肌不发力时候 是软的"
-    },
-    {
-     "likes": 1368,
-     "comments": 56,
-     "collects": 72,
-     "shares": 28,
-     "title": "大二这身材可以吗"
-    }
-   ]
+   "industry": "游戏与电竞",
+   "term": "乙女游戏",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
-   "industry": "医疗服务与器械",
-   "term": "医疗服务",
-   "posts": [
-    {
-     "likes": 1050,
-     "comments": 488,
-     "collects": 246,
-     "shares": 186,
-     "title": "美国医院"
-    },
-    {
-     "likes": 450,
-     "comments": 58,
-     "collects": 310,
-     "shares": 282,
-     "title": "那批没进医院的医学生，去了字节跳动"
-    },
-    {
-     "likes": 238,
-     "comments": 91,
-     "collects": 275,
-     "shares": 237,
-     "title": "按摩医院皮肤科的新机器"
-    },
-    {
-     "likes": 125,
-     "comments": 25,
-     "collects": 104,
-     "shares": 1,
-     "title": "二胎感悟｜怀孕之后，才懂未雨绸缪有多重要"
-    },
-    {
-     "likes": 93,
-     "comments": 4,
-     "collects": 223,
-     "shares": 71,
-     "title": "8月乃至下半年，盯紧医药不动摇！"
-    }
-   ]
+   "industry": "旅游与酒店",
+   "term": "酒店维权",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
-   "industry": "服饰鞋包",
-   "term": "秋季穿搭",
-   "posts": [
-    {
-     "likes": 112251,
-     "comments": 1549,
-     "collects": 22595,
-     "shares": 3751,
-     "title": "换句话说这个世界还有一种西装..叫女人装"
-    },
-    {
-     "likes": 42793,
-     "comments": 548,
-     "collects": 14346,
-     "shares": 1188,
-     "title": "之前有好多美眉问我穿裙子怎么着来拍照。"
-    },
-    {
-     "likes": 33495,
-     "comments": 993,
-     "collects": 2600,
-     "shares": 662,
-     "title": "和doll感洛丽塔交朋友,打扮成洋娃娃...."
-    },
-    {
-     "likes": 32299,
-     "comments": 544,
-     "collects": 2733,
-     "shares": 221,
-     "title": "都说他眼光好 结果买上瘾啦"
-    },
-    {
-     "likes": 31512,
-     "comments": 230,
-     "collects": 2357,
-     "shares": 685,
-     "title": "爱私服！！！"
-    }
-   ]
+   "industry": "旅游与酒店",
+   "term": "旅行攻略",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
-   "industry": "本地生活与零售",
-   "term": "山姆新品",
-   "posts": [
-    {
-     "likes": 8091,
-     "comments": 134,
-     "collects": 629,
-     "shares": 508,
-     "title": "睡的坏端端的怎么好端端又馋山姆了呢"
-    },
-    {
-     "likes": 1514,
-     "comments": 35,
-     "collects": 361,
-     "shares": 17,
-     "title": "中女控卡自愈时刻🍊允许自己拥有一份健康甜"
-    },
-    {
-     "likes": 1246,
-     "comments": 49,
-     "collects": 545,
-     "shares": 6,
-     "title": "锁死这瓶山姆洗发水！油扁塌的命都是它给的"
-    },
-    {
-     "likes": 1194,
-     "comments": 58,
-     "collects": 538,
-     "shares": 4,
-     "title": "在山姆遇见了本命洗发水！"
-    },
-    {
-     "likes": 1168,
-     "comments": 50,
-     "collects": 522,
-     "shares": 5,
-     "title": "山姆新品！海飞丝你让我感到陌生"
-    }
-   ]
+   "industry": "家电与智能家居",
+   "term": "冰箱选购",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "家电与智能家居",
+   "term": "智能家电",
+   "cross_type": "keyword",
+   "post_type": "cross"
   },
   {
    "industry": "母婴与玩具",
-   "term": "母婴好物",
-   "posts": [
-    {
-     "likes": 6246,
-     "comments": 71,
-     "collects": 2539,
-     "shares": 76,
-     "title": "我真服了我老婆…他真是个购物奇才！#小月龄宝宝 #母婴好物 #防止宝宝掉下床 #"
-    },
-    {
-     "likes": 5594,
-     "comments": 34,
-     "collects": 2481,
-     "shares": 0,
-     "title": "为什么全港医生都推它？敏宝宝妈必看~"
-    },
-    {
-     "likes": 4420,
-     "comments": 459,
-     "collects": 1142,
-     "shares": 371,
-     "title": ""
-    },
-    {
-     "likes": 3030,
-     "comments": 140,
-     "collects": 1354,
-     "shares": 483,
-     "title": "有崽有狗家庭睡前内战终于结束了"
-    },
-    {
-     "likes": 2380,
-     "comments": 20,
-     "collects": 5079,
-     "shares": 1061,
-     "title": "0‑6 个月宝宝玩具避雷❗不用买一堆，这几"
-    }
-   ]
+   "term": "敏宝",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "母婴与玩具",
+   "term": "宝宝健康",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "餐饮与食品",
+   "term": "探店",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "餐饮与食品",
+   "term": "法式牛排",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "酒水",
+   "term": "七夕礼物",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "酒水",
+   "term": "纳帕",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "本地生活与零售",
+   "term": "胖东来模式",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "本地生活与零售",
+   "term": "即兴消费",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "体育与户外",
+   "term": "居家健身",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "体育与户外",
+   "term": "减脂瘦身",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "医疗服务与器械",
+   "term": "医疗检验",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "医疗服务与器械",
+   "term": "医保卡",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "服饰鞋包",
+   "term": "立秋穿搭",
+   "cross_type": "keyword",
+   "post_type": "cross"
+  },
+  {
+   "industry": "服饰鞋包",
+   "term": "早秋外套",
+   "cross_type": "keyword",
+   "post_type": "cross"
   }
  ],
  "signals": [
   {
-   "industry": "咖啡与茶饮",
-   "signal": "抹茶赛道升级：库迪\"翡翠镜面抹茶\"8月18日回归，主打不甜+镜面质感，引发重度抹茶用户复购讨论",
-   "evidence": "库迪抹茶升级相关帖子互动量居咖啡类前列"
-  },
-  {
-   "industry": "咖啡与茶饮",
-   "signal": "瑞幸×迪士尼反派联名周边热销，联名营销仍是茶饮拉新利器",
-   "evidence": "瑞幸反派双杯套餐周边笔记互动量高"
-  },
-  {
-   "industry": "美妆护肤",
-   "signal": "液体腮红成彩妆新增长点：NARS\"欲色无尽\"液体腮红一次上新11色，主打光泽感+气血感",
-   "evidence": "NARS液体腮红相关笔记互动量破万"
-  },
-  {
-   "industry": "美妆护肤",
-   "signal": "国货彩妆\"烤粉\"综合盘走红，诗佩妮等品牌用烤粉工艺替代传统粉质",
-   "evidence": "烤粉小饼入驻相关笔记互动量高"
+   "industry": "汽车与新能源",
+   "signal": "新能源汽车智能化配置成为种草核心卖点",
+   "evidence": "新能源汽车搜索热帖聚焦智能驾驶与配置体验"
   },
   {
    "industry": "软件与AI",
-   "signal": "AI应用侧热度外溢，从通用大模型转向垂直应用场景讨论",
-   "evidence": "AI应用相关笔记互动量居前列"
+   "signal": "国产大模型定价争议引发用户热议",
+   "evidence": "'不是，DS你凭什么卖这么贵啊'高互动"
   },
   {
-   "industry": "本地生活与零售",
-   "signal": "山姆会员店\"冷门好物\"种草笔记持续走热，仓储会员制零售仍具话题度",
-   "evidence": "山姆新品相关笔记互动量高"
+   "industry": "消费电子",
+   "signal": "折叠屏与9月新机发布预期升温",
+   "evidence": "苹果折叠屏、iPhone18 Pro价格曝光热帖"
   },
   {
-   "industry": "旅游与酒店",
-   "signal": "暑期尾声青岛/威海/烟台沿海城市攻略需求旺盛，地图版路线合集收藏量高",
-   "evidence": "青岛威海烟台地图版攻略收藏量近万"
+   "industry": "美妆护肤",
+   "signal": "韩系水光妆与平价开架好物持续走红",
+   "evidence": "淡颜换头韩系水光妆、oliveyoung好物"
   },
   {
-   "industry": "消费电子与智能硬件",
-   "signal": "开学季手机新品讨论升温，消费者关注性价比与影像",
-   "evidence": "手机新品相关笔记互动量高"
+   "industry": "咖啡与茶饮",
+   "signal": "瑞幸与古茗联名/季节新品成讨论焦点",
+   "evidence": "瑞幸经典泰奶、古茗苹果油柑美式"
   },
   {
    "industry": "宠物",
-   "signal": "宠物\"拟人化\"内容持续高热，宠物好物种草与萌宠剧情双轮驱动",
-   "evidence": "宠物好物相关笔记互动量高"
+   "signal": "宠物冷知识与情绪向内容互动极高",
+   "evidence": "猫咪成精、新手养猫冷知识高互动"
   },
   {
-   "industry": "餐饮与食品",
-   "signal": "地方小吃/老店探店笔记成为城市美食内容主力，青岛药膳鸡等老店话题破圈",
-   "evidence": "青岛凤鸣砂锅药膳鸡笔记互动量高"
+   "industry": "游戏与电竞",
+   "signal": "乙女向角色内容与互动展示热度高",
+   "evidence": "思念互动展示祁煜玄面昭昭"
+  },
+  {
+   "industry": "旅游与酒店",
+   "signal": "酒店价格纠纷与维权攻略受关注",
+   "evidence": "酒店坐地起价怎么办高互动"
+  },
+  {
+   "industry": "家电与智能家居",
+   "signal": "厨房大电选购与隐形美学受青睐",
+   "evidence": "冰箱这样选、厨房隐形美学"
+  },
+  {
+   "industry": "母婴与玩具",
+   "signal": "敏宝健康与宝宝营养关注度高",
+   "evidence": "全港医生都推敏宝宝"
+  },
+  {
+   "industry": "本地生活与零售",
+   "signal": "胖东来模式与即时消费讨论升温",
+   "evidence": "胖东来模式解析、谁杀了即兴消费"
+  },
+  {
+   "industry": "体育与户外",
+   "signal": "居家健身减脂内容持续高热",
+   "evidence": "居家健身减脂瘦身蜕变高互动"
+  },
+  {
+   "industry": "医疗服务与器械",
+   "signal": "医疗检验收费同检同价成政策热点",
+   "evidence": "全国一把尺医疗检验收费"
+  },
+  {
+   "industry": "服饰鞋包",
+   "signal": "立秋换季穿搭内容爆发",
+   "evidence": "立秋后的衣橱收藏8595"
   }
  ],
  "ideas": [
   {
-   "title": "抹茶\"不甜+品质感\"升级 → 功能食品口感心智",
-   "migration_to_health": "库迪抹茶以\"不甜、镜面、龙井43鲜叶\"建立品质心智。保健食品可借鉴\"低糖/无糖+原料溯源\"做口感差异化，尤其是软糖、粉剂类目，避免\"保健=难吃\"的刻板印象。",
-   "evidence": "库迪8.18翡翠镜面抹茶系列互动量居咖啡类前列"
+   "title": "咖啡茶饮控糖风潮",
+   "idea": "咖啡茶饮热帖中'测糖&热量'成为高频诉求，可迁移到保健品'控糖/轻体'场景，开发随餐控糖类口服产品",
+   "evidence": "Manner咖啡点单测糖&热量"
   },
   {
-   "title": "NARS液体腮红\"气血感\"卖点 → 内服焕肤的情绪表达",
-   "migration_to_health": "美妆用\"气血与光泽并存\"描述腮红效果，说明\"气血感\"是女性核心审美诉求。内服焕肤/补气血类产品可复用\"由内而外的气血感\"话术，把成分(铁/胶原)与视觉气色强绑定。",
-   "evidence": "NARS液体腮红笔记以\"气血与光泽并存\"走红"
+   "title": "AI软件打工人的久坐疲劳",
+   "idea": "AI/软件从业者久坐用脑场景可联动'护眼用脑+熬夜恢复'复合补充概念",
+   "evidence": "AI大模型讨论人群以职场久坐为主"
   },
   {
-   "title": "瑞幸×迪士尼反派联名 → 保健品的情绪化营销",
-   "migration_to_health": "茶饮联名\"反派\"完成情绪占位。保健品可跳出\"健康焦虑\"叙事，用\"叛逆养生/朋克养生\"等情绪化IP联名切入年轻人群，降低决策门槛。",
-   "evidence": "瑞幸反派双杯套餐周边笔记互动量高"
+   "title": "居家健身减脂",
+   "idea": "居家健身减脂热帖中'肚子胀气到腰线清晰'诉求，可迁移到'轻体控卡+肠道调理'益生菌/代餐产品",
+   "evidence": "坚持一个月从肚子胀气到腰线清晰"
   },
   {
-   "title": "\"冷门好物\"种草范式 → 保健品信任背书新路径",
-   "migration_to_health": "山姆/仓储会员店\"冷门好物\"种草依赖真实测评而非硬广。保健品可强化\"成分党实测+第三方检测\"内容，替代品牌自说自话，用真实数据建立信任。",
-   "evidence": "山姆冷门好物笔记互动量高"
+   "title": "敏宝营养焦虑",
+   "idea": "母婴敏宝内容提示'免疫防护+儿童肠道'细分机会，可强化儿童舒鼻/免疫类产品概念",
+   "evidence": "全港医生都推敏宝宝"
   },
   {
-   "title": "沿海旅游攻略的\"地图版合集\" → 保健品场景化内容组织",
-   "migration_to_health": "旅游攻略用\"地图版/路线合集\"降低决策成本。保健品可做\"人群×场景×成分\"的选购地图，把分散的种草内容结构化为可收藏的决策工具。",
-   "evidence": "青岛威海烟台地图版攻略收藏量近万"
+   "title": "熬夜咖啡依赖",
+   "idea": "咖啡茶饮与熬夜场景叠加，可推出'熬夜恢复+提神'的复配护肝/提代产品",
+   "evidence": "瑞幸泰奶、熬夜人特调"
   },
   {
-   "title": "宠物拟人化内容热 → 宠物保健品的拟人化沟通",
-   "migration_to_health": "宠物内容拟人化趋势明显。宠物保健/营养品可用\"宠物也是家人\"的情感叙事，结合真实喂养场景做内容，降低科普的枯燥感。",
-   "evidence": "宠物好物与萌宠剧情内容互动量高"
+   "title": "宠物经济的情感陪伴",
+   "idea": "宠物高互动情绪内容提示'情绪压力'场景可延伸至养宠人群的助眠/舒缓产品",
+   "evidence": "猫咪成精高互动"
   },
   {
-   "title": "AI应用从通用到垂直 → 个性化营养推荐的机会",
-   "migration_to_health": "AI热度从通用模型转向垂直应用，提示个性化营养/健康管理是AI落地场景。保健品可探索\"AI成分搭配建议+真人营养师复核\"的差异化服务。",
-   "evidence": "AI应用相关笔记互动量居前列"
+   "title": "游戏电竞用眼",
+   "idea": "游戏电竞人群长时间用眼可联动'护眼用脑'叶黄素/玉米黄质产品",
+   "evidence": "游戏互动展示高热度"
   },
   {
-   "title": "开学季\"护眼/补脑\"刚需 → 儿童保健品的季节性营销",
-   "migration_to_health": "消费电子开学季讨论升温，家长护眼/补脑焦虑同步走高。儿童叶黄素、DHA、PS类产品可在开学季做\"用眼/用脑负荷\"的场景化营销。",
-   "evidence": "手机新品/开学季相关笔记互动量高；儿童叶黄素、DHA帖评论活跃"
+   "title": "旅游出行免疫力",
+   "idea": "旅游/酒店人群换季出行可联动'免疫防护'维C/乳铁蛋白便携装",
+   "evidence": "旅游酒店攻略高互动"
+  },
+  {
+   "title": "家电宅家养生",
+   "idea": "家电宅家场景可联动'基础补充'家庭装复合维生素概念",
+   "evidence": "厨房隐形美学、冰箱选购"
+  },
+  {
+   "title": "医疗服务健康焦虑",
+   "idea": "医疗服务收费透明化引发健康焦虑，可强化'基础补充+心血管养护'家庭健康组合",
+   "evidence": "医疗检验收费同检同价"
+  },
+  {
+   "title": "立秋换季穿搭的身材管理",
+   "idea": "服饰立秋穿搭的显瘦诉求可迁移到'轻体控卡+内服焕肤'产品",
+   "evidence": "立秋后的衣橱收藏8595"
+  },
+  {
+   "title": "酒水送礼的养肝需求",
+   "idea": "酒水七夕送礼场景可联动'护肝+解酒'产品概念",
+   "evidence": "七夕送crush礼物"
   }
  ]
 }
